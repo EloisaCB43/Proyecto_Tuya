@@ -1,0 +1,4001 @@
+id_cliente,campaña,fecha_envio,canal,abrio,clic,desembolso_libre_destino
+393,Tarjeta Activa,2026-01-05,Email,1,1,0
+4877,Extracupo,2026-01-26,WhatsApp,1,1,0
+3208,Libre Destino,2026-04-20,Email,1,1,0
+4895,Libre Destino,2026-02-15,SMS,1,1,0
+2078,Libre Destino,2026-04-25,SMS,1,1,0
+2743,Extracupo,2026-06-16,Email,1,1,0
+2567,Tarjeta Activa,2026-01-14,SMS,1,1,0
+1379,Tarjeta Activa,2026-02-05,no_especificada,1,1,0
+2138,Tarjeta Activa,2026-05-08,Email,1,1,0
+1856,Extracupo,2026-01-02,SMS,1,1,26346661
+1264,Extracupo,2026-05-16,SMS,1,1,0
+2967,Libre Destino,2026-04-02,SMS,1,1,6367594
+4017,Libre Destino,2026-04-05,Email,1,1,0
+1328,Extracupo,2026-09-02,SMS,1,1,0
+810,Tarjeta Activa,2026-02-19,SMS,1,1,0
+1235,Libre Destino,2026-06-04,SMS,1,1,9248130
+1876,Libre Destino,2026-05-20,SMS,1,1,0
+2328,Tarjeta Activa,2026-07-15,WhatsApp,1,1,12315822
+2778,Tarjeta Activa,2026-06-22,Email,1,1,22771051
+1625,Extracupo,2026-07-12,no_especificada,1,1,0
+1445,Extracupo,2026-08-04,WhatsApp,1,1,14070950
+3704,Libre Destino,2026-06-07,no_especificada,1,1,0
+3030,Libre Destino,2026-09-24,SMS,1,1,0
+2601,Tarjeta Activa,2026-03-24,SMS,1,1,0
+590,Extracupo,2026-02-18,SMS,1,1,0
+1770,Tarjeta Activa,2026-03-11,Email,1,1,0
+2320,Extracupo,2026-07-19,Email,1,1,0
+2997,Extracupo,2026-05-18,no_especificada,1,1,0
+4273,Tarjeta Activa,2026-04-12,WhatsApp,1,1,4151127
+3494,Tarjeta Activa,2026-08-18,SMS,1,1,0
+111,Tarjeta Activa,2026-05-07,WhatsApp,1,1,0
+4888,Tarjeta Activa,2026-07-03,WhatsApp,1,1,0
+3671,Tarjeta Activa,2026-01-15,Email,1,1,0
+3832,Libre Destino,2026-04-28,WhatsApp,1,1,16047529
+2984,Extracupo,2026-06-16,Email,1,1,0
+3975,Tarjeta Activa,2026-03-15,Email,1,1,0
+356,Extracupo,2026-05-12,WhatsApp,1,1,0
+751,Libre Destino,2026-07-22,WhatsApp,1,1,20374046
+2968,Tarjeta Activa,2026-07-25,Email,1,1,0
+3238,Extracupo,2026-01-06,Email,1,1,0
+3900,Tarjeta Activa,2026-08-17,SMS,1,1,0
+270,Tarjeta Activa,2026-05-22,no_especificada,1,1,0
+3119,Tarjeta Activa,2026-06-26,WhatsApp,1,1,0
+2127,Libre Destino,2026-02-19,WhatsApp,1,1,0
+4172,Libre Destino,2026-03-28,no_especificada,1,1,0
+325,Extracupo,2026-03-01,Email,1,1,0
+1566,Extracupo,2026-07-13,WhatsApp,1,1,0
+4951,Tarjeta Activa,2026-02-22,no_especificada,1,1,0
+2276,Extracupo,2026-02-05,Email,1,1,0
+3529,Tarjeta Activa,2026-09-12,no_especificada,1,1,0
+4305,Extracupo,2026-02-18,no_especificada,1,0,0
+493,Tarjeta Activa,2026-04-15,Email,1,0,0
+2255,Libre Destino,2026-09-15,no_especificada,1,1,0
+1025,Extracupo,2026-06-17,SMS,0,0,0
+3169,Extracupo,2026-01-05,WhatsApp,0,0,0
+1267,Tarjeta Activa,2026-06-09,no_especificada,1,1,22978886
+1881,Libre Destino,2026-01-21,WhatsApp,0,0,2743062
+2033,Tarjeta Activa,2026-08-15,no_especificada,1,0,0
+1457,Extracupo,2026-08-20,no_especificada,1,1,0
+2790,Libre Destino,2026-03-27,no_especificada,1,0,0
+951,Libre Destino,2026-04-17,no_especificada,0,0,0
+4732,Libre Destino,2026-02-13,SMS,1,1,0
+344,Libre Destino,2026-07-17,Email,1,1,22485749
+3914,Libre Destino,2026-09-23,Email,1,0,0
+3030,Extracupo,2026-07-03,WhatsApp,0,0,0
+1754,Extracupo,2026-01-17,Email,1,0,0
+69,Tarjeta Activa,2026-09-28,WhatsApp,1,1,0
+2818,Tarjeta Activa,2026-04-21,no_especificada,1,0,0
+2655,Tarjeta Activa,2026-06-03,WhatsApp,1,1,0
+2872,Extracupo,2026-05-03,Email,1,0,0
+1655,Libre Destino,2026-05-19,SMS,1,0,0
+4988,Tarjeta Activa,2026-02-28,WhatsApp,0,0,0
+49,Extracupo,2026-04-28,no_especificada,1,1,0
+1466,Libre Destino,2026-07-18,SMS,0,0,0
+856,Libre Destino,2026-02-17,WhatsApp,1,0,0
+127,Extracupo,2026-04-25,Email,1,1,0
+1839,Tarjeta Activa,2026-09-11,Email,0,0,0
+1749,Libre Destino,2026-06-15,Email,1,1,0
+2887,Libre Destino,2026-09-24,SMS,1,1,0
+305,Extracupo,2026-06-25,WhatsApp,0,0,0
+2403,Extracupo,2026-06-14,Email,0,0,21176253
+2701,Extracupo,2026-06-11,Email,1,1,0
+4477,Tarjeta Activa,2026-01-01,SMS,1,1,0
+3969,Libre Destino,2026-06-25,no_especificada,1,1,0
+1257,Libre Destino,2026-07-06,SMS,1,0,0
+815,Libre Destino,2026-09-28,SMS,1,1,0
+625,Libre Destino,2026-01-06,WhatsApp,1,0,2800710
+3985,Tarjeta Activa,2026-02-05,Email,0,0,0
+1656,Libre Destino,2026-02-24,WhatsApp,0,0,0
+1692,Extracupo,2026-09-20,no_especificada,1,1,0
+2168,Tarjeta Activa,2026-04-17,WhatsApp,1,0,0
+1701,Libre Destino,2026-02-07,Email,1,0,0
+3573,Tarjeta Activa,2026-05-26,WhatsApp,1,0,0
+1098,Libre Destino,2026-02-22,Email,1,0,12484615
+4654,Tarjeta Activa,2026-07-12,WhatsApp,1,1,0
+1868,Tarjeta Activa,2026-04-03,WhatsApp,1,1,18724991
+722,Libre Destino,2026-09-06,no_especificada,1,1,0
+1209,Tarjeta Activa,2026-07-21,no_especificada,1,0,0
+2299,Libre Destino,2026-07-03,WhatsApp,1,0,0
+387,Libre Destino,2026-03-12,SMS,0,0,0
+81,Libre Destino,2026-01-12,Email,1,0,0
+2752,Libre Destino,2026-04-15,no_especificada,1,1,0
+3181,Libre Destino,2026-05-20,SMS,0,0,0
+3573,Libre Destino,2026-02-21,SMS,1,0,0
+4287,Extracupo,2026-08-09,no_especificada,0,0,0
+2970,Tarjeta Activa,2026-02-28,SMS,0,0,0
+3700,Extracupo,2026-03-21,Email,1,0,0
+4070,Tarjeta Activa,2026-05-08,no_especificada,0,0,24502109
+4580,Tarjeta Activa,2026-02-26,SMS,1,1,0
+3131,Tarjeta Activa,2026-02-20,no_especificada,1,0,0
+2256,Libre Destino,2026-08-02,WhatsApp,1,0,0
+2103,Libre Destino,2026-01-04,WhatsApp,0,0,0
+4695,Tarjeta Activa,2026-01-17,WhatsApp,1,0,0
+374,Libre Destino,2026-04-06,Email,0,0,0
+4727,Extracupo,2026-03-02,SMS,0,0,1677224
+3740,Libre Destino,2026-01-16,Email,1,0,0
+3158,Libre Destino,2026-02-08,no_especificada,0,0,0
+3647,Tarjeta Activa,2026-05-06,no_especificada,1,1,27500618
+1717,Libre Destino,2026-01-02,WhatsApp,1,1,16933885
+2019,Extracupo,2026-09-07,WhatsApp,1,0,0
+1505,Tarjeta Activa,2026-01-21,WhatsApp,1,1,0
+4895,Extracupo,2026-02-08,WhatsApp,1,1,0
+4584,Extracupo,2026-02-23,Email,1,0,26693128
+4759,Tarjeta Activa,2026-01-10,WhatsApp,1,1,0
+3102,Libre Destino,2026-06-09,no_especificada,1,0,0
+4039,Tarjeta Activa,2026-07-22,Email,1,1,0
+3057,Tarjeta Activa,2026-05-14,no_especificada,0,0,0
+2320,Extracupo,2026-04-06,WhatsApp,1,0,0
+3441,Libre Destino,2026-01-02,SMS,1,1,27097625
+2252,Tarjeta Activa,2026-03-12,Email,1,0,0
+3439,Tarjeta Activa,2026-05-02,SMS,0,0,0
+2995,Extracupo,2026-02-18,Email,1,1,0
+1662,Libre Destino,2026-05-01,Email,0,0,0
+1836,Libre Destino,2026-01-01,Email,1,1,0
+2844,Extracupo,2026-07-16,Email,1,1,0
+3634,Libre Destino,2026-06-18,WhatsApp,1,1,0
+4464,Extracupo,2026-07-26,WhatsApp,0,0,0
+3185,Libre Destino,2026-01-12,no_especificada,1,1,0
+2593,Tarjeta Activa,2026-08-10,SMS,0,0,0
+3669,Extracupo,2026-04-25,no_especificada,0,0,0
+2190,Extracupo,2026-02-20,WhatsApp,0,0,5753256
+1906,Tarjeta Activa,2026-03-26,SMS,0,0,0
+4916,Tarjeta Activa,2026-03-17,SMS,0,0,0
+292,Libre Destino,2026-08-15,Email,0,0,10334646
+361,Libre Destino,2026-05-10,no_especificada,1,1,0
+2727,Extracupo,2026-03-27,SMS,1,1,0
+4755,Tarjeta Activa,2026-09-01,Email,0,0,0
+3395,Tarjeta Activa,2026-02-28,WhatsApp,1,1,0
+4294,Libre Destino,2026-06-12,Email,0,0,0
+4830,Tarjeta Activa,2026-09-03,Email,1,1,0
+2043,Tarjeta Activa,2026-09-21,Email,1,1,0
+1051,Tarjeta Activa,2026-07-01,WhatsApp,1,1,0
+483,Extracupo,2026-06-01,no_especificada,1,1,0
+3711,Extracupo,2026-09-22,WhatsApp,0,0,0
+384,Libre Destino,2026-01-19,Email,1,1,0
+3295,Libre Destino,2026-09-24,SMS,1,1,0
+4877,Tarjeta Activa,2026-07-15,no_especificada,1,1,0
+4873,Tarjeta Activa,2026-05-15,no_especificada,1,1,0
+1806,Extracupo,2026-05-25,WhatsApp,1,0,0
+2560,Extracupo,2026-07-20,no_especificada,1,0,0
+711,Extracupo,2026-08-04,WhatsApp,0,0,14111844
+2548,Tarjeta Activa,2026-09-09,Email,1,1,5631394
+679,Libre Destino,2026-09-08,WhatsApp,1,1,0
+798,Libre Destino,2026-09-08,no_especificada,0,0,0
+4649,Extracupo,2026-09-11,WhatsApp,1,0,0
+2520,Tarjeta Activa,2026-05-14,no_especificada,1,1,0
+2584,Tarjeta Activa,2026-04-02,no_especificada,0,0,0
+3809,Libre Destino,2026-07-15,WhatsApp,1,1,0
+673,Libre Destino,2026-07-26,WhatsApp,0,0,0
+2617,Tarjeta Activa,2026-02-20,Email,1,1,0
+1147,Tarjeta Activa,2026-03-12,no_especificada,1,1,0
+1605,Libre Destino,2026-05-16,WhatsApp,1,1,0
+2820,Extracupo,2026-09-01,SMS,0,0,21634643
+1170,Tarjeta Activa,2026-09-24,WhatsApp,0,0,0
+1992,Tarjeta Activa,2026-09-08,Email,0,0,0
+205,Extracupo,2026-09-05,WhatsApp,1,0,0
+660,Extracupo,2026-09-08,SMS,1,1,0
+215,Extracupo,2026-07-26,SMS,0,0,10135302
+4001,Extracupo,2026-09-06,WhatsApp,1,0,0
+2938,Extracupo,2026-02-15,WhatsApp,1,1,0
+3525,Libre Destino,2026-09-12,SMS,1,1,0
+2845,Extracupo,2026-04-22,Email,1,1,0
+4478,Extracupo,2026-08-27,Email,1,0,0
+4939,Extracupo,2026-05-11,SMS,1,1,0
+3281,Tarjeta Activa,2026-03-17,Email,1,1,0
+2211,Tarjeta Activa,2026-03-21,WhatsApp,1,1,18818860
+3630,Tarjeta Activa,2026-02-22,SMS,1,1,0
+2911,Extracupo,2026-02-26,Email,1,0,0
+3832,Tarjeta Activa,2026-07-01,no_especificada,1,1,0
+143,Tarjeta Activa,2026-09-11,SMS,1,0,0
+3997,Extracupo,2026-02-04,no_especificada,1,1,0
+1524,Tarjeta Activa,2026-09-09,WhatsApp,1,1,0
+4261,Extracupo,2026-01-28,Email,1,1,0
+3499,Extracupo,2026-05-02,WhatsApp,1,1,0
+2877,Tarjeta Activa,2026-04-26,SMS,1,1,0
+643,Libre Destino,2026-09-26,SMS,1,1,8494474
+590,Extracupo,2026-02-19,SMS,1,1,0
+2483,Libre Destino,2026-02-26,Email,1,1,29927564
+1494,Tarjeta Activa,2026-01-09,SMS,0,0,0
+430,Extracupo,2026-06-08,SMS,0,0,0
+1496,Tarjeta Activa,2026-08-17,no_especificada,1,0,0
+2336,Libre Destino,2026-06-08,Email,1,1,0
+11,Extracupo,2026-04-15,WhatsApp,1,1,0
+3841,Libre Destino,2026-02-05,Email,0,0,0
+1563,Tarjeta Activa,2026-09-15,Email,0,0,0
+2803,Tarjeta Activa,2026-04-03,WhatsApp,1,1,0
+1159,Extracupo,2026-05-06,SMS,1,1,8410971
+4520,Tarjeta Activa,2026-04-12,no_especificada,1,1,0
+3357,Extracupo,2026-02-13,Email,1,0,0
+736,Libre Destino,2026-08-08,WhatsApp,1,1,0
+1217,Libre Destino,2026-09-12,Email,0,0,0
+2583,Extracupo,2026-08-05,SMS,1,1,0
+1616,Libre Destino,2026-06-22,Email,1,1,0
+1014,Libre Destino,2026-06-15,WhatsApp,1,1,0
+1541,Tarjeta Activa,2026-03-27,no_especificada,1,1,0
+3408,Tarjeta Activa,2026-08-08,Email,1,1,0
+596,Extracupo,2026-01-01,no_especificada,1,0,0
+910,Tarjeta Activa,2026-05-23,no_especificada,1,0,0
+1414,Extracupo,2026-04-10,SMS,1,1,0
+4441,Libre Destino,2026-01-25,Email,1,0,0
+3552,Tarjeta Activa,2026-04-19,WhatsApp,0,0,0
+2590,Libre Destino,2026-05-06,WhatsApp,1,0,0
+1675,Tarjeta Activa,2026-04-22,WhatsApp,1,0,23897828
+335,Extracupo,2026-06-10,WhatsApp,0,0,0
+892,Libre Destino,2026-09-17,Email,0,0,0
+3825,Tarjeta Activa,2026-08-07,WhatsApp,1,0,29705257
+3407,Libre Destino,2026-04-10,no_especificada,1,0,0
+3001,Libre Destino,2026-08-07,no_especificada,0,0,0
+327,Extracupo,2026-07-15,Email,0,0,0
+3801,Libre Destino,2026-03-10,no_especificada,1,1,5761160
+3830,Tarjeta Activa,2026-01-28,WhatsApp,1,0,0
+3540,Libre Destino,2026-02-21,WhatsApp,1,1,0
+3528,Tarjeta Activa,2026-08-04,Email,0,0,0
+2153,Extracupo,2026-01-20,no_especificada,1,1,0
+500,Extracupo,2026-09-21,no_especificada,1,0,0
+1956,Libre Destino,2026-07-19,no_especificada,0,0,0
+3582,Libre Destino,2026-01-02,Email,1,0,0
+1787,Libre Destino,2026-06-05,Email,1,1,16590642
+129,Extracupo,2026-06-21,SMS,1,0,0
+1819,Extracupo,2026-07-26,WhatsApp,1,1,26901112
+1891,Tarjeta Activa,2026-07-26,SMS,1,0,0
+2299,Tarjeta Activa,2026-03-05,no_especificada,1,1,0
+3311,Libre Destino,2026-04-09,no_especificada,1,0,0
+4127,Tarjeta Activa,2026-06-10,WhatsApp,0,0,0
+2838,Extracupo,2026-01-20,Email,1,1,0
+4389,Extracupo,2026-05-22,Email,1,1,0
+2210,Extracupo,2026-02-13,Email,1,1,0
+3987,Libre Destino,2026-09-15,no_especificada,0,0,0
+2028,Tarjeta Activa,2026-09-19,WhatsApp,1,0,0
+4936,Libre Destino,2026-04-08,no_especificada,1,0,0
+4697,Tarjeta Activa,2026-08-11,no_especificada,1,1,0
+3465,Libre Destino,2026-05-25,WhatsApp,1,1,0
+92,Extracupo,2026-06-05,WhatsApp,0,0,0
+3115,Libre Destino,2026-06-04,Email,1,1,0
+4779,Extracupo,2026-05-16,no_especificada,1,1,0
+3336,Extracupo,2026-04-18,Email,0,0,0
+3631,Extracupo,2026-08-20,Email,1,1,0
+751,Tarjeta Activa,2026-07-01,Email,1,0,0
+1704,Extracupo,2026-04-19,no_especificada,1,0,0
+4479,Tarjeta Activa,2026-07-25,no_especificada,1,0,0
+744,Extracupo,2026-02-14,Email,1,1,0
+4158,Tarjeta Activa,2026-04-10,WhatsApp,1,1,0
+2306,Libre Destino,2026-05-13,Email,1,0,0
+4330,Tarjeta Activa,2026-09-28,SMS,1,1,10210657
+2226,Libre Destino,2026-04-26,SMS,0,0,0
+3223,Libre Destino,2026-01-27,Email,1,1,0
+2612,Tarjeta Activa,2026-09-19,WhatsApp,1,1,0
+1648,Extracupo,2026-08-24,WhatsApp,1,1,0
+1130,Tarjeta Activa,2026-05-11,no_especificada,0,0,0
+2540,Extracupo,2026-05-02,Email,1,1,0
+4532,Extracupo,2026-03-21,no_especificada,0,0,0
+818,Libre Destino,2026-02-14,WhatsApp,1,1,0
+3116,Libre Destino,2026-03-04,Email,0,0,0
+302,Libre Destino,2026-08-09,no_especificada,0,0,0
+489,Tarjeta Activa,2026-03-11,Email,1,0,0
+3785,Libre Destino,2026-06-13,WhatsApp,1,1,0
+869,Extracupo,2026-04-15,no_especificada,0,0,0
+1330,Extracupo,2026-03-19,no_especificada,1,0,0
+1114,Extracupo,2026-02-09,no_especificada,0,0,0
+47,Tarjeta Activa,2026-04-21,SMS,1,1,0
+488,Libre Destino,2026-09-16,SMS,1,0,0
+2425,Extracupo,2026-05-12,WhatsApp,1,1,0
+2412,Tarjeta Activa,2026-05-27,Email,1,1,0
+4875,Extracupo,2026-08-26,WhatsApp,1,1,0
+1988,Extracupo,2026-04-17,no_especificada,1,1,0
+2105,Extracupo,2026-01-12,WhatsApp,1,0,16349503
+182,Extracupo,2026-05-02,SMS,1,1,0
+4982,Extracupo,2026-09-07,WhatsApp,1,0,0
+2214,Libre Destino,2026-09-19,WhatsApp,1,1,0
+3415,Extracupo,2026-04-02,no_especificada,1,1,1191283
+518,Extracupo,2026-03-11,no_especificada,1,0,0
+4154,Tarjeta Activa,2026-06-04,SMS,1,1,0
+3754,Tarjeta Activa,2026-04-10,Email,1,1,0
+4505,Tarjeta Activa,2026-09-05,Email,1,1,17399586
+656,Libre Destino,2026-05-07,no_especificada,1,1,0
+287,Libre Destino,2026-09-24,SMS,1,1,0
+2700,Libre Destino,2026-07-05,WhatsApp,1,1,0
+4048,Tarjeta Activa,2026-04-01,WhatsApp,1,1,0
+2308,Libre Destino,2026-09-18,no_especificada,1,0,0
+2463,Extracupo,2026-06-21,no_especificada,1,1,0
+604,Extracupo,2026-01-11,SMS,1,1,0
+2810,Tarjeta Activa,2026-02-19,WhatsApp,0,0,0
+2156,Extracupo,2026-07-04,WhatsApp,0,0,0
+4842,Extracupo,2026-04-15,Email,0,0,5837324
+1784,Libre Destino,2026-06-01,SMS,1,0,0
+4366,Tarjeta Activa,2026-03-14,SMS,1,1,0
+2408,Tarjeta Activa,2026-09-15,no_especificada,1,0,0
+722,Tarjeta Activa,2026-08-11,WhatsApp,0,0,0
+1739,Libre Destino,2026-03-20,SMS,1,1,14447762
+4247,Libre Destino,2026-07-19,no_especificada,1,1,0
+1729,Extracupo,2026-04-04,WhatsApp,1,1,0
+468,Libre Destino,2026-04-03,Email,0,0,3065373
+1464,Libre Destino,2026-02-05,no_especificada,1,1,0
+3131,Libre Destino,2026-08-20,no_especificada,1,0,0
+745,Extracupo,2026-08-27,no_especificada,1,0,28045339
+2901,Libre Destino,2026-09-01,SMS,1,1,0
+2015,Tarjeta Activa,2026-04-16,no_especificada,1,1,0
+4182,Tarjeta Activa,2026-01-08,SMS,1,0,0
+583,Libre Destino,2026-09-23,SMS,1,0,0
+2164,Extracupo,2026-09-13,WhatsApp,1,1,0
+3078,Libre Destino,2026-03-18,no_especificada,1,1,0
+2475,Tarjeta Activa,2026-01-11,WhatsApp,0,0,0
+4259,Tarjeta Activa,2026-02-26,SMS,1,1,0
+3141,Tarjeta Activa,2026-04-16,WhatsApp,1,0,0
+866,Libre Destino,2026-03-17,WhatsApp,1,0,0
+2733,Libre Destino,2026-08-18,SMS,0,0,0
+4192,Extracupo,2026-01-21,SMS,1,0,0
+2996,Libre Destino,2026-09-22,SMS,0,0,0
+807,Tarjeta Activa,2026-07-04,no_especificada,0,0,0
+402,Tarjeta Activa,2026-04-01,SMS,1,1,0
+3569,Libre Destino,2026-09-21,Email,0,0,0
+1227,Extracupo,2026-08-24,SMS,1,1,0
+4755,Extracupo,2026-04-18,no_especificada,0,0,0
+255,Libre Destino,2026-05-05,Email,1,0,0
+3917,Extracupo,2026-01-08,Email,1,1,7204806
+154,Tarjeta Activa,2026-04-07,SMS,1,1,0
+3739,Libre Destino,2026-06-17,Email,1,1,0
+3527,Tarjeta Activa,2026-07-20,SMS,1,0,0
+3427,Extracupo,2026-05-13,no_especificada,1,1,13474722
+4318,Extracupo,2026-07-07,Email,1,1,0
+1790,Tarjeta Activa,2026-02-03,WhatsApp,0,0,0
+579,Libre Destino,2026-06-08,no_especificada,0,0,7662082
+2599,Libre Destino,2026-06-08,Email,1,0,0
+1127,Extracupo,2026-08-16,no_especificada,1,0,0
+2328,Extracupo,2026-07-23,no_especificada,1,1,0
+2941,Tarjeta Activa,2026-04-20,no_especificada,1,1,0
+2205,Extracupo,2026-06-01,Email,1,0,0
+2273,Extracupo,2026-03-14,no_especificada,1,0,0
+2461,Tarjeta Activa,2026-05-22,SMS,0,0,28412898
+2808,Extracupo,2026-02-28,no_especificada,0,0,7736610
+3517,Tarjeta Activa,2026-05-22,SMS,1,1,0
+1507,Tarjeta Activa,2026-08-01,WhatsApp,1,1,26265182
+4332,Tarjeta Activa,2026-06-28,no_especificada,1,0,0
+4431,Extracupo,2026-02-10,WhatsApp,1,1,0
+167,Tarjeta Activa,2026-09-01,SMS,1,1,0
+2234,Tarjeta Activa,2026-09-18,WhatsApp,1,0,0
+4841,Tarjeta Activa,2026-02-17,WhatsApp,1,0,0
+1839,Tarjeta Activa,2026-02-18,Email,1,1,0
+4540,Tarjeta Activa,2026-09-03,SMS,1,1,0
+4975,Tarjeta Activa,2026-09-04,WhatsApp,1,1,10451468
+75,Tarjeta Activa,2026-03-02,no_especificada,1,1,26984882
+2197,Libre Destino,2026-02-23,SMS,1,1,0
+1417,Extracupo,2026-09-02,no_especificada,1,0,0
+3540,Tarjeta Activa,2026-05-07,WhatsApp,1,0,4127617
+2530,Tarjeta Activa,2026-08-19,no_especificada,1,1,0
+4745,Extracupo,2026-01-27,WhatsApp,1,1,0
+247,Libre Destino,2026-05-23,Email,0,0,0
+933,Tarjeta Activa,2026-03-26,SMS,1,1,0
+2715,Extracupo,2026-07-16,WhatsApp,0,0,0
+3245,Tarjeta Activa,2026-03-02,no_especificada,0,0,0
+4307,Extracupo,2026-03-03,no_especificada,1,0,0
+4322,Tarjeta Activa,2026-04-02,no_especificada,1,0,27565605
+4767,Libre Destino,2026-08-05,WhatsApp,0,0,0
+4398,Tarjeta Activa,2026-08-17,Email,1,1,0
+1738,Libre Destino,2026-04-01,Email,0,0,0
+2254,Extracupo,2026-02-12,no_especificada,0,0,0
+2973,Libre Destino,2026-09-13,no_especificada,0,0,0
+520,Extracupo,2026-06-26,no_especificada,0,0,0
+1058,Tarjeta Activa,2026-09-21,WhatsApp,1,0,0
+2526,Extracupo,2026-08-24,WhatsApp,1,1,0
+4754,Libre Destino,2026-04-16,no_especificada,1,1,0
+3924,Extracupo,2026-01-12,Email,1,1,0
+4803,Tarjeta Activa,2026-07-09,SMS,1,0,0
+201,Tarjeta Activa,2026-06-11,no_especificada,0,0,10402481
+4568,Extracupo,2026-01-03,WhatsApp,0,0,0
+2760,Extracupo,2026-01-24,WhatsApp,1,1,0
+449,Extracupo,2026-05-03,WhatsApp,1,1,0
+3707,Libre Destino,2026-07-09,SMS,1,1,0
+209,Libre Destino,2026-02-23,WhatsApp,1,1,0
+2688,Tarjeta Activa,2026-06-09,no_especificada,1,1,0
+1322,Libre Destino,2026-04-02,SMS,1,1,0
+4703,Extracupo,2026-02-23,WhatsApp,1,0,12573148
+3009,Tarjeta Activa,2026-06-10,WhatsApp,1,0,0
+4039,Extracupo,2026-05-15,WhatsApp,1,1,0
+3060,Libre Destino,2026-06-14,no_especificada,1,1,2476572
+3913,Libre Destino,2026-07-19,WhatsApp,0,0,0
+3452,Extracupo,2026-09-13,WhatsApp,1,0,0
+1563,Tarjeta Activa,2026-04-09,WhatsApp,0,0,0
+4464,Libre Destino,2026-06-22,WhatsApp,0,0,0
+439,Tarjeta Activa,2026-02-26,WhatsApp,1,0,0
+1100,Extracupo,2026-03-18,Email,1,0,0
+3894,Libre Destino,2026-02-11,SMS,1,1,0
+281,Libre Destino,2026-06-23,no_especificada,0,0,0
+1455,Libre Destino,2026-02-16,no_especificada,1,1,0
+4152,Libre Destino,2026-08-23,WhatsApp,1,1,0
+1352,Libre Destino,2026-08-28,Email,0,0,10043133
+245,Extracupo,2026-06-18,Email,1,0,0
+2770,Tarjeta Activa,2026-03-06,no_especificada,1,1,0
+760,Extracupo,2026-05-05,no_especificada,1,1,0
+898,Libre Destino,2026-08-01,WhatsApp,1,0,0
+2758,Libre Destino,2026-04-23,SMS,1,0,0
+490,Extracupo,2026-02-21,no_especificada,1,1,0
+2868,Libre Destino,2026-09-10,Email,1,0,0
+2079,Tarjeta Activa,2026-03-17,SMS,1,1,14479322
+1962,Libre Destino,2026-09-11,no_especificada,1,0,0
+4457,Extracupo,2026-02-27,WhatsApp,1,0,0
+4094,Libre Destino,2026-06-15,WhatsApp,0,0,0
+500,Extracupo,2026-04-05,no_especificada,1,1,0
+366,Tarjeta Activa,2026-01-20,Email,1,0,21162182
+2976,Extracupo,2026-01-04,no_especificada,0,0,0
+914,Libre Destino,2026-09-12,WhatsApp,0,0,0
+3015,Libre Destino,2026-04-23,WhatsApp,1,1,0
+3897,Libre Destino,2026-05-10,WhatsApp,0,0,0
+4016,Extracupo,2026-06-10,WhatsApp,1,0,0
+518,Libre Destino,2026-07-26,Email,0,0,0
+4053,Extracupo,2026-06-22,WhatsApp,1,1,15221102
+4330,Tarjeta Activa,2026-09-16,WhatsApp,0,0,0
+4944,Extracupo,2026-07-21,SMS,0,0,0
+1173,Libre Destino,2026-03-28,SMS,1,1,0
+2000,Libre Destino,2026-08-20,WhatsApp,1,1,10395659
+1937,Libre Destino,2026-09-11,no_especificada,1,1,6835824
+1410,Libre Destino,2026-04-08,SMS,0,0,0
+741,Extracupo,2026-03-27,WhatsApp,1,1,0
+2653,Tarjeta Activa,2026-04-13,no_especificada,1,1,0
+451,Extracupo,2026-04-13,SMS,1,1,0
+4635,Libre Destino,2026-05-15,no_especificada,1,1,0
+3738,Tarjeta Activa,2026-07-07,SMS,0,0,0
+2648,Libre Destino,2026-09-12,Email,1,0,0
+1137,Tarjeta Activa,2026-06-19,Email,1,1,0
+1161,Tarjeta Activa,2026-05-15,no_especificada,0,0,0
+1383,Libre Destino,2026-06-21,WhatsApp,1,1,0
+4882,Tarjeta Activa,2026-07-17,no_especificada,0,0,0
+1468,Tarjeta Activa,2026-07-15,SMS,0,0,0
+2156,Libre Destino,2026-06-12,SMS,1,1,0
+583,Tarjeta Activa,2026-07-02,no_especificada,1,1,0
+3774,Extracupo,2026-02-21,SMS,1,0,0
+274,Tarjeta Activa,2026-02-27,no_especificada,1,1,0
+2841,Libre Destino,2026-06-16,WhatsApp,0,0,0
+1385,Extracupo,2026-06-28,no_especificada,1,1,0
+1128,Extracupo,2026-01-14,Email,1,1,0
+4203,Libre Destino,2026-01-17,no_especificada,1,0,0
+1363,Extracupo,2026-09-28,WhatsApp,0,0,0
+2753,Libre Destino,2026-08-10,no_especificada,1,0,0
+388,Tarjeta Activa,2026-06-10,SMS,1,1,20482431
+754,Libre Destino,2026-01-21,SMS,1,1,0
+729,Libre Destino,2026-07-15,WhatsApp,1,1,0
+1952,Extracupo,2026-02-25,Email,1,0,0
+4969,Extracupo,2026-08-27,Email,1,1,0
+4176,Libre Destino,2026-07-24,Email,1,1,0
+330,Libre Destino,2026-04-15,WhatsApp,1,0,13624186
+1031,Extracupo,2026-01-13,no_especificada,1,1,19771078
+4823,Tarjeta Activa,2026-04-18,WhatsApp,1,0,0
+1520,Libre Destino,2026-04-03,no_especificada,1,0,0
+358,Tarjeta Activa,2026-06-19,no_especificada,1,0,0
+1252,Libre Destino,2026-07-28,WhatsApp,0,0,0
+4039,Tarjeta Activa,2026-08-21,SMS,0,0,0
+4188,Libre Destino,2026-04-10,WhatsApp,1,1,0
+1387,Libre Destino,2026-02-24,WhatsApp,1,1,0
+4833,Libre Destino,2026-05-01,WhatsApp,0,0,0
+3532,Extracupo,2026-04-26,SMS,1,1,0
+1502,Extracupo,2026-09-24,Email,1,0,22817650
+2658,Extracupo,2026-07-25,no_especificada,1,0,11857739
+2339,Libre Destino,2026-08-12,Email,1,0,8417855
+487,Extracupo,2026-02-25,SMS,1,0,0
+3456,Tarjeta Activa,2026-07-26,WhatsApp,1,1,0
+2093,Libre Destino,2026-07-06,SMS,1,1,0
+1903,Libre Destino,2026-08-16,no_especificada,0,0,0
+4837,Tarjeta Activa,2026-06-28,no_especificada,1,1,0
+245,Libre Destino,2026-03-02,SMS,1,1,0
+874,Extracupo,2026-08-05,WhatsApp,1,0,0
+3682,Extracupo,2026-09-21,no_especificada,1,1,0
+666,Extracupo,2026-07-10,WhatsApp,1,0,0
+3229,Tarjeta Activa,2026-02-27,no_especificada,1,1,15695414
+923,Libre Destino,2026-08-18,no_especificada,0,0,0
+981,Libre Destino,2026-06-11,SMS,1,1,0
+1188,Libre Destino,2026-02-12,SMS,1,0,0
+3771,Libre Destino,2026-02-20,Email,1,0,0
+2801,Extracupo,2026-07-20,SMS,1,0,0
+1130,Extracupo,2026-03-03,SMS,1,0,0
+4361,Extracupo,2026-08-17,SMS,1,1,0
+4029,Tarjeta Activa,2026-06-20,Email,0,0,0
+2171,Libre Destino,2026-01-11,SMS,1,0,0
+1904,Libre Destino,2026-03-25,WhatsApp,1,1,0
+2400,Libre Destino,2026-03-25,no_especificada,1,0,0
+2041,Libre Destino,2026-06-15,SMS,1,1,0
+1020,Tarjeta Activa,2026-09-02,SMS,1,1,0
+974,Extracupo,2026-08-16,Email,1,1,22566572
+1046,Tarjeta Activa,2026-08-28,no_especificada,1,1,7215661
+1218,Tarjeta Activa,2026-02-26,SMS,1,0,0
+1299,Extracupo,2026-09-27,WhatsApp,0,0,0
+3198,Extracupo,2026-04-27,SMS,0,0,0
+957,Tarjeta Activa,2026-02-14,WhatsApp,1,1,0
+4892,Libre Destino,2026-07-08,SMS,1,1,0
+3055,Extracupo,2026-08-27,SMS,1,1,0
+2516,Tarjeta Activa,2026-01-10,Email,1,1,0
+3679,Extracupo,2026-05-02,no_especificada,1,1,0
+540,Libre Destino,2026-05-11,Email,1,1,19621528
+222,Tarjeta Activa,2026-01-15,SMS,1,1,0
+3214,Libre Destino,2026-08-05,no_especificada,1,1,0
+3574,Extracupo,2026-06-13,SMS,1,1,0
+3144,Extracupo,2026-09-01,WhatsApp,1,0,0
+3664,Tarjeta Activa,2026-06-26,SMS,1,1,0
+2223,Extracupo,2026-03-10,WhatsApp,1,1,21850822
+3946,Tarjeta Activa,2026-05-08,Email,1,0,0
+3955,Libre Destino,2026-04-27,SMS,1,1,1428033
+1072,Tarjeta Activa,2026-01-04,WhatsApp,0,0,0
+1379,Extracupo,2026-01-09,Email,0,0,0
+516,Libre Destino,2026-03-10,SMS,0,0,0
+3398,Extracupo,2026-01-15,SMS,1,1,0
+1615,Libre Destino,2026-03-26,no_especificada,1,0,0
+1187,Extracupo,2026-09-26,Email,1,1,0
+2402,Tarjeta Activa,2026-04-07,SMS,0,0,0
+856,Tarjeta Activa,2026-07-22,SMS,1,0,0
+4379,Libre Destino,2026-07-03,no_especificada,1,1,0
+4526,Libre Destino,2026-09-24,no_especificada,1,0,0
+4313,Tarjeta Activa,2026-02-01,WhatsApp,1,0,26476748
+2038,Extracupo,2026-06-28,WhatsApp,0,0,0
+1301,Extracupo,2026-04-08,SMS,1,0,17880824
+3433,Tarjeta Activa,2026-09-09,WhatsApp,1,1,29819249
+2932,Tarjeta Activa,2026-09-18,no_especificada,0,0,0
+2576,Libre Destino,2026-06-25,Email,0,0,0
+259,Libre Destino,2026-07-27,no_especificada,1,1,0
+766,Tarjeta Activa,2026-03-05,Email,1,0,0
+3579,Libre Destino,2026-08-15,WhatsApp,0,0,0
+1808,Extracupo,2026-03-04,Email,1,1,0
+4464,Extracupo,2026-09-25,no_especificada,1,1,0
+2924,Tarjeta Activa,2026-01-21,SMS,1,0,0
+1266,Tarjeta Activa,2026-06-14,SMS,1,1,0
+1646,Tarjeta Activa,2026-01-18,WhatsApp,0,0,2231172
+744,Libre Destino,2026-08-17,SMS,1,1,1245864
+3997,Libre Destino,2026-09-17,Email,0,0,0
+1122,Tarjeta Activa,2026-06-15,SMS,1,1,0
+2952,Libre Destino,2026-06-26,no_especificada,1,0,0
+3201,Tarjeta Activa,2026-04-25,no_especificada,1,1,0
+309,Tarjeta Activa,2026-06-01,Email,1,1,0
+3935,Libre Destino,2026-09-10,WhatsApp,1,1,0
+3180,Libre Destino,2026-08-14,Email,1,0,0
+4076,Libre Destino,2026-03-17,Email,0,0,0
+3362,Extracupo,2026-03-21,WhatsApp,1,0,0
+3187,Libre Destino,2026-01-23,no_especificada,0,0,7866240
+1898,Libre Destino,2026-09-25,no_especificada,0,0,0
+1814,Libre Destino,2026-08-13,SMS,1,1,0
+57,Extracupo,2026-01-10,SMS,1,1,0
+3630,Extracupo,2026-04-06,SMS,0,0,0
+2056,Extracupo,2026-01-14,SMS,1,1,0
+3238,Extracupo,2026-08-23,no_especificada,1,0,20088288
+557,Tarjeta Activa,2026-02-02,WhatsApp,0,0,23168467
+3905,Extracupo,2026-03-17,WhatsApp,1,1,0
+677,Tarjeta Activa,2026-04-10,Email,1,0,0
+2858,Extracupo,2026-03-02,SMS,1,1,0
+3445,Extracupo,2026-09-13,WhatsApp,1,0,0
+2087,Tarjeta Activa,2026-05-24,Email,1,1,0
+372,Tarjeta Activa,2026-03-09,WhatsApp,1,1,0
+2212,Tarjeta Activa,2026-04-07,SMS,0,0,0
+3021,Extracupo,2026-06-25,Email,1,1,0
+4963,Libre Destino,2026-05-20,no_especificada,1,1,0
+3271,Libre Destino,2026-02-03,Email,1,1,12061022
+2020,Extracupo,2026-07-14,WhatsApp,1,1,0
+46,Tarjeta Activa,2026-05-03,Email,1,1,0
+442,Libre Destino,2026-05-01,no_especificada,1,0,0
+594,Tarjeta Activa,2026-06-15,Email,0,0,0
+1477,Libre Destino,2026-05-07,SMS,1,1,0
+746,Tarjeta Activa,2026-09-11,Email,0,0,0
+4581,Libre Destino,2026-08-21,SMS,1,1,0
+4680,Tarjeta Activa,2026-01-10,WhatsApp,1,1,0
+1354,Extracupo,2026-05-27,Email,0,0,0
+4938,Libre Destino,2026-04-15,Email,1,1,0
+694,Tarjeta Activa,2026-05-07,WhatsApp,1,1,0
+1964,Libre Destino,2026-01-11,WhatsApp,0,0,0
+221,Extracupo,2026-09-16,SMS,0,0,0
+744,Libre Destino,2026-03-27,Email,1,1,0
+4470,Tarjeta Activa,2026-09-02,WhatsApp,0,0,27460205
+928,Libre Destino,2026-09-26,no_especificada,0,0,0
+3126,Tarjeta Activa,2026-01-10,WhatsApp,0,0,0
+1456,Extracupo,2026-03-04,no_especificada,1,1,0
+3107,Extracupo,2026-03-12,Email,1,1,0
+4157,Tarjeta Activa,2026-02-27,SMS,1,1,15161182
+4636,Libre Destino,2026-05-12,SMS,1,1,0
+4809,Tarjeta Activa,2026-06-27,no_especificada,1,1,14049387
+2606,Tarjeta Activa,2026-04-12,no_especificada,1,1,0
+1687,Extracupo,2026-01-03,WhatsApp,1,0,0
+1055,Extracupo,2026-01-03,Email,1,0,0
+1028,Extracupo,2026-05-23,Email,0,0,0
+2926,Tarjeta Activa,2026-04-27,SMS,0,0,0
+225,Tarjeta Activa,2026-09-25,SMS,1,1,0
+3069,Extracupo,2026-03-16,WhatsApp,1,1,13985846
+3089,Extracupo,2026-05-28,no_especificada,0,0,0
+864,Libre Destino,2026-06-21,SMS,0,0,15044325
+4896,Libre Destino,2026-01-02,WhatsApp,0,0,0
+2227,Libre Destino,2026-09-20,SMS,1,0,0
+2703,Libre Destino,2026-02-15,no_especificada,1,1,0
+2923,Libre Destino,2026-02-09,no_especificada,1,0,11516358
+2738,Tarjeta Activa,2026-07-15,WhatsApp,1,1,0
+1636,Libre Destino,2026-09-05,no_especificada,0,0,0
+2146,Libre Destino,2026-03-11,WhatsApp,1,0,0
+537,Tarjeta Activa,2026-07-24,WhatsApp,0,0,28649218
+1443,Extracupo,2026-06-27,WhatsApp,0,0,0
+485,Extracupo,2026-07-25,WhatsApp,1,0,0
+4712,Extracupo,2026-04-07,SMS,1,0,0
+4110,Extracupo,2026-03-19,no_especificada,1,1,0
+2703,Libre Destino,2026-04-11,no_especificada,1,0,7141663
+185,Tarjeta Activa,2026-05-09,SMS,1,1,0
+1740,Extracupo,2026-02-23,no_especificada,0,0,0
+4848,Extracupo,2026-03-01,WhatsApp,1,1,0
+3060,Extracupo,2026-07-02,Email,1,1,9192656
+2725,Extracupo,2026-05-03,Email,0,0,25359770
+781,Libre Destino,2026-05-10,no_especificada,1,1,0
+821,Extracupo,2026-01-27,SMS,1,1,0
+1207,Extracupo,2026-09-11,Email,0,0,0
+4295,Tarjeta Activa,2026-06-10,SMS,0,0,0
+3929,Libre Destino,2026-03-03,no_especificada,0,0,0
+3763,Tarjeta Activa,2026-06-02,Email,1,1,0
+3154,Tarjeta Activa,2026-05-07,SMS,1,1,29700452
+1924,Libre Destino,2026-09-02,WhatsApp,1,0,0
+363,Libre Destino,2026-07-26,Email,1,1,0
+767,Extracupo,2026-05-23,no_especificada,0,0,0
+3141,Tarjeta Activa,2026-06-01,no_especificada,1,0,0
+3397,Tarjeta Activa,2026-08-24,Email,0,0,11445176
+1428,Libre Destino,2026-02-01,WhatsApp,1,1,0
+2332,Libre Destino,2026-04-12,SMS,1,0,0
+3261,Libre Destino,2026-03-01,no_especificada,1,1,0
+1513,Tarjeta Activa,2026-05-01,SMS,1,1,0
+4721,Extracupo,2026-02-09,SMS,1,1,0
+3241,Tarjeta Activa,2026-08-26,SMS,1,0,0
+4256,Extracupo,2026-02-03,WhatsApp,1,1,0
+1460,Libre Destino,2026-06-26,no_especificada,1,1,18030704
+2283,Extracupo,2026-09-10,WhatsApp,0,0,0
+1312,Libre Destino,2026-07-12,WhatsApp,0,0,0
+2967,Libre Destino,2026-08-19,WhatsApp,1,1,0
+3773,Tarjeta Activa,2026-01-15,SMS,0,0,0
+386,Tarjeta Activa,2026-06-07,SMS,1,1,0
+3725,Extracupo,2026-01-15,WhatsApp,1,1,0
+2353,Extracupo,2026-06-27,WhatsApp,1,0,15261981
+4150,Libre Destino,2026-01-05,Email,1,1,20267901
+4917,Extracupo,2026-02-14,SMS,1,0,0
+4628,Libre Destino,2026-04-08,no_especificada,1,0,0
+2935,Tarjeta Activa,2026-02-15,WhatsApp,1,1,0
+2465,Tarjeta Activa,2026-04-26,WhatsApp,1,1,0
+4260,Extracupo,2026-04-14,Email,0,0,23545082
+3107,Libre Destino,2026-01-05,SMS,1,1,0
+3721,Libre Destino,2026-02-03,SMS,0,0,0
+2734,Libre Destino,2026-01-28,Email,0,0,0
+3030,Libre Destino,2026-04-18,no_especificada,1,1,0
+211,Extracupo,2026-02-05,no_especificada,1,1,0
+1827,Tarjeta Activa,2026-07-25,SMS,0,0,0
+2034,Libre Destino,2026-07-11,WhatsApp,0,0,0
+3778,Tarjeta Activa,2026-04-28,Email,1,1,0
+1221,Libre Destino,2026-08-14,SMS,1,1,0
+885,Libre Destino,2026-06-09,Email,1,1,0
+2559,Libre Destino,2026-07-24,SMS,1,0,0
+38,Extracupo,2026-02-15,SMS,1,1,0
+4122,Extracupo,2026-05-16,Email,1,1,0
+3056,Libre Destino,2026-06-17,SMS,1,1,12095733
+3512,Extracupo,2026-08-27,WhatsApp,0,0,15884615
+505,Tarjeta Activa,2026-09-14,SMS,1,0,0
+2729,Tarjeta Activa,2026-04-27,WhatsApp,1,1,23481506
+185,Tarjeta Activa,2026-09-28,SMS,1,1,25158430
+1282,Tarjeta Activa,2026-04-17,Email,1,1,0
+4201,Libre Destino,2026-01-08,SMS,1,1,0
+3709,Tarjeta Activa,2026-02-16,no_especificada,1,1,0
+2661,Extracupo,2026-05-22,no_especificada,0,0,0
+4609,Extracupo,2026-01-24,no_especificada,0,0,0
+3724,Tarjeta Activa,2026-05-14,no_especificada,1,1,3422649
+92,Libre Destino,2026-09-01,no_especificada,0,0,0
+1945,Tarjeta Activa,2026-05-12,no_especificada,1,1,20887653
+825,Tarjeta Activa,2026-03-25,WhatsApp,1,1,0
+1236,Tarjeta Activa,2026-01-15,SMS,1,0,0
+1171,Extracupo,2026-05-15,no_especificada,1,0,0
+4640,Tarjeta Activa,2026-02-15,no_especificada,0,0,0
+2968,Tarjeta Activa,2026-09-24,WhatsApp,1,1,0
+3148,Tarjeta Activa,2026-02-14,no_especificada,1,1,0
+1801,Tarjeta Activa,2026-08-26,no_especificada,0,0,0
+203,Tarjeta Activa,2026-07-15,WhatsApp,1,1,0
+4499,Extracupo,2026-02-28,Email,1,1,0
+3194,Extracupo,2026-01-08,no_especificada,1,0,0
+4627,Extracupo,2026-04-08,SMS,1,0,0
+2973,Tarjeta Activa,2026-04-23,SMS,0,0,0
+1584,Tarjeta Activa,2026-09-03,SMS,1,1,0
+2860,Tarjeta Activa,2026-03-28,WhatsApp,1,0,18871340
+3100,Extracupo,2026-01-27,SMS,0,0,0
+4653,Tarjeta Activa,2026-09-27,SMS,1,1,0
+3340,Libre Destino,2026-05-23,Email,1,1,0
+2237,Libre Destino,2026-04-19,no_especificada,1,0,0
+2632,Extracupo,2026-08-11,no_especificada,1,1,0
+4903,Extracupo,2026-06-28,no_especificada,1,0,0
+2794,Tarjeta Activa,2026-05-03,no_especificada,1,0,0
+2198,Extracupo,2026-04-17,WhatsApp,0,0,0
+581,Extracupo,2026-02-02,no_especificada,0,0,0
+2449,Libre Destino,2026-02-08,no_especificada,1,0,0
+3176,Extracupo,2026-05-16,no_especificada,1,0,7808951
+1048,Tarjeta Activa,2026-08-25,WhatsApp,1,1,23755527
+659,Extracupo,2026-05-17,no_especificada,1,1,0
+3158,Extracupo,2026-06-20,SMS,1,1,4029348
+4103,Tarjeta Activa,2026-05-18,Email,0,0,0
+998,Tarjeta Activa,2026-08-25,no_especificada,1,0,0
+1640,Extracupo,2026-04-26,WhatsApp,1,1,0
+4604,Tarjeta Activa,2026-08-28,SMS,1,1,0
+312,Tarjeta Activa,2026-05-08,WhatsApp,0,0,0
+2051,Tarjeta Activa,2026-03-26,WhatsApp,1,1,0
+4580,Tarjeta Activa,2026-03-22,SMS,0,0,0
+4181,Extracupo,2026-06-28,SMS,1,1,11914662
+381,Extracupo,2026-08-27,Email,1,1,0
+3627,Tarjeta Activa,2026-06-17,WhatsApp,1,0,4088202
+3815,Extracupo,2026-08-08,SMS,1,0,0
+4564,Extracupo,2026-05-12,Email,1,1,0
+96,Extracupo,2026-06-04,WhatsApp,1,1,0
+4034,Tarjeta Activa,2026-06-09,WhatsApp,1,0,0
+311,Tarjeta Activa,2026-01-23,Email,0,0,0
+4220,Libre Destino,2026-01-25,no_especificada,1,0,0
+1859,Extracupo,2026-05-10,WhatsApp,1,1,0
+3887,Libre Destino,2026-07-07,WhatsApp,1,0,0
+1413,Extracupo,2026-01-14,Email,1,1,0
+2994,Extracupo,2026-09-20,Email,1,0,0
+3850,Tarjeta Activa,2026-01-16,Email,1,1,0
+2872,Extracupo,2026-01-27,no_especificada,1,1,0
+4119,Tarjeta Activa,2026-01-24,SMS,1,1,0
+4164,Tarjeta Activa,2026-05-01,SMS,1,1,0
+625,Libre Destino,2026-01-03,no_especificada,1,0,0
+2415,Tarjeta Activa,2026-06-18,Email,0,0,0
+1519,Libre Destino,2026-01-07,no_especificada,1,1,0
+1952,Libre Destino,2026-08-17,Email,0,0,0
+4140,Tarjeta Activa,2026-02-22,Email,1,0,28641634
+2025,Extracupo,2026-05-16,SMS,0,0,23328134
+2778,Extracupo,2026-01-18,SMS,1,1,0
+4345,Extracupo,2026-07-18,WhatsApp,1,1,0
+523,Extracupo,2026-05-15,WhatsApp,1,1,0
+4432,Tarjeta Activa,2026-01-01,SMS,1,0,0
+3261,Tarjeta Activa,2026-03-14,Email,1,0,0
+3517,Tarjeta Activa,2026-08-27,SMS,0,0,0
+465,Tarjeta Activa,2026-05-12,SMS,1,1,0
+1823,Tarjeta Activa,2026-02-04,Email,1,1,16965925
+3258,Libre Destino,2026-06-12,WhatsApp,1,0,0
+544,Tarjeta Activa,2026-07-24,no_especificada,1,1,0
+3005,Tarjeta Activa,2026-04-28,WhatsApp,0,0,0
+3079,Extracupo,2026-05-07,no_especificada,1,1,0
+1281,Tarjeta Activa,2026-07-12,Email,0,0,0
+3637,Libre Destino,2026-08-20,WhatsApp,0,0,0
+82,Extracupo,2026-03-11,SMS,0,0,0
+1439,Extracupo,2026-02-05,WhatsApp,0,0,0
+1588,Extracupo,2026-07-27,no_especificada,1,0,0
+710,Extracupo,2026-08-01,no_especificada,1,0,0
+2147,Libre Destino,2026-07-16,Email,1,1,0
+2899,Libre Destino,2026-05-10,Email,1,0,5507257
+3405,Tarjeta Activa,2026-04-18,Email,1,1,0
+1166,Libre Destino,2026-02-21,no_especificada,1,1,0
+1413,Libre Destino,2026-04-28,WhatsApp,1,1,11564827
+4029,Extracupo,2026-06-08,WhatsApp,1,1,0
+554,Tarjeta Activa,2026-01-10,no_especificada,1,1,0
+3369,Libre Destino,2026-04-10,WhatsApp,1,1,0
+3858,Tarjeta Activa,2026-03-04,no_especificada,1,0,29840776
+2534,Extracupo,2026-06-09,SMS,1,1,0
+2214,Libre Destino,2026-05-17,WhatsApp,1,0,0
+106,Tarjeta Activa,2026-04-05,WhatsApp,1,1,0
+1182,Libre Destino,2026-04-20,SMS,1,0,0
+3278,Extracupo,2026-07-06,Email,1,1,0
+3113,Extracupo,2026-04-09,SMS,1,0,0
+1363,Libre Destino,2026-06-28,WhatsApp,1,0,0
+2762,Tarjeta Activa,2026-07-22,WhatsApp,1,0,0
+1734,Extracupo,2026-02-19,Email,1,1,0
+941,Tarjeta Activa,2026-08-05,Email,0,0,0
+3643,Extracupo,2026-04-27,SMS,1,0,0
+4693,Tarjeta Activa,2026-04-28,no_especificada,1,1,0
+775,Libre Destino,2026-07-24,WhatsApp,0,0,0
+743,Libre Destino,2026-05-03,SMS,1,0,0
+2637,Libre Destino,2026-03-15,WhatsApp,1,1,0
+1485,Tarjeta Activa,2026-09-12,WhatsApp,1,0,0
+3674,Extracupo,2026-06-17,WhatsApp,0,0,0
+1525,Libre Destino,2026-07-11,no_especificada,1,1,0
+3382,Libre Destino,2026-04-21,WhatsApp,1,0,0
+3677,Tarjeta Activa,2026-04-13,SMS,1,1,0
+3495,Extracupo,2026-08-05,SMS,0,0,0
+3355,Extracupo,2026-09-21,SMS,1,1,0
+3402,Libre Destino,2026-07-09,SMS,0,0,0
+485,Tarjeta Activa,2026-09-26,Email,0,0,0
+918,Extracupo,2026-04-15,no_especificada,1,0,0
+3193,Libre Destino,2026-08-07,no_especificada,1,1,0
+3635,Tarjeta Activa,2026-07-10,SMS,0,0,5551936
+1281,Extracupo,2026-04-08,SMS,1,1,0
+208,Libre Destino,2026-04-20,Email,1,1,5645153
+314,Libre Destino,2026-09-10,Email,1,1,0
+347,Tarjeta Activa,2026-07-11,no_especificada,1,1,0
+4515,Extracupo,2026-04-05,WhatsApp,1,0,0
+1497,Tarjeta Activa,2026-09-16,no_especificada,1,1,26193386
+3301,Tarjeta Activa,2026-08-20,Email,1,1,26338119
+3386,Tarjeta Activa,2026-07-04,SMS,1,1,0
+1573,Extracupo,2026-03-10,WhatsApp,1,0,24643376
+3069,Extracupo,2026-06-15,Email,1,1,0
+107,Tarjeta Activa,2026-03-15,no_especificada,1,1,0
+4035,Tarjeta Activa,2026-09-01,SMS,0,0,0
+491,Libre Destino,2026-08-01,Email,1,0,0
+1126,Tarjeta Activa,2026-05-10,no_especificada,1,1,12041676
+3649,Libre Destino,2026-06-28,SMS,0,0,0
+672,Libre Destino,2026-03-05,WhatsApp,0,0,0
+1232,Extracupo,2026-02-12,Email,1,1,0
+4454,Tarjeta Activa,2026-05-25,no_especificada,0,0,0
+4676,Tarjeta Activa,2026-08-21,WhatsApp,1,1,0
+1003,Libre Destino,2026-05-08,SMS,0,0,0
+235,Libre Destino,2026-02-03,WhatsApp,0,0,0
+2988,Tarjeta Activa,2026-06-01,SMS,0,0,0
+623,Libre Destino,2026-02-18,WhatsApp,1,1,0
+1267,Extracupo,2026-08-09,Email,1,1,0
+1553,Tarjeta Activa,2026-02-28,SMS,0,0,0
+4216,Libre Destino,2026-01-28,Email,0,0,0
+2469,Tarjeta Activa,2026-09-04,WhatsApp,1,0,0
+520,Extracupo,2026-08-02,Email,1,0,0
+66,Tarjeta Activa,2026-08-09,Email,1,0,0
+3801,Libre Destino,2026-09-05,Email,1,1,0
+4253,Tarjeta Activa,2026-09-27,Email,1,1,0
+4499,Extracupo,2026-04-20,SMS,1,1,0
+282,Tarjeta Activa,2026-03-16,SMS,1,1,0
+1227,Extracupo,2026-03-21,SMS,1,1,0
+1784,Extracupo,2026-03-11,WhatsApp,1,1,0
+3275,Extracupo,2026-01-19,no_especificada,1,0,25797217
+3041,Libre Destino,2026-03-02,SMS,1,1,0
+1477,Extracupo,2026-05-07,WhatsApp,0,0,0
+4611,Extracupo,2026-02-23,Email,1,1,0
+17,Libre Destino,2026-07-01,WhatsApp,1,1,0
+1741,Tarjeta Activa,2026-07-06,Email,1,1,0
+1911,Extracupo,2026-02-15,SMS,1,0,0
+1579,Libre Destino,2026-04-26,Email,0,0,0
+4473,Libre Destino,2026-06-21,SMS,0,0,0
+2538,Tarjeta Activa,2026-01-17,SMS,1,1,0
+4892,Libre Destino,2026-07-27,Email,1,0,0
+3174,Libre Destino,2026-09-24,Email,1,1,0
+4617,Libre Destino,2026-02-05,no_especificada,0,0,0
+202,Libre Destino,2026-04-07,no_especificada,1,1,0
+205,Tarjeta Activa,2026-02-23,Email,0,0,0
+2349,Extracupo,2026-06-20,no_especificada,1,1,0
+2585,Extracupo,2026-05-21,SMS,1,1,0
+772,Extracupo,2026-09-05,no_especificada,0,0,6673790
+2441,Libre Destino,2026-01-03,no_especificada,1,1,0
+1873,Tarjeta Activa,2026-04-18,WhatsApp,1,1,0
+4487,Extracupo,2026-04-01,SMS,1,1,0
+840,Libre Destino,2026-03-12,SMS,0,0,13460449
+330,Extracupo,2026-04-20,WhatsApp,1,1,0
+384,Extracupo,2026-01-11,WhatsApp,1,0,0
+4434,Extracupo,2026-01-22,no_especificada,0,0,0
+3483,Tarjeta Activa,2026-06-14,Email,1,0,0
+3437,Tarjeta Activa,2026-05-23,WhatsApp,1,1,0
+2657,Tarjeta Activa,2026-05-24,SMS,1,0,27843350
+806,Tarjeta Activa,2026-04-19,SMS,0,0,0
+248,Extracupo,2026-04-22,SMS,1,0,0
+1223,Extracupo,2026-09-19,no_especificada,0,0,0
+4288,Libre Destino,2026-05-10,SMS,1,1,0
+3580,Tarjeta Activa,2026-07-01,Email,1,1,0
+145,Libre Destino,2026-08-17,Email,1,1,0
+2584,Libre Destino,2026-01-18,WhatsApp,0,0,0
+4560,Tarjeta Activa,2026-07-05,SMS,1,1,0
+3851,Libre Destino,2026-08-20,WhatsApp,0,0,0
+4876,Extracupo,2026-03-28,Email,1,1,0
+4999,Libre Destino,2026-07-21,WhatsApp,1,1,0
+311,Tarjeta Activa,2026-03-19,Email,1,0,0
+3968,Extracupo,2026-01-14,no_especificada,1,0,0
+242,Tarjeta Activa,2026-01-24,no_especificada,1,1,0
+2483,Libre Destino,2026-09-20,SMS,0,0,0
+530,Tarjeta Activa,2026-05-22,WhatsApp,1,1,0
+277,Tarjeta Activa,2026-03-26,SMS,1,1,0
+4227,Extracupo,2026-03-11,WhatsApp,1,0,0
+289,Extracupo,2026-05-12,no_especificada,0,0,0
+76,Tarjeta Activa,2026-03-03,Email,1,0,0
+2972,Extracupo,2026-07-04,WhatsApp,1,1,0
+4065,Tarjeta Activa,2026-08-16,WhatsApp,1,1,0
+267,Libre Destino,2026-08-15,WhatsApp,1,0,0
+3002,Extracupo,2026-05-06,SMS,0,0,0
+1180,Tarjeta Activa,2026-08-25,SMS,1,0,0
+3801,Extracupo,2026-04-23,WhatsApp,1,1,0
+3009,Libre Destino,2026-02-05,SMS,1,1,0
+556,Extracupo,2026-02-05,Email,0,0,0
+1520,Tarjeta Activa,2026-06-27,no_especificada,1,0,0
+1129,Libre Destino,2026-05-09,Email,1,1,25938689
+1523,Tarjeta Activa,2026-09-17,SMS,1,1,0
+4166,Extracupo,2026-07-11,Email,1,1,0
+2416,Tarjeta Activa,2026-02-01,Email,1,0,0
+1245,Tarjeta Activa,2026-09-14,Email,0,0,0
+1057,Tarjeta Activa,2026-09-18,Email,1,1,0
+3774,Tarjeta Activa,2026-08-16,no_especificada,1,0,8748889
+4399,Extracupo,2026-03-22,Email,1,1,0
+404,Tarjeta Activa,2026-09-23,SMS,1,1,0
+4607,Libre Destino,2026-01-15,SMS,1,1,0
+710,Extracupo,2026-08-04,SMS,1,1,2199354
+4434,Tarjeta Activa,2026-01-03,no_especificada,0,0,21353564
+1843,Extracupo,2026-07-17,SMS,1,1,4319547
+3776,Tarjeta Activa,2026-07-04,Email,0,0,0
+1816,Extracupo,2026-07-20,WhatsApp,0,0,0
+2252,Tarjeta Activa,2026-04-24,SMS,1,0,0
+3298,Libre Destino,2026-09-18,SMS,1,1,16104463
+3009,Tarjeta Activa,2026-09-12,SMS,1,1,0
+3127,Extracupo,2026-06-25,no_especificada,1,0,0
+3493,Tarjeta Activa,2026-09-16,WhatsApp,1,0,0
+106,Libre Destino,2026-07-07,Email,1,0,0
+866,Extracupo,2026-07-16,Email,1,1,0
+1984,Libre Destino,2026-09-24,SMS,1,1,0
+2940,Libre Destino,2026-07-04,Email,1,0,0
+4892,Tarjeta Activa,2026-01-04,no_especificada,1,1,0
+3805,Extracupo,2026-04-25,no_especificada,0,0,0
+3119,Libre Destino,2026-08-18,SMS,1,0,12395944
+2659,Libre Destino,2026-03-20,SMS,1,0,17534592
+4263,Tarjeta Activa,2026-08-25,SMS,0,0,2822244
+135,Extracupo,2026-02-27,no_especificada,1,1,0
+3539,Libre Destino,2026-03-14,SMS,1,1,0
+2783,Libre Destino,2026-09-22,SMS,0,0,0
+4223,Libre Destino,2026-01-23,no_especificada,0,0,0
+371,Extracupo,2026-04-10,no_especificada,1,1,0
+3940,Extracupo,2026-06-06,WhatsApp,0,0,0
+807,Libre Destino,2026-09-21,Email,0,0,21706624
+1674,Tarjeta Activa,2026-09-19,Email,0,0,0
+4090,Libre Destino,2026-01-02,Email,1,1,10595678
+4137,Tarjeta Activa,2026-08-22,WhatsApp,0,0,0
+2362,Libre Destino,2026-08-28,no_especificada,1,1,0
+3739,Libre Destino,2026-05-19,no_especificada,1,1,0
+3261,Libre Destino,2026-03-20,WhatsApp,1,1,0
+1031,Extracupo,2026-09-28,Email,1,1,0
+3042,Tarjeta Activa,2026-01-18,Email,0,0,0
+578,Libre Destino,2026-04-12,SMS,1,1,0
+2682,Libre Destino,2026-09-06,WhatsApp,1,1,0
+4077,Tarjeta Activa,2026-06-04,SMS,1,0,0
+1364,Tarjeta Activa,2026-09-04,Email,1,1,0
+1882,Extracupo,2026-01-13,no_especificada,0,0,0
+4215,Libre Destino,2026-05-03,no_especificada,1,1,0
+1189,Tarjeta Activa,2026-09-21,Email,1,1,0
+4672,Tarjeta Activa,2026-01-25,Email,0,0,0
+1775,Tarjeta Activa,2026-03-16,SMS,1,1,0
+807,Libre Destino,2026-03-05,SMS,0,0,0
+1232,Libre Destino,2026-01-21,Email,0,0,0
+2774,Libre Destino,2026-03-03,SMS,1,1,0
+3924,Extracupo,2026-06-06,no_especificada,1,1,0
+2393,Extracupo,2026-07-14,WhatsApp,0,0,0
+4729,Libre Destino,2026-03-08,Email,1,0,4920374
+3806,Libre Destino,2026-03-26,Email,0,0,0
+2242,Libre Destino,2026-03-13,SMS,0,0,0
+655,Tarjeta Activa,2026-09-15,Email,1,0,0
+2830,Extracupo,2026-05-01,SMS,1,0,0
+2989,Libre Destino,2026-07-16,WhatsApp,1,0,0
+4990,Libre Destino,2026-03-12,no_especificada,1,0,0
+3040,Libre Destino,2026-09-16,Email,0,0,0
+3458,Tarjeta Activa,2026-07-02,WhatsApp,1,1,0
+2064,Extracupo,2026-03-13,no_especificada,1,1,0
+3008,Extracupo,2026-06-23,Email,1,1,0
+4883,Tarjeta Activa,2026-08-06,WhatsApp,1,1,0
+1803,Libre Destino,2026-04-19,WhatsApp,1,1,0
+746,Libre Destino,2026-05-27,Email,1,1,0
+1066,Extracupo,2026-09-13,SMS,1,1,0
+4519,Tarjeta Activa,2026-03-27,SMS,0,0,12968353
+1599,Libre Destino,2026-04-09,no_especificada,1,1,0
+2999,Extracupo,2026-05-16,no_especificada,1,1,0
+3725,Tarjeta Activa,2026-05-23,no_especificada,1,1,0
+683,Extracupo,2026-01-22,Email,1,0,10564125
+4643,Extracupo,2026-01-08,Email,1,1,0
+2358,Extracupo,2026-07-28,SMS,1,0,0
+45,Extracupo,2026-04-18,WhatsApp,1,0,0
+307,Libre Destino,2026-07-12,Email,1,1,0
+48,Tarjeta Activa,2026-07-08,SMS,1,0,0
+707,Extracupo,2026-03-19,WhatsApp,1,1,0
+426,Libre Destino,2026-01-08,SMS,1,0,0
+2475,Libre Destino,2026-01-06,SMS,0,0,0
+2636,Extracupo,2026-07-28,no_especificada,1,0,0
+2748,Extracupo,2026-07-05,SMS,1,1,0
+4757,Extracupo,2026-06-04,Email,0,0,0
+2341,Libre Destino,2026-08-07,SMS,1,1,0
+935,Tarjeta Activa,2026-06-08,Email,1,1,0
+3440,Extracupo,2026-01-25,Email,1,1,19172701
+728,Libre Destino,2026-02-25,Email,1,1,0
+2372,Libre Destino,2026-06-01,Email,0,0,0
+2517,Libre Destino,2026-02-03,Email,1,1,0
+1558,Tarjeta Activa,2026-06-01,WhatsApp,1,0,0
+2519,Libre Destino,2026-06-15,SMS,1,0,0
+109,Libre Destino,2026-02-28,SMS,1,1,0
+2495,Extracupo,2026-09-11,SMS,1,1,0
+2333,Libre Destino,2026-09-20,WhatsApp,1,1,0
+4482,Libre Destino,2026-02-02,SMS,1,1,0
+2125,Extracupo,2026-04-03,SMS,0,0,0
+3053,Extracupo,2026-05-10,SMS,1,0,0
+4075,Extracupo,2026-04-13,Email,1,1,0
+4892,Extracupo,2026-01-22,no_especificada,1,0,12812737
+3202,Tarjeta Activa,2026-03-06,WhatsApp,1,1,0
+1447,Tarjeta Activa,2026-06-03,no_especificada,0,0,0
+3505,Extracupo,2026-04-07,Email,0,0,0
+1637,Libre Destino,2026-01-10,WhatsApp,1,1,13815399
+757,Libre Destino,2026-06-22,SMS,0,0,0
+2566,Libre Destino,2026-06-23,SMS,0,0,0
+801,Extracupo,2026-02-18,SMS,0,0,0
+3626,Tarjeta Activa,2026-02-03,no_especificada,1,1,0
+292,Extracupo,2026-07-01,no_especificada,1,0,0
+2508,Tarjeta Activa,2026-01-01,Email,1,0,28460139
+3920,Tarjeta Activa,2026-05-26,Email,1,1,0
+4617,Extracupo,2026-04-15,SMS,1,1,0
+341,Tarjeta Activa,2026-02-02,SMS,1,1,0
+1395,Extracupo,2026-02-05,Email,0,0,0
+3916,Libre Destino,2026-01-11,SMS,1,0,29683788
+4334,Libre Destino,2026-08-12,WhatsApp,1,0,0
+2564,Tarjeta Activa,2026-07-27,Email,1,0,0
+4650,Tarjeta Activa,2026-02-10,Email,1,1,14266280
+555,Extracupo,2026-09-19,Email,0,0,0
+694,Extracupo,2026-04-28,Email,1,1,0
+4350,Libre Destino,2026-09-18,Email,1,1,0
+2981,Tarjeta Activa,2026-03-19,Email,1,0,23147351
+2606,Extracupo,2026-04-22,WhatsApp,0,0,0
+2022,Libre Destino,2026-07-13,Email,1,1,0
+3625,Tarjeta Activa,2026-04-25,SMS,1,1,0
+3192,Extracupo,2026-01-03,no_especificada,1,1,0
+1219,Tarjeta Activa,2026-03-02,WhatsApp,1,1,0
+363,Tarjeta Activa,2026-05-02,WhatsApp,0,0,0
+1329,Libre Destino,2026-02-09,WhatsApp,1,1,0
+4436,Extracupo,2026-03-18,SMS,0,0,0
+126,Tarjeta Activa,2026-06-12,WhatsApp,1,0,0
+1993,Extracupo,2026-03-21,WhatsApp,1,0,0
+2410,Libre Destino,2026-02-06,SMS,1,0,26638302
+343,Libre Destino,2026-03-08,no_especificada,0,0,0
+4937,Tarjeta Activa,2026-04-23,WhatsApp,1,0,0
+1074,Tarjeta Activa,2026-08-02,WhatsApp,1,0,1371382
+3292,Tarjeta Activa,2026-02-20,WhatsApp,0,0,0
+3313,Extracupo,2026-01-13,SMS,0,0,17626481
+1719,Extracupo,2026-08-14,WhatsApp,1,1,0
+1986,Libre Destino,2026-07-21,SMS,1,1,0
+2540,Tarjeta Activa,2026-03-10,WhatsApp,0,0,0
+4232,Libre Destino,2026-03-15,no_especificada,1,1,0
+999,Extracupo,2026-04-01,SMS,0,0,0
+3215,Tarjeta Activa,2026-02-26,WhatsApp,1,0,0
+3743,Tarjeta Activa,2026-02-23,WhatsApp,0,0,0
+1000,Libre Destino,2026-08-19,no_especificada,1,1,0
+863,Extracupo,2026-08-22,no_especificada,0,0,0
+1691,Libre Destino,2026-04-06,SMS,1,1,27651320
+3982,Extracupo,2026-05-08,SMS,0,0,0
+1164,Tarjeta Activa,2026-04-15,SMS,0,0,9118587
+4463,Libre Destino,2026-06-15,Email,0,0,0
+91,Extracupo,2026-07-21,Email,1,1,0
+4564,Extracupo,2026-03-14,Email,1,1,0
+2181,Libre Destino,2026-05-12,no_especificada,1,1,0
+3112,Tarjeta Activa,2026-09-01,no_especificada,1,1,0
+1975,Libre Destino,2026-06-19,Email,1,1,2132119
+4092,Tarjeta Activa,2026-06-14,Email,1,1,0
+1018,Extracupo,2026-05-25,WhatsApp,1,0,0
+31,Tarjeta Activa,2026-03-18,SMS,1,1,0
+2107,Tarjeta Activa,2026-04-11,SMS,1,0,0
+771,Tarjeta Activa,2026-01-09,WhatsApp,1,1,0
+3895,Tarjeta Activa,2026-08-06,SMS,1,0,0
+1953,Extracupo,2026-02-14,no_especificada,1,1,0
+1104,Tarjeta Activa,2026-05-01,Email,0,0,0
+1517,Extracupo,2026-04-06,WhatsApp,1,1,0
+1252,Libre Destino,2026-04-01,SMS,1,0,0
+775,Tarjeta Activa,2026-06-23,Email,1,1,22473233
+1801,Extracupo,2026-06-26,Email,1,0,0
+741,Extracupo,2026-01-25,WhatsApp,1,1,0
+3541,Extracupo,2026-05-15,SMS,1,0,0
+1193,Libre Destino,2026-09-09,WhatsApp,1,1,0
+4500,Libre Destino,2026-03-02,SMS,0,0,0
+1432,Libre Destino,2026-05-07,WhatsApp,1,0,0
+2111,Extracupo,2026-08-03,WhatsApp,1,1,0
+1102,Tarjeta Activa,2026-05-16,Email,1,1,0
+3088,Extracupo,2026-05-09,no_especificada,1,1,0
+4626,Tarjeta Activa,2026-08-26,Email,1,1,0
+1027,Tarjeta Activa,2026-09-04,Email,1,1,0
+4544,Tarjeta Activa,2026-05-11,SMS,0,0,0
+152,Extracupo,2026-04-24,SMS,1,0,0
+1863,Tarjeta Activa,2026-05-16,no_especificada,1,1,0
+2778,Libre Destino,2026-07-05,WhatsApp,1,0,0
+2758,Libre Destino,2026-08-09,Email,1,1,0
+4747,Libre Destino,2026-09-26,SMS,0,0,0
+4708,Tarjeta Activa,2026-01-25,WhatsApp,1,0,0
+3172,Libre Destino,2026-09-25,SMS,1,0,0
+4979,Tarjeta Activa,2026-03-21,SMS,1,1,15024864
+1984,Tarjeta Activa,2026-06-27,Email,1,1,2659610
+4487,Tarjeta Activa,2026-02-27,no_especificada,0,0,0
+1773,Extracupo,2026-05-20,Email,1,0,0
+804,Extracupo,2026-09-24,WhatsApp,1,0,0
+3826,Tarjeta Activa,2026-06-05,no_especificada,1,0,0
+2214,Extracupo,2026-01-17,no_especificada,1,0,0
+3800,Libre Destino,2026-09-05,SMS,1,1,0
+4148,Extracupo,2026-03-14,WhatsApp,1,0,12258258
+208,Tarjeta Activa,2026-07-11,WhatsApp,0,0,0
+1324,Extracupo,2026-04-15,Email,1,0,0
+73,Extracupo,2026-02-20,WhatsApp,0,0,0
+622,Extracupo,2026-09-21,SMS,1,1,0
+2592,Extracupo,2026-01-10,no_especificada,1,1,0
+3384,Extracupo,2026-06-10,WhatsApp,1,1,0
+2269,Libre Destino,2026-05-23,WhatsApp,1,1,0
+363,Extracupo,2026-04-09,WhatsApp,1,1,0
+2066,Extracupo,2026-08-04,WhatsApp,1,1,0
+1926,Extracupo,2026-08-12,no_especificada,1,0,0
+4602,Tarjeta Activa,2026-01-25,Email,1,1,0
+4256,Libre Destino,2026-06-20,SMS,0,0,0
+1534,Extracupo,2026-02-01,WhatsApp,0,0,0
+804,Extracupo,2026-02-20,no_especificada,1,1,0
+1494,Extracupo,2026-04-10,no_especificada,1,0,0
+746,Extracupo,2026-01-07,Email,0,0,0
+945,Tarjeta Activa,2026-04-28,SMS,1,1,0
+3804,Libre Destino,2026-06-16,WhatsApp,1,0,0
+1256,Extracupo,2026-08-06,no_especificada,1,1,27502112
+1015,Extracupo,2026-01-23,no_especificada,1,0,0
+705,Extracupo,2026-08-11,WhatsApp,1,1,0
+3621,Tarjeta Activa,2026-08-07,no_especificada,1,0,0
+1425,Libre Destino,2026-07-02,Email,1,0,0
+1753,Tarjeta Activa,2026-09-14,Email,1,0,25343133
+1377,Tarjeta Activa,2026-05-15,WhatsApp,0,0,0
+1485,Extracupo,2026-06-16,WhatsApp,1,1,0
+3912,Extracupo,2026-02-03,Email,0,0,0
+4860,Extracupo,2026-05-25,WhatsApp,0,0,0
+3940,Extracupo,2026-09-06,Email,1,1,0
+293,Extracupo,2026-09-22,SMS,1,1,0
+38,Libre Destino,2026-02-23,SMS,1,1,0
+173,Tarjeta Activa,2026-09-12,no_especificada,1,1,0
+3743,Tarjeta Activa,2026-04-20,WhatsApp,1,0,0
+3305,Tarjeta Activa,2026-01-23,WhatsApp,1,0,0
+2135,Extracupo,2026-07-18,no_especificada,1,0,0
+3452,Libre Destino,2026-05-19,no_especificada,1,1,0
+1242,Libre Destino,2026-05-23,Email,0,0,29368615
+3241,Libre Destino,2026-02-23,no_especificada,1,1,0
+1102,Tarjeta Activa,2026-01-02,Email,1,1,12549450
+1510,Extracupo,2026-09-26,no_especificada,1,1,0
+3492,Tarjeta Activa,2026-04-24,Email,0,0,0
+1733,Extracupo,2026-07-02,WhatsApp,1,0,0
+2234,Libre Destino,2026-02-27,Email,0,0,16020772
+228,Extracupo,2026-09-12,no_especificada,1,1,0
+3992,Tarjeta Activa,2026-03-28,WhatsApp,1,1,0
+1158,Extracupo,2026-08-22,SMS,1,1,0
+2202,Extracupo,2026-03-14,SMS,0,0,0
+1134,Tarjeta Activa,2026-08-09,Email,1,0,23444667
+2689,Tarjeta Activa,2026-09-08,WhatsApp,1,0,25912982
+1962,Tarjeta Activa,2026-01-14,Email,1,1,0
+4614,Tarjeta Activa,2026-04-08,WhatsApp,1,1,0
+2407,Extracupo,2026-06-06,no_especificada,1,1,0
+192,Extracupo,2026-08-08,SMS,1,1,0
+729,Libre Destino,2026-02-06,Email,1,0,27214425
+348,Libre Destino,2026-04-15,no_especificada,0,0,0
+2649,Tarjeta Activa,2026-02-02,Email,0,0,0
+4295,Extracupo,2026-03-27,Email,0,0,0
+2890,Libre Destino,2026-04-05,WhatsApp,1,0,0
+3432,Libre Destino,2026-06-17,Email,1,1,0
+730,Extracupo,2026-02-19,WhatsApp,1,1,0
+673,Libre Destino,2026-07-01,no_especificada,1,1,0
+4918,Libre Destino,2026-04-26,no_especificada,1,1,0
+2394,Extracupo,2026-05-13,WhatsApp,1,1,0
+1110,Tarjeta Activa,2026-04-13,SMS,0,0,0
+556,Tarjeta Activa,2026-03-07,Email,1,0,0
+4769,Libre Destino,2026-02-04,SMS,1,1,0
+1096,Extracupo,2026-01-04,WhatsApp,0,0,0
+3102,Tarjeta Activa,2026-04-01,SMS,0,0,0
+3493,Libre Destino,2026-01-05,SMS,1,1,9891165
+4651,Extracupo,2026-02-27,SMS,0,0,0
+366,Tarjeta Activa,2026-07-02,WhatsApp,0,0,0
+1482,Libre Destino,2026-08-11,SMS,1,0,0
+1954,Extracupo,2026-09-28,Email,0,0,0
+2680,Extracupo,2026-07-26,no_especificada,1,0,0
+403,Extracupo,2026-02-23,no_especificada,0,0,0
+3365,Tarjeta Activa,2026-01-28,WhatsApp,1,1,0
+8,Extracupo,2026-03-15,WhatsApp,1,1,0
+460,Extracupo,2026-07-18,WhatsApp,1,1,0
+470,Extracupo,2026-03-21,SMS,1,1,0
+3323,Tarjeta Activa,2026-06-02,no_especificada,1,1,0
+3400,Libre Destino,2026-07-23,SMS,1,1,0
+4272,Extracupo,2026-07-05,WhatsApp,1,1,15910987
+2655,Extracupo,2026-04-18,no_especificada,1,0,0
+2003,Extracupo,2026-05-02,WhatsApp,0,0,0
+2179,Extracupo,2026-02-23,SMS,1,1,0
+2741,Libre Destino,2026-01-23,Email,1,1,14673631
+2549,Libre Destino,2026-06-25,Email,1,0,0
+4065,Libre Destino,2026-02-23,no_especificada,1,0,0
+162,Libre Destino,2026-05-07,Email,1,1,0
+1630,Libre Destino,2026-07-11,SMS,0,0,0
+474,Tarjeta Activa,2026-07-01,no_especificada,1,1,0
+3460,Tarjeta Activa,2026-05-14,WhatsApp,1,0,0
+1690,Extracupo,2026-02-04,no_especificada,1,0,0
+883,Extracupo,2026-07-20,SMS,0,0,0
+862,Extracupo,2026-08-18,Email,1,1,29743704
+2267,Libre Destino,2026-01-16,SMS,1,0,0
+3488,Extracupo,2026-02-14,no_especificada,1,1,1742524
+2307,Extracupo,2026-09-08,WhatsApp,0,0,0
+3320,Tarjeta Activa,2026-06-08,no_especificada,0,0,0
+2444,Libre Destino,2026-04-17,SMS,1,1,0
+3748,Libre Destino,2026-01-18,WhatsApp,1,1,0
+1373,Tarjeta Activa,2026-09-02,Email,1,1,0
+3042,Libre Destino,2026-05-09,WhatsApp,0,0,0
+364,Tarjeta Activa,2026-08-28,WhatsApp,1,1,0
+1719,Libre Destino,2026-07-02,SMS,0,0,0
+1394,Libre Destino,2026-02-17,WhatsApp,1,1,0
+1261,Tarjeta Activa,2026-09-14,SMS,1,1,0
+200,Tarjeta Activa,2026-05-07,Email,1,1,0
+3322,Libre Destino,2026-04-20,SMS,0,0,0
+90,Tarjeta Activa,2026-06-28,WhatsApp,0,0,0
+4384,Tarjeta Activa,2026-01-12,Email,1,1,0
+4615,Extracupo,2026-07-05,Email,0,0,0
+4139,Extracupo,2026-07-20,WhatsApp,1,1,0
+773,Tarjeta Activa,2026-07-17,WhatsApp,1,1,0
+276,Extracupo,2026-05-05,no_especificada,0,0,0
+1945,Tarjeta Activa,2026-07-24,WhatsApp,0,0,0
+1202,Extracupo,2026-06-02,no_especificada,1,0,0
+270,Tarjeta Activa,2026-07-18,Email,1,1,23524058
+4539,Libre Destino,2026-03-11,no_especificada,0,0,0
+2639,Libre Destino,2026-07-01,SMS,1,1,0
+2883,Extracupo,2026-08-15,WhatsApp,1,0,0
+702,Extracupo,2026-04-25,SMS,1,1,0
+4539,Extracupo,2026-08-19,SMS,1,1,0
+4970,Extracupo,2026-08-24,Email,0,0,19159605
+563,Tarjeta Activa,2026-01-19,no_especificada,1,1,0
+298,Tarjeta Activa,2026-01-13,SMS,0,0,0
+2078,Extracupo,2026-01-08,SMS,1,1,0
+1763,Extracupo,2026-07-17,no_especificada,0,0,0
+4039,Libre Destino,2026-07-13,SMS,1,1,0
+1499,Tarjeta Activa,2026-09-03,SMS,1,1,0
+2928,Extracupo,2026-06-22,no_especificada,1,1,14924971
+4397,Tarjeta Activa,2026-01-11,Email,0,0,0
+2229,Tarjeta Activa,2026-06-25,Email,0,0,0
+76,Extracupo,2026-01-09,no_especificada,1,0,0
+403,Libre Destino,2026-06-23,SMS,1,0,5679171
+628,Extracupo,2026-06-04,no_especificada,0,0,0
+2834,Libre Destino,2026-06-18,SMS,1,1,0
+4195,Libre Destino,2026-07-20,no_especificada,1,1,17036131
+3933,Extracupo,2026-06-06,SMS,1,0,22988996
+1158,Extracupo,2026-05-15,SMS,1,1,0
+1084,Libre Destino,2026-08-09,Email,0,0,0
+142,Tarjeta Activa,2026-07-19,no_especificada,1,1,0
+2058,Extracupo,2026-01-17,WhatsApp,0,0,0
+1685,Libre Destino,2026-03-08,SMS,1,1,0
+3597,Extracupo,2026-07-17,SMS,1,1,0
+1254,Extracupo,2026-04-20,Email,1,0,0
+2105,Extracupo,2026-06-17,no_especificada,1,1,20499651
+562,Extracupo,2026-07-21,WhatsApp,1,1,0
+4083,Extracupo,2026-06-26,SMS,0,0,23325857
+4368,Tarjeta Activa,2026-03-15,Email,0,0,0
+738,Libre Destino,2026-06-05,SMS,1,0,0
+2792,Extracupo,2026-09-11,Email,0,0,0
+1639,Extracupo,2026-07-05,no_especificada,0,0,0
+4078,Tarjeta Activa,2026-06-24,Email,1,0,0
+4048,Libre Destino,2026-07-01,WhatsApp,1,0,0
+4272,Libre Destino,2026-07-28,SMS,1,0,0
+1541,Extracupo,2026-08-18,WhatsApp,1,0,0
+2739,Tarjeta Activa,2026-02-23,no_especificada,0,0,0
+2291,Libre Destino,2026-04-07,no_especificada,1,1,0
+4297,Tarjeta Activa,2026-09-25,SMS,0,0,0
+1490,Tarjeta Activa,2026-05-27,SMS,1,1,8863306
+2749,Libre Destino,2026-01-03,no_especificada,1,1,0
+4059,Tarjeta Activa,2026-01-04,WhatsApp,0,0,0
+552,Tarjeta Activa,2026-08-04,WhatsApp,1,1,0
+824,Libre Destino,2026-05-23,no_especificada,0,0,0
+33,Libre Destino,2026-07-16,WhatsApp,1,1,0
+492,Libre Destino,2026-08-18,Email,1,0,0
+4383,Extracupo,2026-06-22,no_especificada,1,1,0
+13,Extracupo,2026-07-04,Email,1,1,0
+1455,Libre Destino,2026-09-03,SMS,1,1,0
+1684,Libre Destino,2026-02-24,WhatsApp,1,1,21096617
+4747,Libre Destino,2026-08-15,Email,0,0,0
+3003,Extracupo,2026-04-28,WhatsApp,1,1,0
+1589,Libre Destino,2026-05-05,SMS,1,1,29671770
+3162,Libre Destino,2026-04-14,no_especificada,1,1,0
+221,Tarjeta Activa,2026-02-09,no_especificada,1,0,0
+4491,Libre Destino,2026-07-27,Email,1,0,0
+3758,Extracupo,2026-08-11,SMS,1,0,0
+4499,Tarjeta Activa,2026-07-17,Email,0,0,0
+1713,Tarjeta Activa,2026-05-21,SMS,0,0,0
+4288,Extracupo,2026-07-22,Email,1,1,20524846
+2905,Tarjeta Activa,2026-06-27,WhatsApp,0,0,0
+3026,Libre Destino,2026-05-19,no_especificada,1,0,0
+3208,Libre Destino,2026-06-22,SMS,1,1,0
+1198,Tarjeta Activa,2026-09-01,Email,1,1,0
+2088,Libre Destino,2026-07-04,Email,1,1,23381394
+3438,Libre Destino,2026-01-09,WhatsApp,0,0,0
+3745,Tarjeta Activa,2026-05-21,WhatsApp,1,1,0
+3227,Tarjeta Activa,2026-08-06,SMS,1,1,0
+3882,Tarjeta Activa,2026-02-04,Email,1,0,0
+2247,Extracupo,2026-09-18,Email,0,0,0
+1763,Extracupo,2026-01-11,no_especificada,1,0,0
+863,Tarjeta Activa,2026-01-22,Email,0,0,0
+4097,Tarjeta Activa,2026-03-14,no_especificada,1,0,0
+2670,Extracupo,2026-07-13,no_especificada,1,1,0
+3806,Libre Destino,2026-09-05,no_especificada,1,1,0
+3323,Libre Destino,2026-09-13,no_especificada,1,1,0
+2188,Libre Destino,2026-05-16,no_especificada,0,0,0
+4570,Tarjeta Activa,2026-02-27,SMS,0,0,0
+126,Tarjeta Activa,2026-07-21,Email,1,0,0
+3518,Tarjeta Activa,2026-01-25,no_especificada,0,0,0
+3380,Libre Destino,2026-04-24,WhatsApp,1,1,0
+1942,Tarjeta Activa,2026-08-20,SMS,1,0,0
+1056,Tarjeta Activa,2026-06-08,no_especificada,1,1,0
+1615,Tarjeta Activa,2026-04-22,WhatsApp,1,0,26848021
+2317,Tarjeta Activa,2026-07-12,no_especificada,0,0,16223742
+1676,Libre Destino,2026-05-14,WhatsApp,1,1,0
+698,Extracupo,2026-06-09,WhatsApp,1,0,0
+1608,Extracupo,2026-05-25,SMS,1,1,0
+2285,Libre Destino,2026-06-06,no_especificada,1,0,0
+3608,Extracupo,2026-02-16,WhatsApp,1,1,0
+2305,Tarjeta Activa,2026-06-12,SMS,0,0,0
+4687,Libre Destino,2026-05-12,no_especificada,0,0,0
+3366,Tarjeta Activa,2026-04-25,SMS,1,1,0
+376,Libre Destino,2026-02-05,no_especificada,1,1,0
+4183,Tarjeta Activa,2026-06-22,SMS,1,0,0
+3980,Tarjeta Activa,2026-01-15,no_especificada,0,0,0
+2698,Tarjeta Activa,2026-09-18,no_especificada,1,1,0
+3938,Tarjeta Activa,2026-08-19,no_especificada,1,1,0
+233,Extracupo,2026-09-08,no_especificada,1,0,0
+2596,Tarjeta Activa,2026-06-02,WhatsApp,1,1,0
+4741,Libre Destino,2026-07-20,Email,1,1,0
+3614,Tarjeta Activa,2026-09-13,WhatsApp,0,0,0
+665,Extracupo,2026-06-11,Email,1,1,0
+354,Tarjeta Activa,2026-07-16,no_especificada,1,0,8349013
+3102,Libre Destino,2026-05-02,WhatsApp,1,1,0
+2069,Tarjeta Activa,2026-01-19,no_especificada,1,0,0
+2670,Tarjeta Activa,2026-01-25,WhatsApp,1,0,0
+1530,Tarjeta Activa,2026-08-16,Email,1,1,0
+3382,Tarjeta Activa,2026-08-05,WhatsApp,1,1,0
+209,Libre Destino,2026-09-20,Email,1,1,9471030
+1691,Libre Destino,2026-03-16,no_especificada,1,1,27292883
+4161,Tarjeta Activa,2026-03-09,no_especificada,0,0,0
+1685,Extracupo,2026-01-16,WhatsApp,1,1,0
+3618,Tarjeta Activa,2026-07-15,SMS,1,1,0
+4462,Extracupo,2026-04-15,SMS,0,0,11799497
+3936,Extracupo,2026-08-09,SMS,1,0,0
+4644,Libre Destino,2026-08-14,SMS,1,1,0
+3072,Tarjeta Activa,2026-08-20,Email,0,0,0
+6,Extracupo,2026-05-25,WhatsApp,1,1,0
+1516,Tarjeta Activa,2026-02-18,WhatsApp,0,0,0
+1188,Extracupo,2026-01-24,SMS,1,1,21115434
+2526,Tarjeta Activa,2026-02-16,no_especificada,1,1,0
+4111,Libre Destino,2026-03-10,WhatsApp,1,0,12710064
+770,Extracupo,2026-05-08,Email,0,0,0
+4214,Libre Destino,2026-07-16,WhatsApp,1,1,0
+4010,Tarjeta Activa,2026-06-28,SMS,1,0,0
+4728,Extracupo,2026-09-12,Email,0,0,0
+3935,Extracupo,2026-06-16,no_especificada,0,0,0
+2436,Tarjeta Activa,2026-09-21,no_especificada,1,1,0
+3041,Tarjeta Activa,2026-01-15,no_especificada,1,1,3728608
+453,Extracupo,2026-07-09,no_especificada,1,1,0
+850,Libre Destino,2026-06-18,Email,1,1,0
+1022,Tarjeta Activa,2026-06-16,SMS,1,1,0
+768,Libre Destino,2026-03-25,SMS,1,1,0
+286,Extracupo,2026-09-05,SMS,1,1,0
+2489,Tarjeta Activa,2026-02-03,Email,1,1,0
+2732,Extracupo,2026-06-17,Email,0,0,0
+3292,Libre Destino,2026-03-21,Email,1,1,0
+4398,Extracupo,2026-03-25,Email,1,1,0
+4502,Tarjeta Activa,2026-07-18,SMS,1,0,0
+3264,Libre Destino,2026-03-22,SMS,0,0,0
+4591,Libre Destino,2026-06-22,SMS,1,1,11887371
+572,Extracupo,2026-06-13,Email,1,0,0
+4233,Extracupo,2026-09-05,no_especificada,0,0,0
+109,Extracupo,2026-07-05,no_especificada,1,0,0
+581,Extracupo,2026-04-16,WhatsApp,1,1,0
+3908,Libre Destino,2026-05-15,no_especificada,0,0,0
+4312,Extracupo,2026-03-03,no_especificada,1,1,0
+3683,Tarjeta Activa,2026-02-07,no_especificada,1,1,0
+4836,Extracupo,2026-04-21,Email,1,1,0
+1810,Extracupo,2026-05-02,WhatsApp,1,0,0
+2689,Tarjeta Activa,2026-04-11,SMS,1,0,0
+4564,Extracupo,2026-08-25,WhatsApp,1,1,0
+4859,Libre Destino,2026-04-26,WhatsApp,0,0,0
+1838,Tarjeta Activa,2026-09-18,Email,1,1,18298252
+1937,Libre Destino,2026-04-05,Email,1,0,0
+4175,Extracupo,2026-03-07,no_especificada,1,1,7889588
+2431,Extracupo,2026-05-21,WhatsApp,1,1,0
+1333,Libre Destino,2026-07-28,Email,1,0,28013920
+4070,Tarjeta Activa,2026-05-12,WhatsApp,1,1,0
+4388,Libre Destino,2026-02-05,SMS,1,0,0
+841,Extracupo,2026-06-01,WhatsApp,0,0,0
+1149,Extracupo,2026-05-12,Email,1,1,0
+2313,Tarjeta Activa,2026-04-03,no_especificada,1,1,0
+2315,Tarjeta Activa,2026-08-18,SMS,1,0,0
+3648,Libre Destino,2026-02-01,Email,1,1,0
+2843,Tarjeta Activa,2026-08-21,no_especificada,1,0,26370080
+1338,Tarjeta Activa,2026-05-02,WhatsApp,1,1,0
+3774,Libre Destino,2026-03-02,Email,1,1,0
+3783,Tarjeta Activa,2026-09-24,no_especificada,1,1,0
+3215,Tarjeta Activa,2026-01-12,WhatsApp,1,1,0
+239,Libre Destino,2026-01-24,WhatsApp,0,0,0
+1144,Extracupo,2026-06-14,Email,1,0,0
+4785,Libre Destino,2026-01-28,SMS,1,1,0
+555,Tarjeta Activa,2026-06-03,Email,1,1,0
+2894,Tarjeta Activa,2026-05-04,SMS,1,1,0
+2913,Tarjeta Activa,2026-02-21,SMS,1,1,0
+929,Extracupo,2026-03-01,Email,1,1,26886892
+4153,Tarjeta Activa,2026-03-11,no_especificada,1,1,0
+1419,Tarjeta Activa,2026-06-06,WhatsApp,1,0,0
+2257,Libre Destino,2026-08-15,Email,1,1,0
+1766,Tarjeta Activa,2026-03-10,Email,1,1,0
+2561,Libre Destino,2026-06-02,Email,1,1,0
+3575,Tarjeta Activa,2026-01-15,SMS,1,1,0
+167,Tarjeta Activa,2026-07-03,WhatsApp,0,0,0
+149,Libre Destino,2026-03-03,WhatsApp,1,1,0
+1996,Extracupo,2026-09-03,WhatsApp,1,1,0
+3395,Libre Destino,2026-01-11,SMS,1,1,0
+3959,Libre Destino,2026-04-14,WhatsApp,1,1,7922067
+290,Libre Destino,2026-01-05,no_especificada,1,1,0
+1771,Extracupo,2026-09-28,no_especificada,1,1,0
+3431,Extracupo,2026-08-27,WhatsApp,0,0,0
+1529,Tarjeta Activa,2026-02-05,WhatsApp,1,0,0
+917,Extracupo,2026-08-24,WhatsApp,1,1,0
+4650,Libre Destino,2026-04-15,no_especificada,1,1,23551877
+421,Tarjeta Activa,2026-01-26,WhatsApp,1,0,0
+4972,Tarjeta Activa,2026-08-19,no_especificada,1,1,0
+248,Libre Destino,2026-03-19,SMS,1,1,0
+3082,Tarjeta Activa,2026-08-15,SMS,1,1,0
+3424,Tarjeta Activa,2026-06-24,SMS,1,1,0
+3889,Extracupo,2026-07-17,SMS,1,0,0
+2796,Tarjeta Activa,2026-07-19,no_especificada,1,1,0
+4291,Extracupo,2026-08-19,Email,1,1,0
+2928,Tarjeta Activa,2026-03-18,no_especificada,1,1,0
+3722,Libre Destino,2026-08-23,WhatsApp,0,0,0
+3378,Libre Destino,2026-01-02,SMS,1,1,0
+279,Tarjeta Activa,2026-05-16,no_especificada,0,0,18639269
+4368,Extracupo,2026-06-05,SMS,1,1,0
+1903,Libre Destino,2026-01-23,SMS,1,1,0
+1644,Tarjeta Activa,2026-04-05,Email,1,0,13884587
+1313,Libre Destino,2026-07-22,no_especificada,1,1,0
+4442,Tarjeta Activa,2026-05-14,Email,0,0,0
+2338,Libre Destino,2026-09-25,Email,1,1,0
+1931,Libre Destino,2026-02-02,no_especificada,1,1,0
+8,Extracupo,2026-08-27,WhatsApp,1,1,0
+4989,Extracupo,2026-04-02,SMS,1,0,0
+1755,Extracupo,2026-09-03,no_especificada,1,1,0
+708,Libre Destino,2026-09-05,SMS,1,1,27790091
+2568,Tarjeta Activa,2026-04-02,Email,1,1,0
+2259,Tarjeta Activa,2026-08-15,WhatsApp,1,0,0
+4852,Tarjeta Activa,2026-08-11,WhatsApp,0,0,0
+2221,Libre Destino,2026-04-11,WhatsApp,1,1,0
+3877,Tarjeta Activa,2026-04-03,SMS,1,0,0
+3247,Extracupo,2026-06-05,SMS,1,0,0
+2634,Extracupo,2026-08-18,WhatsApp,0,0,0
+1377,Libre Destino,2026-09-22,SMS,0,0,0
+3677,Libre Destino,2026-09-06,SMS,1,0,0
+2512,Extracupo,2026-02-20,SMS,1,0,0
+3651,Extracupo,2026-01-26,no_especificada,1,1,0
+4890,Libre Destino,2026-08-20,WhatsApp,1,1,0
+4866,Extracupo,2026-05-16,SMS,1,0,0
+323,Tarjeta Activa,2026-06-28,Email,1,1,0
+3207,Libre Destino,2026-07-07,WhatsApp,1,1,0
+4233,Libre Destino,2026-09-12,SMS,0,0,0
+2153,Extracupo,2026-08-22,Email,1,1,0
+243,Libre Destino,2026-05-14,WhatsApp,1,1,0
+2710,Extracupo,2026-06-22,Email,1,1,0
+4505,Extracupo,2026-04-04,SMS,1,1,0
+4610,Tarjeta Activa,2026-04-17,WhatsApp,1,1,0
+2371,Extracupo,2026-03-06,WhatsApp,1,1,0
+2575,Extracupo,2026-07-26,no_especificada,1,0,0
+4954,Tarjeta Activa,2026-01-22,WhatsApp,0,0,0
+2531,Tarjeta Activa,2026-05-03,no_especificada,0,0,0
+1635,Tarjeta Activa,2026-04-01,no_especificada,1,1,0
+4595,Tarjeta Activa,2026-03-25,Email,1,1,0
+459,Extracupo,2026-06-20,no_especificada,1,0,0
+1794,Extracupo,2026-03-25,WhatsApp,1,0,0
+3313,Extracupo,2026-05-21,WhatsApp,1,1,0
+1737,Extracupo,2026-01-20,SMS,1,1,0
+1376,Extracupo,2026-07-02,no_especificada,1,1,0
+1954,Libre Destino,2026-03-10,WhatsApp,1,1,0
+479,Extracupo,2026-02-10,WhatsApp,1,1,0
+796,Libre Destino,2026-03-08,Email,1,0,0
+2983,Tarjeta Activa,2026-07-23,no_especificada,1,0,0
+1624,Extracupo,2026-06-23,Email,1,1,0
+1171,Extracupo,2026-02-09,Email,1,1,0
+1287,Tarjeta Activa,2026-05-02,no_especificada,1,0,0
+999,Libre Destino,2026-04-05,SMS,1,1,11727908
+226,Libre Destino,2026-01-22,Email,1,1,16231987
+2726,Tarjeta Activa,2026-06-06,SMS,0,0,0
+186,Tarjeta Activa,2026-03-10,Email,1,1,0
+1838,Tarjeta Activa,2026-06-02,no_especificada,1,1,0
+2303,Libre Destino,2026-04-06,Email,1,1,0
+387,Extracupo,2026-01-07,WhatsApp,1,0,0
+2683,Libre Destino,2026-06-09,no_especificada,1,0,0
+576,Tarjeta Activa,2026-07-27,WhatsApp,1,0,0
+1050,Tarjeta Activa,2026-01-13,WhatsApp,1,0,0
+4804,Tarjeta Activa,2026-07-02,SMS,0,0,0
+2008,Libre Destino,2026-07-25,WhatsApp,1,0,0
+1821,Libre Destino,2026-04-26,SMS,1,0,0
+4300,Extracupo,2026-08-04,WhatsApp,0,0,0
+4347,Tarjeta Activa,2026-04-21,Email,1,0,0
+835,Extracupo,2026-04-03,Email,1,0,0
+1406,Tarjeta Activa,2026-04-13,WhatsApp,1,1,0
+2228,Extracupo,2026-07-01,WhatsApp,1,1,0
+4414,Libre Destino,2026-08-17,Email,1,1,0
+1568,Libre Destino,2026-06-08,no_especificada,1,0,0
+945,Tarjeta Activa,2026-04-10,WhatsApp,1,1,0
+2530,Extracupo,2026-06-06,WhatsApp,1,0,0
+4988,Libre Destino,2026-04-26,WhatsApp,1,1,15754680
+2019,Tarjeta Activa,2026-01-03,Email,1,1,0
+3367,Libre Destino,2026-01-14,Email,1,0,0
+838,Libre Destino,2026-07-08,SMS,0,0,0
+3846,Tarjeta Activa,2026-08-01,Email,1,0,2162101
+29,Extracupo,2026-03-24,Email,0,0,0
+4219,Tarjeta Activa,2026-02-28,Email,1,0,0
+2208,Extracupo,2026-02-03,WhatsApp,1,1,29432849
+2819,Extracupo,2026-07-18,WhatsApp,0,0,0
+3276,Libre Destino,2026-04-28,no_especificada,1,1,0
+1334,Tarjeta Activa,2026-02-22,no_especificada,1,0,0
+2435,Extracupo,2026-04-18,Email,0,0,0
+3701,Extracupo,2026-02-15,WhatsApp,1,0,0
+606,Tarjeta Activa,2026-01-13,no_especificada,1,1,0
+1714,Libre Destino,2026-01-19,SMS,1,0,0
+1946,Tarjeta Activa,2026-05-16,Email,1,1,0
+4056,Libre Destino,2026-06-10,no_especificada,1,1,0
+775,Libre Destino,2026-05-14,Email,1,0,0
+91,Libre Destino,2026-04-11,WhatsApp,1,1,0
+1142,Tarjeta Activa,2026-04-26,WhatsApp,1,0,0
+912,Tarjeta Activa,2026-06-16,Email,0,0,0
+3308,Tarjeta Activa,2026-05-07,SMS,1,1,0
+3549,Extracupo,2026-02-14,WhatsApp,1,1,0
+337,Tarjeta Activa,2026-09-18,Email,1,0,0
+1392,Tarjeta Activa,2026-04-10,SMS,1,1,0
+452,Tarjeta Activa,2026-08-23,no_especificada,0,0,20635490
+1745,Libre Destino,2026-04-18,Email,1,1,2522226
+3797,Extracupo,2026-03-16,no_especificada,1,1,0
+2325,Tarjeta Activa,2026-06-04,no_especificada,1,1,0
+3827,Tarjeta Activa,2026-07-15,WhatsApp,1,1,0
+193,Tarjeta Activa,2026-09-08,no_especificada,1,1,0
+4212,Tarjeta Activa,2026-02-15,WhatsApp,1,0,0
+4522,Libre Destino,2026-08-05,no_especificada,1,1,0
+2729,Libre Destino,2026-08-27,SMS,1,1,12496370
+4137,Extracupo,2026-05-28,SMS,0,0,0
+3587,Extracupo,2026-04-10,SMS,0,0,0
+3814,Extracupo,2026-08-22,no_especificada,1,1,0
+2063,Tarjeta Activa,2026-03-08,no_especificada,0,0,0
+582,Tarjeta Activa,2026-06-18,no_especificada,1,1,0
+2209,Tarjeta Activa,2026-02-04,Email,1,1,0
+2070,Libre Destino,2026-09-04,Email,0,0,0
+2208,Tarjeta Activa,2026-04-28,SMS,1,1,21631029
+2176,Tarjeta Activa,2026-05-06,Email,0,0,0
+1458,Tarjeta Activa,2026-02-13,WhatsApp,0,0,0
+2778,Libre Destino,2026-09-04,Email,1,0,0
+1562,Extracupo,2026-03-14,SMS,1,1,0
+1196,Tarjeta Activa,2026-05-09,no_especificada,1,1,29462142
+2187,Extracupo,2026-09-03,WhatsApp,1,1,0
+4318,Tarjeta Activa,2026-05-13,SMS,0,0,0
+4645,Tarjeta Activa,2026-02-02,Email,1,1,0
+4344,Extracupo,2026-07-05,Email,1,0,0
+4448,Libre Destino,2026-02-19,SMS,0,0,0
+3937,Tarjeta Activa,2026-04-15,no_especificada,1,1,0
+3791,Tarjeta Activa,2026-05-07,WhatsApp,1,1,0
+97,Libre Destino,2026-07-12,Email,1,0,0
+820,Tarjeta Activa,2026-08-28,SMS,1,1,0
+1954,Tarjeta Activa,2026-07-24,SMS,1,0,0
+4594,Tarjeta Activa,2026-05-26,WhatsApp,1,0,0
+3610,Libre Destino,2026-03-15,no_especificada,1,1,0
+2302,Libre Destino,2026-01-05,WhatsApp,1,1,0
+4397,Tarjeta Activa,2026-02-26,Email,1,1,19045435
+516,Extracupo,2026-02-14,no_especificada,0,0,12268611
+3407,Tarjeta Activa,2026-02-01,WhatsApp,1,0,3763633
+1310,Extracupo,2026-09-10,no_especificada,0,0,0
+3830,Extracupo,2026-09-28,SMS,1,1,29303097
+391,Extracupo,2026-06-24,Email,0,0,0
+3063,Libre Destino,2026-01-08,Email,0,0,0
+4948,Extracupo,2026-02-08,WhatsApp,0,0,0
+2418,Extracupo,2026-01-26,WhatsApp,0,0,0
+1512,Libre Destino,2026-05-22,no_especificada,1,1,0
+1494,Libre Destino,2026-09-22,WhatsApp,0,0,0
+2393,Tarjeta Activa,2026-09-17,Email,1,1,0
+701,Tarjeta Activa,2026-06-18,WhatsApp,0,0,0
+2110,Extracupo,2026-08-09,SMS,0,0,0
+243,Tarjeta Activa,2026-09-06,SMS,1,1,0
+1956,Extracupo,2026-02-28,WhatsApp,1,0,0
+4195,Extracupo,2026-06-16,WhatsApp,1,1,0
+958,Extracupo,2026-08-10,WhatsApp,0,0,0
+1688,Extracupo,2026-05-28,Email,1,1,0
+4922,Tarjeta Activa,2026-07-24,WhatsApp,1,1,0
+954,Extracupo,2026-07-07,Email,0,0,0
+2238,Tarjeta Activa,2026-09-25,WhatsApp,1,0,4802356
+3326,Tarjeta Activa,2026-03-21,no_especificada,1,1,0
+3745,Extracupo,2026-09-25,Email,1,1,0
+4790,Libre Destino,2026-03-16,no_especificada,0,0,0
+1230,Tarjeta Activa,2026-09-13,WhatsApp,0,0,0
+1470,Libre Destino,2026-07-10,Email,1,0,0
+3592,Extracupo,2026-06-25,no_especificada,1,1,0
+2778,Extracupo,2026-01-14,WhatsApp,1,0,0
+3559,Libre Destino,2026-01-03,no_especificada,1,1,0
+401,Libre Destino,2026-06-19,WhatsApp,0,0,0
+2862,Tarjeta Activa,2026-05-19,no_especificada,1,0,25762954
+2948,Libre Destino,2026-01-08,Email,0,0,0
+741,Libre Destino,2026-01-08,WhatsApp,1,1,0
+2176,Tarjeta Activa,2026-06-28,WhatsApp,1,1,0
+1278,Tarjeta Activa,2026-07-12,SMS,1,0,0
+1039,Extracupo,2026-06-02,WhatsApp,1,1,0
+125,Libre Destino,2026-04-04,no_especificada,1,1,0
+3852,Extracupo,2026-04-02,WhatsApp,1,1,0
+1957,Libre Destino,2026-07-05,WhatsApp,1,1,0
+1861,Libre Destino,2026-05-26,Email,1,0,0
+1115,Libre Destino,2026-05-02,no_especificada,1,1,0
+2952,Libre Destino,2026-05-26,SMS,0,0,0
+2636,Libre Destino,2026-09-19,WhatsApp,1,0,0
+2082,Extracupo,2026-05-08,Email,1,0,0
+27,Tarjeta Activa,2026-04-05,SMS,1,1,0
+3405,Extracupo,2026-02-09,WhatsApp,1,1,1414639
+3541,Libre Destino,2026-07-17,no_especificada,1,1,0
+1323,Libre Destino,2026-03-01,WhatsApp,1,0,0
+2787,Libre Destino,2026-03-19,Email,1,0,0
+237,Libre Destino,2026-09-25,WhatsApp,0,0,0
+4257,Tarjeta Activa,2026-02-22,WhatsApp,1,1,0
+1577,Extracupo,2026-09-19,SMS,1,1,0
+822,Libre Destino,2026-05-25,WhatsApp,1,0,0
+3858,Tarjeta Activa,2026-07-26,no_especificada,1,1,0
+1142,Tarjeta Activa,2026-07-03,WhatsApp,1,0,0
+286,Extracupo,2026-03-18,no_especificada,1,0,0
+4305,Tarjeta Activa,2026-06-27,SMS,1,0,0
+684,Tarjeta Activa,2026-06-03,Email,0,0,0
+2062,Extracupo,2026-07-01,Email,1,1,0
+909,Libre Destino,2026-03-01,Email,1,1,0
+3668,Extracupo,2026-06-01,SMS,1,1,0
+856,Extracupo,2026-06-01,no_especificada,1,0,0
+4665,Libre Destino,2026-06-26,Email,1,1,0
+1259,Libre Destino,2026-09-08,Email,1,0,0
+825,Extracupo,2026-02-07,no_especificada,1,0,14466732
+1352,Libre Destino,2026-01-15,SMS,1,1,0
+3608,Tarjeta Activa,2026-05-07,SMS,1,0,0
+268,Tarjeta Activa,2026-09-06,no_especificada,0,0,0
+3285,Tarjeta Activa,2026-06-09,SMS,1,1,0
+1269,Tarjeta Activa,2026-06-19,SMS,1,0,0
+285,Extracupo,2026-03-05,WhatsApp,1,1,0
+491,Libre Destino,2026-02-07,WhatsApp,1,1,0
+1348,Extracupo,2026-07-22,SMS,1,1,0
+3022,Tarjeta Activa,2026-06-14,SMS,1,0,0
+229,Tarjeta Activa,2026-03-28,SMS,0,0,0
+722,Extracupo,2026-01-25,WhatsApp,1,0,0
+3367,Libre Destino,2026-09-08,SMS,0,0,0
+3710,Extracupo,2026-06-16,no_especificada,0,0,0
+3357,Tarjeta Activa,2026-07-28,WhatsApp,1,1,0
+1815,Tarjeta Activa,2026-08-15,Email,1,0,0
+4404,Tarjeta Activa,2026-02-12,no_especificada,1,0,0
+924,Extracupo,2026-05-19,SMS,1,1,0
+4461,Extracupo,2026-02-17,Email,1,0,0
+3235,Libre Destino,2026-09-24,Email,1,1,4927935
+405,Extracupo,2026-06-04,Email,1,1,0
+3427,Tarjeta Activa,2026-08-22,SMS,1,0,0
+4650,Tarjeta Activa,2026-05-04,SMS,1,1,0
+458,Extracupo,2026-06-17,WhatsApp,0,0,0
+1529,Libre Destino,2026-02-24,Email,1,1,0
+3193,Tarjeta Activa,2026-05-04,no_especificada,0,0,0
+1457,Tarjeta Activa,2026-09-27,no_especificada,1,1,0
+3118,Tarjeta Activa,2026-01-01,WhatsApp,0,0,0
+4767,Extracupo,2026-07-10,SMS,1,0,0
+2282,Extracupo,2026-05-17,no_especificada,1,1,0
+1866,Extracupo,2026-03-26,SMS,0,0,0
+2589,Libre Destino,2026-05-10,WhatsApp,0,0,0
+574,Libre Destino,2026-06-17,SMS,1,1,0
+2759,Extracupo,2026-07-19,SMS,0,0,0
+245,Tarjeta Activa,2026-04-25,Email,1,1,0
+3553,Extracupo,2026-06-14,WhatsApp,1,1,0
+1071,Tarjeta Activa,2026-05-19,WhatsApp,1,0,0
+4811,Tarjeta Activa,2026-07-20,no_especificada,1,1,0
+2751,Tarjeta Activa,2026-02-06,SMS,1,1,0
+3434,Extracupo,2026-08-07,Email,1,1,0
+1389,Libre Destino,2026-01-10,no_especificada,1,1,0
+230,Extracupo,2026-07-17,no_especificada,1,0,0
+4755,Tarjeta Activa,2026-05-18,WhatsApp,0,0,0
+2537,Libre Destino,2026-07-22,no_especificada,0,0,0
+2191,Extracupo,2026-06-03,SMS,1,1,23725412
+1289,Tarjeta Activa,2026-05-21,no_especificada,1,0,0
+2003,Tarjeta Activa,2026-01-23,no_especificada,1,1,0
+4115,Extracupo,2026-08-05,WhatsApp,1,0,0
+1871,Extracupo,2026-06-16,no_especificada,1,1,0
+2245,Extracupo,2026-07-28,SMS,1,0,0
+903,Extracupo,2026-07-06,WhatsApp,1,1,0
+4761,Tarjeta Activa,2026-02-12,Email,1,1,0
+756,Libre Destino,2026-01-04,no_especificada,0,0,0
+2657,Tarjeta Activa,2026-07-09,WhatsApp,1,0,0
+4033,Tarjeta Activa,2026-02-19,WhatsApp,1,0,0
+3668,Libre Destino,2026-07-28,no_especificada,0,0,0
+259,Tarjeta Activa,2026-03-24,SMS,1,1,0
+1707,Libre Destino,2026-01-24,WhatsApp,1,1,0
+577,Libre Destino,2026-08-08,Email,1,1,0
+3908,Libre Destino,2026-04-21,SMS,0,0,0
+1545,Tarjeta Activa,2026-05-15,SMS,1,1,17315759
+3433,Tarjeta Activa,2026-03-13,no_especificada,1,1,0
+1942,Libre Destino,2026-08-05,WhatsApp,1,1,0
+2633,Tarjeta Activa,2026-03-06,SMS,0,0,0
+2973,Extracupo,2026-04-11,SMS,0,0,0
+3956,Tarjeta Activa,2026-02-25,Email,1,1,0
+871,Tarjeta Activa,2026-09-03,WhatsApp,1,0,0
+337,Extracupo,2026-05-27,WhatsApp,1,1,0
+3477,Tarjeta Activa,2026-05-28,no_especificada,1,1,0
+146,Libre Destino,2026-01-22,Email,0,0,0
+2348,Libre Destino,2026-04-22,no_especificada,1,1,8385181
+1410,Libre Destino,2026-02-17,Email,1,0,0
+508,Libre Destino,2026-04-27,WhatsApp,1,1,23245618
+4157,Libre Destino,2026-09-22,Email,1,0,26889862
+4042,Libre Destino,2026-06-08,no_especificada,0,0,0
+4533,Tarjeta Activa,2026-06-05,Email,0,0,8259614
+2454,Extracupo,2026-06-18,no_especificada,1,0,0
+116,Libre Destino,2026-03-05,Email,0,0,0
+794,Tarjeta Activa,2026-09-12,WhatsApp,1,1,13343862
+171,Tarjeta Activa,2026-03-08,Email,0,0,0
+1604,Tarjeta Activa,2026-02-15,Email,1,1,0
+1624,Tarjeta Activa,2026-09-05,SMS,0,0,0
+3960,Libre Destino,2026-01-07,no_especificada,1,0,0
+4578,Tarjeta Activa,2026-02-07,WhatsApp,1,1,0
+2825,Libre Destino,2026-07-11,Email,1,1,0
+780,Tarjeta Activa,2026-08-19,SMS,1,0,0
+1224,Extracupo,2026-01-06,no_especificada,1,1,0
+1469,Tarjeta Activa,2026-02-23,Email,0,0,0
+1884,Tarjeta Activa,2026-08-19,SMS,1,1,0
+1840,Tarjeta Activa,2026-09-05,Email,1,0,0
+2046,Tarjeta Activa,2026-07-01,no_especificada,1,0,0
+1123,Extracupo,2026-03-26,SMS,1,1,26457874
+1452,Libre Destino,2026-05-12,no_especificada,1,1,0
+1813,Libre Destino,2026-02-24,SMS,1,1,13708859
+4112,Extracupo,2026-08-06,WhatsApp,1,1,0
+2442,Extracupo,2026-09-03,Email,1,0,0
+1611,Extracupo,2026-03-18,no_especificada,1,0,0
+2260,Tarjeta Activa,2026-09-19,Email,1,1,0
+1884,Extracupo,2026-08-14,no_especificada,1,0,0
+2799,Libre Destino,2026-02-18,SMS,0,0,0
+2000,Tarjeta Activa,2026-07-04,no_especificada,1,0,0
+3892,Tarjeta Activa,2026-05-09,no_especificada,1,0,0
+4535,Tarjeta Activa,2026-06-10,WhatsApp,0,0,0
+462,Tarjeta Activa,2026-02-10,Email,1,1,29887461
+223,Tarjeta Activa,2026-06-16,WhatsApp,0,0,0
+4510,Libre Destino,2026-01-17,WhatsApp,1,0,0
+1869,Extracupo,2026-07-12,Email,1,1,0
+3524,Extracupo,2026-01-17,no_especificada,0,0,0
+1005,Extracupo,2026-08-17,no_especificada,1,0,0
+2559,Extracupo,2026-04-18,Email,1,0,0
+1388,Tarjeta Activa,2026-06-13,SMS,1,0,0
+3122,Libre Destino,2026-08-23,WhatsApp,1,0,0
+4493,Tarjeta Activa,2026-01-08,WhatsApp,0,0,0
+129,Extracupo,2026-04-10,WhatsApp,1,0,0
+1064,Libre Destino,2026-09-20,Email,1,1,0
+1300,Libre Destino,2026-03-05,Email,1,0,0
+1507,Extracupo,2026-09-25,Email,1,0,0
+4432,Libre Destino,2026-02-02,WhatsApp,1,0,0
+56,Tarjeta Activa,2026-05-22,no_especificada,1,0,0
+2042,Extracupo,2026-04-01,SMS,1,1,0
+3011,Extracupo,2026-06-20,no_especificada,1,1,0
+4098,Libre Destino,2026-07-23,no_especificada,1,1,0
+4396,Tarjeta Activa,2026-06-11,WhatsApp,0,0,0
+3822,Libre Destino,2026-03-13,Email,1,1,0
+2466,Extracupo,2026-08-17,WhatsApp,1,0,0
+3729,Tarjeta Activa,2026-06-25,WhatsApp,1,1,0
+465,Libre Destino,2026-03-18,SMS,1,1,0
+4429,Libre Destino,2026-05-21,WhatsApp,1,1,0
+1760,Libre Destino,2026-05-19,no_especificada,1,0,0
+8,Tarjeta Activa,2026-05-24,WhatsApp,0,0,0
+3657,Libre Destino,2026-01-07,no_especificada,1,1,0
+4857,Extracupo,2026-07-25,SMS,1,1,0
+4226,Extracupo,2026-08-17,SMS,1,1,0
+4608,Tarjeta Activa,2026-06-19,SMS,0,0,0
+1552,Extracupo,2026-02-24,SMS,1,0,0
+384,Libre Destino,2026-01-09,no_especificada,0,0,10884796
+3719,Extracupo,2026-06-02,Email,1,0,0
+1446,Tarjeta Activa,2026-06-01,WhatsApp,1,0,0
+1622,Libre Destino,2026-06-16,WhatsApp,1,0,0
+1820,Extracupo,2026-04-07,SMS,1,1,13647554
+1108,Tarjeta Activa,2026-04-19,SMS,1,1,4356578
+4004,Tarjeta Activa,2026-02-17,SMS,1,0,18918441
+2634,Libre Destino,2026-07-07,no_especificada,1,1,0
+1199,Libre Destino,2026-01-15,no_especificada,1,0,0
+125,Libre Destino,2026-03-13,Email,1,1,0
+2801,Libre Destino,2026-04-15,Email,0,0,0
+367,Libre Destino,2026-07-06,SMS,1,1,0
+2884,Tarjeta Activa,2026-07-08,WhatsApp,1,1,0
+2058,Tarjeta Activa,2026-09-05,Email,1,0,0
+523,Extracupo,2026-05-12,Email,1,1,0
+4494,Libre Destino,2026-05-05,WhatsApp,1,0,5832058
+3704,Tarjeta Activa,2026-08-06,SMS,1,0,0
+3329,Libre Destino,2026-05-21,WhatsApp,1,0,0
+119,Extracupo,2026-04-11,SMS,1,1,0
+1488,Tarjeta Activa,2026-03-06,no_especificada,1,1,25940813
+3397,Libre Destino,2026-01-28,no_especificada,1,1,0
+2383,Extracupo,2026-04-15,no_especificada,1,0,0
+3186,Extracupo,2026-05-16,Email,1,0,0
+633,Tarjeta Activa,2026-08-23,SMS,0,0,0
+1609,Libre Destino,2026-04-26,Email,1,0,0
+3716,Tarjeta Activa,2026-04-07,Email,1,1,0
+1955,Libre Destino,2026-09-11,no_especificada,1,1,0
+1277,Libre Destino,2026-02-20,WhatsApp,0,0,0
+268,Extracupo,2026-05-24,no_especificada,1,1,0
+3132,Extracupo,2026-06-18,WhatsApp,1,1,0
+1127,Extracupo,2026-09-10,no_especificada,1,1,0
+280,Extracupo,2026-01-18,SMS,1,1,0
+4587,Libre Destino,2026-09-08,WhatsApp,1,0,0
+2655,Tarjeta Activa,2026-01-18,no_especificada,1,1,0
+3969,Extracupo,2026-01-10,Email,0,0,0
+4576,Tarjeta Activa,2026-08-26,no_especificada,1,1,0
+3430,Extracupo,2026-08-22,no_especificada,1,0,0
+2490,Extracupo,2026-06-11,WhatsApp,0,0,9428442
+296,Tarjeta Activa,2026-03-27,SMS,0,0,0
+244,Extracupo,2026-03-10,SMS,1,1,18256685
+572,Libre Destino,2026-04-28,Email,1,1,0
+2734,Tarjeta Activa,2026-03-20,WhatsApp,0,0,0
+4348,Libre Destino,2026-01-09,no_especificada,1,1,15135946
+4793,Libre Destino,2026-06-12,SMS,1,1,0
+981,Tarjeta Activa,2026-01-24,Email,0,0,0
+4336,Libre Destino,2026-06-24,WhatsApp,1,1,0
+2510,Extracupo,2026-02-07,no_especificada,0,0,0
+4974,Libre Destino,2026-03-06,WhatsApp,1,1,0
+601,Extracupo,2026-01-26,SMS,1,1,0
+3611,Tarjeta Activa,2026-09-07,Email,1,0,0
+953,Tarjeta Activa,2026-09-12,no_especificada,0,0,0
+2694,Extracupo,2026-06-24,Email,1,1,0
+1525,Extracupo,2026-02-11,WhatsApp,1,1,0
+1280,Extracupo,2026-04-20,Email,1,1,0
+1776,Extracupo,2026-05-10,SMS,1,0,0
+3337,Libre Destino,2026-09-10,SMS,0,0,0
+4490,Extracupo,2026-07-27,WhatsApp,1,0,0
+2539,Extracupo,2026-06-13,Email,0,0,3775776
+188,Tarjeta Activa,2026-02-12,Email,1,0,0
+3669,Libre Destino,2026-08-04,no_especificada,1,1,0
+947,Libre Destino,2026-05-04,no_especificada,1,1,0
+1279,Extracupo,2026-04-13,SMS,1,1,0
+14,Tarjeta Activa,2026-09-18,SMS,1,1,0
+2029,Extracupo,2026-07-21,Email,1,1,0
+1117,Extracupo,2026-06-06,SMS,1,0,0
+4432,Tarjeta Activa,2026-09-26,Email,1,1,0
+4746,Libre Destino,2026-05-27,WhatsApp,1,1,0
+4727,Extracupo,2026-04-20,no_especificada,0,0,0
+1385,Libre Destino,2026-05-07,WhatsApp,1,0,0
+4540,Extracupo,2026-04-07,Email,1,1,0
+544,Extracupo,2026-06-09,Email,1,0,0
+2433,Tarjeta Activa,2026-05-26,WhatsApp,1,0,0
+898,Libre Destino,2026-02-15,SMS,1,1,0
+4227,Extracupo,2026-02-10,SMS,0,0,0
+4788,Tarjeta Activa,2026-07-24,WhatsApp,1,0,0
+372,Extracupo,2026-07-01,SMS,1,0,0
+2446,Tarjeta Activa,2026-04-23,WhatsApp,1,1,0
+2586,Tarjeta Activa,2026-06-22,no_especificada,1,1,0
+906,Tarjeta Activa,2026-02-22,Email,0,0,0
+270,Tarjeta Activa,2026-02-09,WhatsApp,1,1,0
+588,Tarjeta Activa,2026-01-03,WhatsApp,1,1,16748659
+4746,Tarjeta Activa,2026-08-11,WhatsApp,0,0,5826355
+1249,Libre Destino,2026-05-07,SMS,1,1,0
+874,Extracupo,2026-02-14,WhatsApp,1,1,8966374
+2509,Extracupo,2026-04-25,WhatsApp,1,1,0
+2122,Libre Destino,2026-08-14,no_especificada,1,0,12694425
+2414,Libre Destino,2026-04-13,WhatsApp,1,0,0
+2254,Extracupo,2026-05-10,Email,1,1,10964629
+3539,Libre Destino,2026-04-27,Email,1,1,0
+1787,Extracupo,2026-05-23,no_especificada,1,1,0
+1374,Extracupo,2026-03-09,no_especificada,0,0,0
+1317,Libre Destino,2026-03-15,SMS,1,0,0
+809,Extracupo,2026-05-11,WhatsApp,1,0,0
+3445,Tarjeta Activa,2026-01-17,WhatsApp,1,1,9977987
+795,Extracupo,2026-03-14,SMS,0,0,0
+2327,Tarjeta Activa,2026-03-10,no_especificada,0,0,0
+2040,Tarjeta Activa,2026-01-07,no_especificada,0,0,0
+901,Extracupo,2026-06-28,SMS,1,0,0
+750,Tarjeta Activa,2026-03-23,Email,1,0,0
+4104,Extracupo,2026-04-04,Email,1,1,0
+484,Extracupo,2026-06-19,no_especificada,1,0,0
+1982,Extracupo,2026-05-26,no_especificada,0,0,0
+3063,Extracupo,2026-07-28,WhatsApp,1,0,20401584
+1587,Extracupo,2026-06-19,Email,1,0,0
+4576,Libre Destino,2026-04-26,WhatsApp,1,1,7198093
+3108,Tarjeta Activa,2026-06-15,SMS,1,1,0
+1824,Extracupo,2026-04-12,no_especificada,0,0,0
+2964,Extracupo,2026-06-17,no_especificada,0,0,0
+3539,Extracupo,2026-06-24,WhatsApp,1,1,0
+1725,Extracupo,2026-05-08,SMS,1,1,0
+4701,Extracupo,2026-03-24,no_especificada,1,0,3241908
+26,Extracupo,2026-02-26,no_especificada,1,0,0
+1637,Libre Destino,2026-09-14,SMS,1,1,0
+2168,Extracupo,2026-06-14,no_especificada,0,0,0
+4403,Tarjeta Activa,2026-04-15,WhatsApp,1,0,0
+2768,Libre Destino,2026-06-13,SMS,0,0,16255437
+386,Tarjeta Activa,2026-06-12,WhatsApp,1,1,0
+1571,Extracupo,2026-09-15,no_especificada,0,0,0
+1111,Libre Destino,2026-06-09,WhatsApp,1,1,0
+1627,Tarjeta Activa,2026-01-26,no_especificada,0,0,0
+2006,Libre Destino,2026-06-20,no_especificada,1,1,0
+206,Tarjeta Activa,2026-01-20,SMS,1,1,10156344
+3500,Libre Destino,2026-05-13,SMS,1,1,0
+1966,Libre Destino,2026-04-27,WhatsApp,1,1,0
+2445,Tarjeta Activa,2026-09-27,SMS,0,0,0
+2093,Extracupo,2026-02-23,Email,1,0,0
+1554,Tarjeta Activa,2026-08-09,WhatsApp,1,0,0
+1653,Libre Destino,2026-05-13,no_especificada,0,0,0
+2853,Tarjeta Activa,2026-02-27,no_especificada,0,0,0
+4718,Libre Destino,2026-07-17,no_especificada,1,0,0
+4207,Libre Destino,2026-07-15,no_especificada,0,0,0
+4951,Libre Destino,2026-01-06,no_especificada,1,1,0
+1805,Tarjeta Activa,2026-05-14,Email,1,0,0
+2014,Extracupo,2026-09-23,Email,0,0,0
+79,Tarjeta Activa,2026-01-27,no_especificada,0,0,0
+4890,Libre Destino,2026-05-25,no_especificada,0,0,0
+4868,Extracupo,2026-09-15,WhatsApp,1,1,0
+963,Libre Destino,2026-02-07,no_especificada,1,1,0
+3114,Tarjeta Activa,2026-05-26,no_especificada,1,1,0
+721,Tarjeta Activa,2026-07-23,SMS,1,1,0
+3892,Extracupo,2026-08-09,no_especificada,1,1,0
+4634,Extracupo,2026-06-07,no_especificada,1,0,0
+301,Extracupo,2026-04-03,Email,0,0,0
+1258,Libre Destino,2026-06-20,Email,1,1,0
+1817,Tarjeta Activa,2026-05-26,SMS,1,1,0
+677,Extracupo,2026-06-21,SMS,0,0,0
+2511,Extracupo,2026-07-09,no_especificada,1,1,0
+1115,Libre Destino,2026-04-06,Email,0,0,0
+1664,Libre Destino,2026-05-19,WhatsApp,1,0,0
+1193,Extracupo,2026-01-02,no_especificada,1,1,0
+1758,Extracupo,2026-09-14,Email,1,1,0
+3984,Tarjeta Activa,2026-01-17,WhatsApp,0,0,0
+2829,Tarjeta Activa,2026-07-14,Email,1,0,0
+2784,Libre Destino,2026-03-08,Email,1,1,0
+799,Tarjeta Activa,2026-08-01,WhatsApp,1,0,0
+209,Tarjeta Activa,2026-05-04,SMS,0,0,0
+2,Tarjeta Activa,2026-09-02,SMS,1,1,0
+4273,Tarjeta Activa,2026-06-22,SMS,0,0,0
+4488,Libre Destino,2026-06-17,Email,1,1,0
+1142,Libre Destino,2026-08-04,WhatsApp,1,1,0
+1485,Tarjeta Activa,2026-06-26,Email,1,1,0
+4135,Libre Destino,2026-04-07,no_especificada,0,0,0
+1975,Libre Destino,2026-06-22,SMS,0,0,0
+2695,Libre Destino,2026-08-21,SMS,1,0,0
+3462,Libre Destino,2026-02-28,WhatsApp,1,1,0
+1851,Extracupo,2026-02-01,Email,0,0,0
+3509,Tarjeta Activa,2026-06-16,SMS,1,1,0
+949,Extracupo,2026-04-18,Email,1,1,26922280
+1829,Tarjeta Activa,2026-03-24,WhatsApp,1,0,22963669
+4325,Libre Destino,2026-05-15,SMS,1,0,0
+3713,Extracupo,2026-09-03,SMS,1,1,0
+1957,Libre Destino,2026-01-17,WhatsApp,0,0,0
+650,Tarjeta Activa,2026-09-28,no_especificada,1,1,10218263
+1919,Tarjeta Activa,2026-01-19,SMS,1,0,0
+3785,Libre Destino,2026-06-18,WhatsApp,0,0,0
+1486,Tarjeta Activa,2026-06-03,no_especificada,0,0,20945207
+3906,Libre Destino,2026-05-06,Email,1,0,0
+1954,Tarjeta Activa,2026-08-15,Email,1,1,0
+151,Libre Destino,2026-01-08,no_especificada,1,0,0
+2630,Libre Destino,2026-04-16,no_especificada,0,0,0
+4194,Tarjeta Activa,2026-02-21,SMS,1,1,0
+3347,Libre Destino,2026-09-25,no_especificada,1,1,0
+3370,Libre Destino,2026-07-09,WhatsApp,1,0,0
+3338,Libre Destino,2026-01-16,WhatsApp,1,1,0
+1110,Libre Destino,2026-04-25,SMS,0,0,0
+3139,Tarjeta Activa,2026-02-25,no_especificada,1,0,0
+1048,Tarjeta Activa,2026-07-25,WhatsApp,1,0,0
+1109,Extracupo,2026-02-07,no_especificada,0,0,0
+938,Libre Destino,2026-06-28,SMS,0,0,0
+4852,Tarjeta Activa,2026-03-04,no_especificada,1,0,0
+4138,Libre Destino,2026-04-27,SMS,1,1,0
+4832,Extracupo,2026-03-14,no_especificada,1,0,0
+4468,Libre Destino,2026-09-11,WhatsApp,1,1,0
+3778,Extracupo,2026-04-23,no_especificada,0,0,0
+1764,Libre Destino,2026-08-22,Email,0,0,4664625
+1218,Libre Destino,2026-02-25,WhatsApp,1,1,0
+1833,Extracupo,2026-07-22,WhatsApp,1,1,0
+3113,Extracupo,2026-06-22,SMS,1,1,11120534
+1730,Tarjeta Activa,2026-03-19,Email,1,1,0
+3881,Libre Destino,2026-07-22,no_especificada,1,0,0
+4079,Tarjeta Activa,2026-03-02,no_especificada,0,0,0
+2704,Libre Destino,2026-04-04,WhatsApp,1,1,0
+1536,Extracupo,2026-03-01,SMS,1,0,0
+3148,Extracupo,2026-06-17,Email,1,0,0
+1044,Libre Destino,2026-06-23,SMS,1,1,0
+1889,Libre Destino,2026-03-24,WhatsApp,1,1,0
+2654,Libre Destino,2026-09-26,WhatsApp,1,0,0
+2489,Extracupo,2026-09-14,Email,1,0,0
+1734,Libre Destino,2026-04-20,Email,1,0,0
+2754,Extracupo,2026-09-28,WhatsApp,1,1,0
+1731,Extracupo,2026-09-06,Email,1,0,0
+187,Tarjeta Activa,2026-03-08,SMS,0,0,0
+4594,Tarjeta Activa,2026-06-05,WhatsApp,0,0,0
+4955,Tarjeta Activa,2026-09-11,SMS,1,0,0
+1420,Tarjeta Activa,2026-06-01,no_especificada,1,0,0
+4008,Tarjeta Activa,2026-09-08,WhatsApp,0,0,12308219
+196,Extracupo,2026-04-19,WhatsApp,1,1,0
+2312,Libre Destino,2026-07-15,Email,1,0,0
+2174,Tarjeta Activa,2026-04-07,WhatsApp,1,0,0
+3857,Extracupo,2026-01-21,Email,1,0,0
+1555,Libre Destino,2026-08-18,WhatsApp,1,0,0
+735,Tarjeta Activa,2026-09-20,WhatsApp,0,0,6588446
+2665,Libre Destino,2026-01-22,Email,0,0,0
+4810,Tarjeta Activa,2026-04-02,SMS,1,0,0
+1936,Libre Destino,2026-03-13,SMS,1,1,0
+3439,Extracupo,2026-08-20,WhatsApp,1,1,0
+1778,Extracupo,2026-02-13,no_especificada,1,1,0
+3392,Libre Destino,2026-06-20,Email,1,1,0
+4888,Tarjeta Activa,2026-09-27,Email,0,0,0
+2291,Extracupo,2026-09-21,SMS,1,1,0
+337,Libre Destino,2026-07-15,SMS,0,0,0
+426,Libre Destino,2026-02-18,no_especificada,1,1,0
+1279,Extracupo,2026-06-02,Email,1,1,0
+4982,Libre Destino,2026-04-20,Email,1,1,0
+3595,Tarjeta Activa,2026-07-24,SMS,1,0,0
+1267,Extracupo,2026-08-01,Email,0,0,0
+721,Tarjeta Activa,2026-03-02,Email,1,0,0
+2064,Libre Destino,2026-02-08,WhatsApp,1,0,0
+730,Tarjeta Activa,2026-04-04,Email,0,0,0
+4920,Libre Destino,2026-03-06,WhatsApp,1,0,0
+4749,Extracupo,2026-01-03,Email,0,0,0
+3853,Libre Destino,2026-01-01,WhatsApp,1,0,0
+4104,Extracupo,2026-05-15,Email,1,1,0
+686,Extracupo,2026-02-23,Email,1,1,0
+1403,Extracupo,2026-03-15,SMS,1,1,0
+823,Libre Destino,2026-04-10,no_especificada,1,1,0
+3153,Libre Destino,2026-03-04,no_especificada,1,0,0
+1158,Extracupo,2026-03-18,SMS,0,0,0
+4032,Extracupo,2026-04-26,Email,1,0,0
+4336,Extracupo,2026-08-22,SMS,1,1,0
+2707,Libre Destino,2026-05-25,Email,0,0,0
+3863,Libre Destino,2026-05-07,WhatsApp,1,1,0
+4683,Extracupo,2026-09-26,Email,1,1,0
+1177,Extracupo,2026-05-22,WhatsApp,1,0,1449171
+1719,Tarjeta Activa,2026-01-12,WhatsApp,1,1,0
+460,Libre Destino,2026-07-03,SMS,0,0,0
+344,Libre Destino,2026-01-06,WhatsApp,0,0,0
+118,Extracupo,2026-03-20,no_especificada,1,1,0
+2464,Tarjeta Activa,2026-08-08,no_especificada,1,0,0
+4130,Tarjeta Activa,2026-01-15,SMS,1,0,0
+16,Extracupo,2026-08-13,Email,0,0,0
+3198,Extracupo,2026-04-15,Email,1,0,0
+629,Extracupo,2026-01-22,no_especificada,1,0,0
+3850,Tarjeta Activa,2026-03-13,no_especificada,1,0,0
+640,Libre Destino,2026-09-04,no_especificada,1,1,0
+4535,Libre Destino,2026-05-13,WhatsApp,1,1,0
+714,Extracupo,2026-04-14,no_especificada,1,1,0
+1014,Extracupo,2026-07-04,SMS,1,1,0
+255,Libre Destino,2026-05-21,WhatsApp,1,0,0
+1183,Extracupo,2026-05-02,no_especificada,1,0,0
+4224,Tarjeta Activa,2026-03-02,Email,0,0,0
+1963,Libre Destino,2026-02-25,no_especificada,1,0,0
+3832,Libre Destino,2026-02-06,SMS,1,1,0
+2693,Libre Destino,2026-08-17,Email,1,1,0
+602,Tarjeta Activa,2026-02-09,Email,0,0,0
+4227,Libre Destino,2026-03-01,Email,1,1,0
+1381,Extracupo,2026-03-05,WhatsApp,1,0,0
+1733,Tarjeta Activa,2026-09-02,SMS,1,1,0
+4349,Libre Destino,2026-01-11,Email,1,0,0
+3802,Libre Destino,2026-03-01,WhatsApp,1,1,0
+839,Extracupo,2026-04-07,WhatsApp,1,1,15587858
+4792,Extracupo,2026-08-24,Email,0,0,13282696
+77,Extracupo,2026-05-05,Email,1,1,0
+869,Tarjeta Activa,2026-09-16,SMS,1,1,0
+4028,Tarjeta Activa,2026-05-22,WhatsApp,1,0,0
+2975,Extracupo,2026-03-12,WhatsApp,0,0,0
+2026,Libre Destino,2026-02-21,SMS,1,0,0
+3920,Extracupo,2026-05-17,WhatsApp,1,0,0
+982,Extracupo,2026-05-19,no_especificada,1,0,0
+3123,Extracupo,2026-09-21,WhatsApp,1,1,0
+9,Tarjeta Activa,2026-07-15,SMS,0,0,0
+3055,Libre Destino,2026-02-14,Email,1,0,0
+4764,Tarjeta Activa,2026-03-03,Email,1,0,0
+1866,Extracupo,2026-05-16,no_especificada,0,0,0
+2397,Tarjeta Activa,2026-09-08,SMS,1,1,0
+3092,Extracupo,2026-02-12,SMS,0,0,0
+1809,Tarjeta Activa,2026-03-27,WhatsApp,1,0,0
+3604,Libre Destino,2026-02-17,SMS,1,0,0
+347,Extracupo,2026-04-13,WhatsApp,0,0,0
+287,Extracupo,2026-09-11,SMS,1,0,0
+4378,Libre Destino,2026-09-13,no_especificada,1,1,0
+1569,Extracupo,2026-04-24,WhatsApp,1,0,0
+3815,Tarjeta Activa,2026-05-04,Email,1,0,0
+3026,Tarjeta Activa,2026-05-12,WhatsApp,1,1,24280110
+2891,Tarjeta Activa,2026-07-10,no_especificada,0,0,0
+4073,Libre Destino,2026-05-07,WhatsApp,0,0,0
+3500,Libre Destino,2026-01-14,Email,1,1,0
+2966,Extracupo,2026-01-03,SMS,1,0,0
+4905,Tarjeta Activa,2026-04-22,SMS,0,0,0
+753,Tarjeta Activa,2026-03-18,WhatsApp,1,0,0
+4700,Extracupo,2026-02-02,Email,1,1,0
+1743,Tarjeta Activa,2026-03-10,SMS,1,1,0
+496,Libre Destino,2026-05-09,WhatsApp,1,1,0
+3044,Tarjeta Activa,2026-07-15,Email,0,0,14962400
+4526,Tarjeta Activa,2026-07-22,SMS,0,0,0
+2251,Tarjeta Activa,2026-07-06,Email,1,0,18330353
+3328,Extracupo,2026-04-14,no_especificada,1,0,29295307
+1208,Tarjeta Activa,2026-01-23,SMS,0,0,0
+2246,Libre Destino,2026-07-19,Email,1,0,0
+2205,Tarjeta Activa,2026-09-27,Email,1,1,0
+2853,Libre Destino,2026-02-08,Email,1,0,0
+2799,Extracupo,2026-07-01,Email,0,0,0
+3120,Libre Destino,2026-02-07,Email,0,0,0
+2139,Libre Destino,2026-08-04,WhatsApp,0,0,0
+2211,Libre Destino,2026-04-03,WhatsApp,1,1,0
+4264,Tarjeta Activa,2026-08-17,no_especificada,0,0,0
+2796,Extracupo,2026-04-20,SMS,1,0,0
+3905,Extracupo,2026-08-05,no_especificada,1,1,0
+15,Extracupo,2026-04-13,no_especificada,0,0,0
+976,Libre Destino,2026-09-25,WhatsApp,0,0,0
+1906,Extracupo,2026-03-07,no_especificada,1,0,0
+4270,Extracupo,2026-09-24,no_especificada,1,1,0
+4326,Extracupo,2026-08-17,WhatsApp,1,1,0
+492,Tarjeta Activa,2026-03-24,SMS,1,1,2507404
+3447,Tarjeta Activa,2026-09-02,no_especificada,0,0,0
+783,Extracupo,2026-08-14,no_especificada,1,1,0
+3209,Extracupo,2026-08-14,WhatsApp,0,0,0
+3956,Tarjeta Activa,2026-09-17,Email,0,0,0
+2385,Tarjeta Activa,2026-06-12,WhatsApp,1,1,0
+133,Libre Destino,2026-04-22,Email,1,1,0
+2964,Tarjeta Activa,2026-08-22,no_especificada,1,1,22016709
+3168,Extracupo,2026-08-21,Email,1,1,0
+2302,Tarjeta Activa,2026-06-06,no_especificada,0,0,0
+391,Libre Destino,2026-08-26,WhatsApp,1,0,0
+4334,Libre Destino,2026-06-21,Email,0,0,0
+3783,Extracupo,2026-06-19,WhatsApp,1,1,0
+1462,Tarjeta Activa,2026-04-26,Email,0,0,0
+3192,Tarjeta Activa,2026-05-13,no_especificada,1,1,0
+1046,Libre Destino,2026-04-03,SMS,1,1,0
+4223,Tarjeta Activa,2026-05-23,WhatsApp,0,0,0
+1630,Tarjeta Activa,2026-07-25,SMS,1,1,6753081
+1291,Tarjeta Activa,2026-08-27,WhatsApp,1,1,0
+1251,Extracupo,2026-05-21,Email,1,1,0
+2095,Tarjeta Activa,2026-06-08,SMS,1,0,0
+1501,Libre Destino,2026-03-04,WhatsApp,1,1,0
+3614,Extracupo,2026-08-12,WhatsApp,0,0,0
+3009,Extracupo,2026-08-26,WhatsApp,0,0,0
+3097,Extracupo,2026-03-17,WhatsApp,1,1,0
+958,Libre Destino,2026-09-21,SMS,1,0,0
+1976,Libre Destino,2026-07-06,no_especificada,1,0,0
+4716,Extracupo,2026-03-09,no_especificada,1,1,0
+3685,Libre Destino,2026-06-25,SMS,0,0,0
+1786,Libre Destino,2026-07-06,SMS,1,1,1415776
+1252,Libre Destino,2026-05-08,Email,1,1,0
+92,Extracupo,2026-03-19,Email,1,0,0
+1441,Extracupo,2026-02-02,no_especificada,1,1,0
+141,Tarjeta Activa,2026-02-13,SMS,1,1,0
+4372,Libre Destino,2026-08-07,Email,0,0,0
+818,Tarjeta Activa,2026-03-02,no_especificada,1,0,19950145
+2803,Extracupo,2026-06-02,SMS,0,0,14288276
+576,Tarjeta Activa,2026-07-19,no_especificada,1,1,0
+477,Tarjeta Activa,2026-06-20,Email,0,0,0
+1515,Extracupo,2026-06-16,WhatsApp,1,1,0
+2931,Extracupo,2026-09-16,Email,1,0,0
+4739,Extracupo,2026-03-16,Email,0,0,0
+2420,Extracupo,2026-07-02,WhatsApp,1,1,0
+3397,Tarjeta Activa,2026-06-16,WhatsApp,1,0,2850801
+4185,Libre Destino,2026-06-13,Email,1,0,0
+1833,Libre Destino,2026-04-19,no_especificada,0,0,0
+1184,Tarjeta Activa,2026-02-10,no_especificada,1,1,6466014
+963,Libre Destino,2026-09-10,Email,1,1,0
+527,Libre Destino,2026-09-20,WhatsApp,1,1,0
+504,Tarjeta Activa,2026-06-14,Email,0,0,0
+3168,Extracupo,2026-06-01,no_especificada,0,0,0
+1312,Extracupo,2026-02-05,SMS,1,0,0
+2607,Extracupo,2026-03-20,WhatsApp,1,1,0
+4426,Extracupo,2026-02-20,Email,1,0,0
+1871,Tarjeta Activa,2026-01-12,no_especificada,1,1,0
+1297,Extracupo,2026-08-03,SMS,1,0,0
+4213,Libre Destino,2026-01-19,no_especificada,0,0,0
+2794,Extracupo,2026-04-20,WhatsApp,0,0,0
+552,Tarjeta Activa,2026-07-02,WhatsApp,1,1,0
+4450,Extracupo,2026-06-24,no_especificada,1,0,17131112
+3428,Tarjeta Activa,2026-04-01,SMS,1,1,0
+297,Tarjeta Activa,2026-08-15,WhatsApp,0,0,0
+3018,Libre Destino,2026-03-23,Email,1,0,0
+2392,Libre Destino,2026-07-11,no_especificada,1,1,0
+2014,Tarjeta Activa,2026-02-17,SMS,1,0,0
+1786,Extracupo,2026-03-08,Email,0,0,0
+4610,Extracupo,2026-06-11,Email,1,0,0
+3764,Tarjeta Activa,2026-04-16,SMS,1,1,0
+4864,Tarjeta Activa,2026-08-11,no_especificada,1,0,0
+944,Tarjeta Activa,2026-04-05,SMS,1,1,0
+3072,Extracupo,2026-08-08,SMS,1,0,0
+2359,Extracupo,2026-01-06,WhatsApp,1,1,0
+3515,Libre Destino,2026-03-26,WhatsApp,1,1,0
+3604,Extracupo,2026-04-16,SMS,0,0,0
+3728,Libre Destino,2026-05-09,SMS,1,1,0
+4606,Libre Destino,2026-07-04,Email,1,1,0
+4998,Extracupo,2026-01-13,WhatsApp,0,0,0
+523,Extracupo,2026-05-03,no_especificada,1,1,0
+4028,Extracupo,2026-09-11,no_especificada,1,1,0
+1781,Extracupo,2026-06-14,WhatsApp,1,1,18895633
+3991,Libre Destino,2026-03-10,Email,0,0,0
+2141,Extracupo,2026-06-07,no_especificada,1,1,0
+83,Extracupo,2026-01-24,SMS,0,0,0
+254,Libre Destino,2026-03-21,no_especificada,0,0,0
+4289,Libre Destino,2026-05-09,no_especificada,1,0,0
+3084,Tarjeta Activa,2026-09-17,no_especificada,0,0,0
+1450,Extracupo,2026-03-06,WhatsApp,1,1,0
+4460,Tarjeta Activa,2026-07-16,WhatsApp,0,0,0
+979,Tarjeta Activa,2026-02-24,no_especificada,1,0,1448486
+707,Libre Destino,2026-07-19,no_especificada,0,0,0
+3025,Tarjeta Activa,2026-01-14,Email,1,1,0
+3165,Tarjeta Activa,2026-07-08,SMS,0,0,22671318
+539,Tarjeta Activa,2026-05-22,no_especificada,0,0,0
+3008,Extracupo,2026-01-09,Email,0,0,21068304
+4266,Extracupo,2026-02-03,Email,1,1,26690659
+3099,Libre Destino,2026-01-13,WhatsApp,1,0,0
+3080,Extracupo,2026-08-11,Email,0,0,0
+3366,Libre Destino,2026-07-02,SMS,1,1,0
+1643,Libre Destino,2026-04-21,SMS,1,1,0
+2170,Tarjeta Activa,2026-08-04,no_especificada,0,0,0
+2260,Extracupo,2026-04-09,SMS,1,1,1109563
+3219,Libre Destino,2026-06-20,SMS,1,1,0
+3244,Tarjeta Activa,2026-02-24,Email,1,0,0
+4105,Tarjeta Activa,2026-07-13,SMS,1,0,0
+351,Extracupo,2026-04-27,SMS,1,0,28426557
+489,Tarjeta Activa,2026-03-02,WhatsApp,1,1,0
+995,Libre Destino,2026-02-25,no_especificada,0,0,0
+3562,Libre Destino,2026-06-20,Email,1,0,0
+1071,Tarjeta Activa,2026-09-21,WhatsApp,0,0,0
+4641,Libre Destino,2026-07-21,Email,0,0,0
+2020,Extracupo,2026-09-21,Email,0,0,0
+1454,Tarjeta Activa,2026-01-16,WhatsApp,1,1,18292606
+1701,Tarjeta Activa,2026-08-09,SMS,0,0,0
+388,Extracupo,2026-03-21,SMS,1,1,6316560
+4150,Extracupo,2026-02-02,SMS,1,1,0
+1463,Extracupo,2026-07-27,no_especificada,0,0,0
+4610,Tarjeta Activa,2026-08-03,no_especificada,1,1,0
+1390,Libre Destino,2026-09-11,no_especificada,0,0,0
+4664,Extracupo,2026-04-26,no_especificada,1,1,0
+3282,Extracupo,2026-03-16,SMS,1,0,0
+4727,Tarjeta Activa,2026-01-12,SMS,1,1,0
+4037,Tarjeta Activa,2026-06-28,SMS,1,1,0
+3703,Libre Destino,2026-04-28,WhatsApp,1,0,0
+2957,Tarjeta Activa,2026-06-26,no_especificada,0,0,0
+2821,Libre Destino,2026-04-10,Email,1,1,0
+4035,Tarjeta Activa,2026-02-18,Email,0,0,0
+3529,Tarjeta Activa,2026-05-15,WhatsApp,1,1,0
+2131,Tarjeta Activa,2026-02-02,no_especificada,1,1,0
+2325,Extracupo,2026-09-15,Email,0,0,0
+4750,Libre Destino,2026-02-23,no_especificada,0,0,0
+2875,Tarjeta Activa,2026-06-20,WhatsApp,0,0,0
+463,Extracupo,2026-06-10,WhatsApp,0,0,0
+3796,Libre Destino,2026-08-04,no_especificada,1,1,0
+3026,Extracupo,2026-03-27,no_especificada,1,1,0
+4177,Libre Destino,2026-07-24,Email,0,0,0
+1009,Tarjeta Activa,2026-08-23,SMS,1,1,0
+2781,Libre Destino,2026-07-09,Email,1,0,0
+2143,Tarjeta Activa,2026-06-10,SMS,0,0,0
+3405,Extracupo,2026-04-19,WhatsApp,1,0,0
+4827,Tarjeta Activa,2026-05-10,SMS,1,0,13067270
+3261,Tarjeta Activa,2026-01-19,Email,1,0,0
+1289,Libre Destino,2026-04-22,no_especificada,1,1,0
+4374,Tarjeta Activa,2026-03-16,SMS,1,1,0
+48,Tarjeta Activa,2026-04-22,Email,1,0,0
+2089,Tarjeta Activa,2026-06-03,Email,1,1,0
+2354,Tarjeta Activa,2026-04-01,WhatsApp,1,1,0
+3363,Extracupo,2026-05-09,WhatsApp,1,0,14935651
+2325,Extracupo,2026-05-16,WhatsApp,1,1,13250643
+2224,Tarjeta Activa,2026-08-06,WhatsApp,1,0,0
+2425,Tarjeta Activa,2026-03-20,Email,1,1,0
+403,Tarjeta Activa,2026-06-20,SMS,1,1,0
+2733,Libre Destino,2026-01-27,Email,0,0,0
+4935,Libre Destino,2026-08-20,no_especificada,1,0,0
+1797,Libre Destino,2026-04-18,SMS,1,1,0
+379,Tarjeta Activa,2026-06-04,SMS,0,0,0
+3445,Extracupo,2026-04-02,no_especificada,1,1,0
+1421,Extracupo,2026-04-01,SMS,0,0,0
+1656,Libre Destino,2026-01-19,SMS,1,1,0
+1810,Extracupo,2026-09-18,WhatsApp,1,1,0
+1472,Extracupo,2026-05-05,SMS,1,1,0
+3401,Tarjeta Activa,2026-09-13,WhatsApp,1,1,0
+1040,Libre Destino,2026-04-03,SMS,1,0,0
+2703,Tarjeta Activa,2026-03-26,SMS,1,0,0
+4288,Libre Destino,2026-06-16,WhatsApp,0,0,0
+538,Libre Destino,2026-07-21,no_especificada,1,1,9920407
+1173,Libre Destino,2026-03-17,Email,1,0,0
+3005,Extracupo,2026-06-19,WhatsApp,1,1,2114270
+3821,Tarjeta Activa,2026-08-20,Email,0,0,0
+184,Libre Destino,2026-07-13,no_especificada,0,0,0
+4477,Extracupo,2026-04-25,SMS,1,1,0
+641,Extracupo,2026-06-17,SMS,0,0,0
+96,Tarjeta Activa,2026-04-04,SMS,1,1,0
+1643,Libre Destino,2026-03-10,no_especificada,1,1,0
+242,Extracupo,2026-07-16,Email,1,1,0
+925,Tarjeta Activa,2026-06-08,SMS,1,0,0
+580,Extracupo,2026-06-16,WhatsApp,1,1,0
+1197,Libre Destino,2026-09-16,Email,1,1,23136493
+4771,Tarjeta Activa,2026-09-26,WhatsApp,1,1,0
+1607,Tarjeta Activa,2026-01-14,WhatsApp,1,1,0
+4625,Tarjeta Activa,2026-04-09,Email,0,0,0
+542,Tarjeta Activa,2026-08-16,WhatsApp,1,0,0
+509,Libre Destino,2026-07-09,no_especificada,1,1,11711634
+1180,Extracupo,2026-03-15,Email,0,0,0
+22,Libre Destino,2026-04-15,SMS,0,0,0
+4770,Extracupo,2026-07-18,SMS,0,0,0
+3920,Extracupo,2026-04-24,SMS,1,1,0
+1953,Tarjeta Activa,2026-03-24,Email,1,1,0
+3243,Tarjeta Activa,2026-08-22,Email,1,1,0
+4601,Tarjeta Activa,2026-01-14,WhatsApp,1,1,0
+1385,Tarjeta Activa,2026-03-04,SMS,1,1,4467996
+566,Extracupo,2026-03-18,Email,1,0,0
+4349,Tarjeta Activa,2026-08-28,SMS,1,0,0
+269,Extracupo,2026-01-23,WhatsApp,1,1,0
+2680,Extracupo,2026-08-21,WhatsApp,1,0,0
+2360,Libre Destino,2026-06-22,SMS,1,0,0
+154,Extracupo,2026-05-13,WhatsApp,1,1,23375065
+4547,Libre Destino,2026-05-25,no_especificada,1,1,0
+763,Libre Destino,2026-07-06,WhatsApp,0,0,0
+3382,Libre Destino,2026-03-04,Email,1,1,26016834
+1478,Extracupo,2026-07-07,no_especificada,1,0,0
+3526,Extracupo,2026-09-15,WhatsApp,1,1,0
+4946,Extracupo,2026-04-17,no_especificada,1,1,0
+130,Libre Destino,2026-01-15,WhatsApp,1,1,10431376
+1619,Extracupo,2026-08-16,Email,1,0,0
+3233,Tarjeta Activa,2026-09-21,Email,0,0,0
+729,Tarjeta Activa,2026-09-17,SMS,1,1,0
+1554,Libre Destino,2026-01-05,SMS,1,1,0
+871,Tarjeta Activa,2026-08-08,Email,1,1,0
+3921,Libre Destino,2026-01-24,no_especificada,0,0,0
+3983,Extracupo,2026-08-27,no_especificada,0,0,0
+4410,Extracupo,2026-07-11,no_especificada,1,0,0
+2893,Extracupo,2026-05-10,Email,1,0,0
+1571,Extracupo,2026-05-10,no_especificada,1,1,0
+2498,Libre Destino,2026-06-21,WhatsApp,1,1,0
+3923,Extracupo,2026-04-17,no_especificada,1,1,0
+4160,Libre Destino,2026-07-05,SMS,1,1,11204529
+4268,Extracupo,2026-06-25,no_especificada,0,0,0
+458,Tarjeta Activa,2026-03-20,no_especificada,1,0,0
+395,Extracupo,2026-05-17,no_especificada,1,1,0
+3231,Extracupo,2026-05-13,SMS,1,1,0
+3846,Tarjeta Activa,2026-01-02,WhatsApp,1,1,0
+421,Libre Destino,2026-08-18,SMS,0,0,0
+590,Tarjeta Activa,2026-01-17,Email,1,1,19225638
+4907,Tarjeta Activa,2026-08-28,WhatsApp,1,0,0
+3589,Extracupo,2026-04-10,WhatsApp,0,0,0
+3426,Extracupo,2026-06-07,no_especificada,1,0,0
+4194,Extracupo,2026-05-02,no_especificada,1,1,0
+1789,Libre Destino,2026-08-21,WhatsApp,1,1,5271651
+332,Extracupo,2026-06-06,WhatsApp,0,0,0
+2402,Extracupo,2026-09-12,no_especificada,1,1,0
+3968,Tarjeta Activa,2026-06-10,Email,0,0,0
+3413,Tarjeta Activa,2026-05-06,WhatsApp,1,1,0
+3919,Extracupo,2026-07-26,SMS,1,0,0
+1776,Extracupo,2026-02-13,SMS,1,1,0
+2114,Tarjeta Activa,2026-05-21,WhatsApp,1,1,0
+1730,Libre Destino,2026-09-19,no_especificada,0,0,4926191
+1785,Libre Destino,2026-07-13,no_especificada,0,0,0
+1701,Libre Destino,2026-04-25,Email,1,0,0
+3351,Libre Destino,2026-07-27,WhatsApp,0,0,0
+839,Extracupo,2026-05-02,Email,1,1,0
+3624,Tarjeta Activa,2026-08-08,WhatsApp,1,0,0
+2566,Tarjeta Activa,2026-07-03,no_especificada,1,1,0
+3489,Extracupo,2026-04-28,no_especificada,0,0,0
+1699,Tarjeta Activa,2026-03-11,Email,1,0,0
+1772,Libre Destino,2026-05-12,no_especificada,1,0,13933982
+1126,Extracupo,2026-07-03,no_especificada,1,1,0
+611,Libre Destino,2026-01-14,SMS,1,1,0
+2454,Tarjeta Activa,2026-05-26,Email,0,0,0
+1418,Extracupo,2026-04-21,SMS,1,1,0
+4365,Libre Destino,2026-06-25,WhatsApp,0,0,0
+369,Extracupo,2026-02-10,WhatsApp,1,1,0
+352,Libre Destino,2026-03-06,Email,1,0,22113338
+557,Libre Destino,2026-07-27,Email,1,0,0
+2722,Extracupo,2026-03-20,WhatsApp,1,0,0
+4723,Libre Destino,2026-01-19,WhatsApp,0,0,0
+1000,Extracupo,2026-03-10,WhatsApp,1,0,0
+3885,Extracupo,2026-04-17,Email,1,1,0
+3601,Extracupo,2026-07-27,no_especificada,1,1,0
+286,Extracupo,2026-03-20,Email,1,1,21673061
+2194,Libre Destino,2026-08-26,SMS,0,0,0
+4838,Libre Destino,2026-07-27,SMS,1,1,0
+52,Tarjeta Activa,2026-05-09,Email,0,0,0
+2703,Libre Destino,2026-07-27,Email,0,0,0
+2160,Tarjeta Activa,2026-07-09,SMS,1,1,11435193
+2841,Libre Destino,2026-03-10,WhatsApp,1,1,0
+3093,Extracupo,2026-04-15,WhatsApp,1,1,0
+964,Tarjeta Activa,2026-06-18,WhatsApp,1,1,0
+2285,Tarjeta Activa,2026-03-13,WhatsApp,1,0,0
+4045,Extracupo,2026-08-06,WhatsApp,1,0,0
+992,Libre Destino,2026-04-13,Email,0,0,0
+404,Tarjeta Activa,2026-04-24,Email,1,1,0
+161,Tarjeta Activa,2026-03-02,WhatsApp,0,0,4321197
+749,Libre Destino,2026-07-28,SMS,0,0,0
+4734,Extracupo,2026-03-21,no_especificada,1,0,0
+4987,Extracupo,2026-09-05,WhatsApp,1,1,0
+1766,Libre Destino,2026-03-01,WhatsApp,1,1,0
+3020,Tarjeta Activa,2026-07-13,WhatsApp,1,1,0
+4940,Extracupo,2026-04-14,no_especificada,1,1,0
+3531,Tarjeta Activa,2026-08-26,no_especificada,1,0,0
+3856,Tarjeta Activa,2026-07-03,no_especificada,1,1,0
+2619,Libre Destino,2026-06-15,WhatsApp,1,1,0
+2099,Libre Destino,2026-01-27,no_especificada,1,1,0
+7,Libre Destino,2026-06-07,Email,1,1,0
+2789,Extracupo,2026-07-12,SMS,0,0,0
+2948,Libre Destino,2026-04-23,SMS,0,0,0
+875,Tarjeta Activa,2026-03-22,no_especificada,1,0,0
+3939,Tarjeta Activa,2026-04-23,SMS,0,0,0
+1245,Extracupo,2026-04-11,Email,1,1,0
+4254,Tarjeta Activa,2026-02-09,no_especificada,0,0,0
+2572,Libre Destino,2026-07-09,SMS,1,1,0
+3690,Extracupo,2026-01-25,SMS,0,0,0
+4239,Libre Destino,2026-02-06,Email,1,1,0
+1364,Extracupo,2026-02-22,no_especificada,1,1,0
+4428,Extracupo,2026-02-05,Email,1,0,0
+2493,Libre Destino,2026-04-27,no_especificada,1,1,0
+2725,Tarjeta Activa,2026-08-03,WhatsApp,1,1,26360764
+2575,Tarjeta Activa,2026-08-01,SMS,1,1,0
+1880,Tarjeta Activa,2026-09-04,WhatsApp,1,0,0
+1706,Extracupo,2026-07-15,WhatsApp,1,1,0
+1517,Tarjeta Activa,2026-02-22,WhatsApp,1,0,0
+2319,Libre Destino,2026-04-19,WhatsApp,0,0,0
+3888,Tarjeta Activa,2026-02-07,SMS,1,0,0
+559,Extracupo,2026-04-15,Email,0,0,0
+4225,Extracupo,2026-08-12,WhatsApp,1,0,0
+4180,Libre Destino,2026-06-05,SMS,1,0,0
+192,Extracupo,2026-04-03,WhatsApp,1,1,0
+1355,Libre Destino,2026-04-06,SMS,1,1,17798649
+2281,Libre Destino,2026-07-13,WhatsApp,1,1,0
+1545,Libre Destino,2026-07-10,no_especificada,1,1,0
+3171,Extracupo,2026-04-01,Email,1,1,0
+3307,Libre Destino,2026-07-06,SMS,0,0,0
+4498,Tarjeta Activa,2026-04-13,Email,1,1,0
+1136,Tarjeta Activa,2026-06-07,Email,1,1,0
+1118,Libre Destino,2026-06-09,WhatsApp,1,0,0
+3030,Libre Destino,2026-05-22,WhatsApp,1,0,0
+759,Tarjeta Activa,2026-04-15,no_especificada,1,1,0
+1503,Tarjeta Activa,2026-09-17,WhatsApp,1,1,0
+1507,Libre Destino,2026-04-28,no_especificada,1,1,0
+2796,Libre Destino,2026-05-13,Email,1,1,0
+199,Extracupo,2026-04-08,Email,1,1,0
+625,Extracupo,2026-03-19,WhatsApp,0,0,0
+506,Tarjeta Activa,2026-08-21,SMS,0,0,0
+4181,Extracupo,2026-04-15,no_especificada,0,0,29906219
+1630,Tarjeta Activa,2026-04-23,WhatsApp,0,0,0
+1163,Extracupo,2026-01-13,WhatsApp,1,1,0
+3834,Extracupo,2026-08-15,Email,1,0,0
+2369,Extracupo,2026-01-28,Email,1,0,0
+4442,Tarjeta Activa,2026-04-26,SMS,1,1,0
+1201,Tarjeta Activa,2026-04-26,SMS,1,1,0
+2100,Tarjeta Activa,2026-08-04,WhatsApp,1,1,0
+1601,Tarjeta Activa,2026-07-10,Email,0,0,0
+1644,Extracupo,2026-08-07,SMS,1,1,0
+3364,Libre Destino,2026-04-07,Email,0,0,0
+462,Libre Destino,2026-05-25,WhatsApp,1,1,0
+4930,Tarjeta Activa,2026-06-28,WhatsApp,1,1,0
+2592,Tarjeta Activa,2026-07-12,no_especificada,1,0,0
+236,Libre Destino,2026-06-20,no_especificada,1,1,0
+9,Extracupo,2026-08-05,SMS,1,1,0
+747,Tarjeta Activa,2026-04-01,WhatsApp,1,1,0
+3522,Extracupo,2026-02-17,no_especificada,1,1,5948532
+4059,Extracupo,2026-07-06,WhatsApp,1,0,0
+1823,Tarjeta Activa,2026-06-19,WhatsApp,1,0,0
+1082,Libre Destino,2026-01-16,WhatsApp,0,0,0
+3313,Tarjeta Activa,2026-03-13,Email,0,0,0
+250,Tarjeta Activa,2026-07-09,Email,1,1,0
+1214,Tarjeta Activa,2026-08-05,Email,1,0,0
+1431,Tarjeta Activa,2026-05-22,WhatsApp,1,0,0
+1454,Extracupo,2026-06-24,Email,1,1,0
+3352,Libre Destino,2026-04-17,WhatsApp,1,1,0
+3191,Extracupo,2026-02-20,Email,1,1,0
+1458,Extracupo,2026-08-17,SMS,1,0,0
+4862,Extracupo,2026-08-01,WhatsApp,1,0,0
+875,Tarjeta Activa,2026-06-05,WhatsApp,1,1,0
+2648,Libre Destino,2026-06-12,SMS,1,0,0
+2510,Tarjeta Activa,2026-05-17,WhatsApp,1,1,2909661
+414,Tarjeta Activa,2026-07-28,no_especificada,1,0,0
+2172,Tarjeta Activa,2026-02-21,WhatsApp,0,0,0
+2533,Tarjeta Activa,2026-06-14,no_especificada,1,1,0
+613,Extracupo,2026-07-17,SMS,0,0,27398065
+1621,Tarjeta Activa,2026-05-19,WhatsApp,1,1,0
+1258,Tarjeta Activa,2026-05-13,WhatsApp,1,1,0
+1978,Extracupo,2026-01-18,Email,1,1,0
+1326,Tarjeta Activa,2026-05-25,SMS,1,1,0
+2905,Libre Destino,2026-05-26,WhatsApp,1,0,0
+211,Tarjeta Activa,2026-02-16,no_especificada,1,1,0
+4625,Libre Destino,2026-09-07,SMS,0,0,0
+3751,Libre Destino,2026-05-12,WhatsApp,1,1,0
+1400,Tarjeta Activa,2026-07-18,SMS,1,1,0
+3691,Libre Destino,2026-02-17,Email,1,1,18953879
+1669,Extracupo,2026-06-13,SMS,0,0,18536866
+2046,Tarjeta Activa,2026-08-08,WhatsApp,1,1,0
+1371,Extracupo,2026-09-08,no_especificada,0,0,0
+1793,Libre Destino,2026-09-12,SMS,1,0,0
+3684,Tarjeta Activa,2026-02-17,no_especificada,1,0,0
+382,Libre Destino,2026-01-04,Email,1,1,3183302
+1244,Tarjeta Activa,2026-08-10,no_especificada,1,1,0
+4613,Tarjeta Activa,2026-06-21,no_especificada,1,1,0
+658,Libre Destino,2026-05-26,SMS,1,0,25277991
+662,Extracupo,2026-08-20,SMS,0,0,0
+959,Libre Destino,2026-07-25,no_especificada,0,0,0
+3180,Extracupo,2026-04-02,WhatsApp,1,1,0
+1342,Tarjeta Activa,2026-01-06,WhatsApp,1,0,0
+705,Extracupo,2026-01-25,SMS,1,1,0
+2130,Extracupo,2026-07-26,no_especificada,1,1,0
+759,Tarjeta Activa,2026-09-03,no_especificada,1,0,0
+3563,Tarjeta Activa,2026-09-08,SMS,1,1,8640892
+982,Tarjeta Activa,2026-01-13,Email,1,1,0
+1643,Tarjeta Activa,2026-07-09,no_especificada,1,0,0
+132,Tarjeta Activa,2026-08-17,Email,1,0,0
+4354,Libre Destino,2026-08-15,SMS,1,0,0
+2227,Libre Destino,2026-07-28,no_especificada,1,1,0
+2641,Tarjeta Activa,2026-05-19,SMS,1,1,0
+592,Tarjeta Activa,2026-04-25,no_especificada,1,0,0
+56,Tarjeta Activa,2026-09-17,no_especificada,1,1,0
+2440,Tarjeta Activa,2026-07-08,WhatsApp,1,1,0
+1867,Extracupo,2026-05-23,SMS,0,0,0
+4397,Libre Destino,2026-03-15,SMS,0,0,0
+4785,Tarjeta Activa,2026-09-16,WhatsApp,1,0,0
+3684,Libre Destino,2026-03-02,no_especificada,1,1,0
+1084,Libre Destino,2026-05-17,WhatsApp,1,1,0
+2306,Libre Destino,2026-04-16,Email,1,1,0
+2280,Extracupo,2026-01-06,Email,1,1,0
+167,Libre Destino,2026-01-25,SMS,1,0,0
+2040,Extracupo,2026-07-04,Email,1,0,0
+1951,Tarjeta Activa,2026-09-12,no_especificada,1,1,0
+2977,Extracupo,2026-08-24,no_especificada,1,0,0
+86,Tarjeta Activa,2026-03-16,no_especificada,1,1,0
+3133,Tarjeta Activa,2026-03-08,SMS,0,0,0
+2664,Extracupo,2026-03-18,no_especificada,0,0,0
+2383,Extracupo,2026-02-04,Email,1,0,13056297
+4645,Extracupo,2026-03-24,WhatsApp,1,1,0
+2692,Libre Destino,2026-05-11,SMS,1,0,0
+4002,Tarjeta Activa,2026-08-26,WhatsApp,1,0,0
+3586,Extracupo,2026-05-04,Email,1,1,0
+3119,Tarjeta Activa,2026-06-25,no_especificada,1,0,2499025
+1101,Extracupo,2026-07-01,Email,1,0,15420716
+2000,Extracupo,2026-05-03,WhatsApp,1,0,0
+970,Libre Destino,2026-06-14,Email,1,1,0
+1487,Libre Destino,2026-05-22,Email,1,1,0
+2196,Libre Destino,2026-02-19,no_especificada,1,1,0
+4599,Extracupo,2026-08-17,WhatsApp,1,1,0
+4580,Extracupo,2026-05-20,no_especificada,1,1,0
+3384,Tarjeta Activa,2026-02-05,WhatsApp,1,1,3425368
+1003,Libre Destino,2026-08-24,SMS,1,0,23084736
+4304,Extracupo,2026-03-07,no_especificada,0,0,0
+4434,Libre Destino,2026-03-22,WhatsApp,1,1,0
+460,Libre Destino,2026-09-19,SMS,1,1,0
+2692,Extracupo,2026-03-11,no_especificada,1,0,0
+4531,Tarjeta Activa,2026-01-23,WhatsApp,1,1,20131774
+2765,Libre Destino,2026-07-18,Email,1,1,0
+4451,Tarjeta Activa,2026-02-21,Email,0,0,0
+737,Extracupo,2026-09-11,WhatsApp,1,1,0
+4764,Tarjeta Activa,2026-01-15,no_especificada,1,1,0
+4006,Libre Destino,2026-06-06,Email,1,1,0
+1475,Tarjeta Activa,2026-04-16,no_especificada,1,1,0
+2716,Tarjeta Activa,2026-09-03,no_especificada,1,1,0
+4500,Libre Destino,2026-07-06,Email,1,0,29369571
+2614,Extracupo,2026-09-15,no_especificada,0,0,0
+4321,Libre Destino,2026-01-06,SMS,0,0,0
+1590,Tarjeta Activa,2026-06-03,WhatsApp,0,0,0
+4429,Libre Destino,2026-03-05,WhatsApp,1,0,0
+2479,Extracupo,2026-02-06,WhatsApp,1,1,0
+1675,Libre Destino,2026-05-20,WhatsApp,0,0,0
+1782,Extracupo,2026-08-11,SMS,1,1,0
+4199,Libre Destino,2026-02-02,Email,1,1,0
+2491,Tarjeta Activa,2026-03-25,no_especificada,1,1,0
+2230,Tarjeta Activa,2026-09-05,no_especificada,0,0,0
+2524,Tarjeta Activa,2026-02-06,Email,0,0,19071663
+1932,Libre Destino,2026-08-10,Email,1,1,3311384
+4017,Extracupo,2026-08-28,WhatsApp,1,0,0
+976,Libre Destino,2026-08-02,SMS,1,1,0
+1821,Extracupo,2026-07-04,no_especificada,1,0,0
+33,Extracupo,2026-01-28,no_especificada,0,0,0
+3217,Libre Destino,2026-02-02,no_especificada,1,0,0
+2131,Libre Destino,2026-01-21,WhatsApp,0,0,0
+1869,Libre Destino,2026-09-11,no_especificada,1,1,0
+4212,Libre Destino,2026-02-03,SMS,1,1,0
+4464,Libre Destino,2026-06-16,SMS,0,0,8072672
+441,Tarjeta Activa,2026-09-13,SMS,1,1,0
+4918,Tarjeta Activa,2026-07-25,Email,0,0,0
+221,Extracupo,2026-09-26,Email,1,1,0
+655,Tarjeta Activa,2026-04-22,no_especificada,0,0,0
+1724,Extracupo,2026-03-04,WhatsApp,1,1,10616866
+2733,Extracupo,2026-07-01,SMS,1,1,5500389
+2927,Extracupo,2026-02-06,no_especificada,1,1,0
+579,Extracupo,2026-06-26,no_especificada,0,0,27336990
+1317,Libre Destino,2026-04-08,SMS,1,1,0
+4071,Extracupo,2026-04-04,Email,1,0,0
+877,Tarjeta Activa,2026-06-21,Email,0,0,0
+1267,Extracupo,2026-06-22,SMS,1,1,0
+2402,Tarjeta Activa,2026-08-10,no_especificada,1,1,0
+3829,Tarjeta Activa,2026-09-16,Email,1,1,0
+1520,Extracupo,2026-09-21,no_especificada,1,0,14680091
+465,Tarjeta Activa,2026-05-20,WhatsApp,1,1,0
+3849,Tarjeta Activa,2026-04-12,WhatsApp,1,0,0
+4228,Tarjeta Activa,2026-08-20,no_especificada,0,0,11141132
+1425,Libre Destino,2026-08-04,no_especificada,0,0,0
+1429,Libre Destino,2026-05-26,WhatsApp,0,0,8584213
+2467,Tarjeta Activa,2026-01-10,Email,1,0,0
+2745,Tarjeta Activa,2026-02-10,no_especificada,1,1,0
+3750,Libre Destino,2026-05-26,SMS,1,1,0
+1658,Libre Destino,2026-01-22,WhatsApp,1,1,0
+3880,Extracupo,2026-03-26,Email,1,1,0
+3895,Extracupo,2026-09-05,WhatsApp,1,1,0
+2575,Extracupo,2026-08-17,SMS,1,1,0
+1641,Tarjeta Activa,2026-03-20,no_especificada,0,0,0
+4357,Extracupo,2026-02-03,Email,0,0,0
+3880,Libre Destino,2026-09-16,SMS,0,0,0
+1349,Tarjeta Activa,2026-08-21,no_especificada,1,1,0
+1410,Tarjeta Activa,2026-09-25,WhatsApp,1,0,10070235
+3734,Extracupo,2026-06-04,SMS,1,0,0
+3713,Tarjeta Activa,2026-03-10,Email,1,1,0
+3514,Tarjeta Activa,2026-01-06,no_especificada,1,1,22773778
+3570,Libre Destino,2026-03-10,no_especificada,1,0,0
+1317,Libre Destino,2026-04-13,Email,0,0,0
+4916,Tarjeta Activa,2026-09-17,no_especificada,0,0,28364214
+3161,Libre Destino,2026-09-22,WhatsApp,1,1,0
+4439,Tarjeta Activa,2026-04-06,no_especificada,1,0,0
+149,Tarjeta Activa,2026-06-13,SMS,0,0,0
+4094,Tarjeta Activa,2026-03-04,WhatsApp,1,0,0
+4890,Tarjeta Activa,2026-09-02,Email,1,1,0
+2143,Libre Destino,2026-03-28,Email,0,0,0
+3456,Extracupo,2026-01-14,no_especificada,1,1,24152482
+3456,Libre Destino,2026-07-21,no_especificada,1,1,0
+1911,Libre Destino,2026-06-28,SMS,0,0,29776044
+3388,Tarjeta Activa,2026-04-22,Email,1,1,0
+3976,Tarjeta Activa,2026-01-02,SMS,1,1,0
+1088,Extracupo,2026-01-20,WhatsApp,1,1,0
+2159,Extracupo,2026-02-22,Email,1,1,0
+2050,Tarjeta Activa,2026-05-01,no_especificada,1,1,0
+3830,Libre Destino,2026-02-26,WhatsApp,1,0,0
+802,Libre Destino,2026-05-28,Email,1,1,0
+4709,Libre Destino,2026-06-15,SMS,1,1,0
+466,Extracupo,2026-02-17,no_especificada,0,0,22749845
+374,Extracupo,2026-09-26,Email,1,0,0
+3168,Tarjeta Activa,2026-09-01,SMS,1,1,0
+2430,Extracupo,2026-05-13,Email,1,1,27710864
+4524,Libre Destino,2026-09-26,Email,1,0,0
+3166,Libre Destino,2026-09-04,no_especificada,1,0,0
+2289,Libre Destino,2026-05-21,Email,1,1,0
+3437,Libre Destino,2026-09-18,no_especificada,1,1,0
+1667,Extracupo,2026-06-14,SMS,1,0,0
+2464,Extracupo,2026-06-05,SMS,1,1,0
+2451,Tarjeta Activa,2026-01-03,WhatsApp,1,1,0
+3820,Extracupo,2026-07-07,WhatsApp,1,1,0
+2813,Tarjeta Activa,2026-09-28,Email,0,0,0
+3432,Tarjeta Activa,2026-03-24,WhatsApp,1,1,0
+858,Extracupo,2026-09-18,WhatsApp,1,1,0
+680,Libre Destino,2026-01-03,SMS,0,0,0
+1531,Extracupo,2026-02-06,SMS,0,0,0
+4803,Libre Destino,2026-01-28,no_especificada,1,0,0
+2262,Libre Destino,2026-08-11,Email,1,0,0
+4111,Tarjeta Activa,2026-07-05,SMS,1,1,0
+3693,Libre Destino,2026-05-22,Email,1,1,4006578
+4433,Tarjeta Activa,2026-04-22,Email,0,0,0
+2401,Libre Destino,2026-01-20,WhatsApp,0,0,0
+3649,Tarjeta Activa,2026-09-26,SMS,1,1,0
+339,Tarjeta Activa,2026-09-09,WhatsApp,0,0,0
+589,Libre Destino,2026-03-22,SMS,1,1,15580359
+3173,Extracupo,2026-02-09,Email,0,0,0
+773,Tarjeta Activa,2026-02-02,WhatsApp,1,0,0
+2910,Extracupo,2026-07-02,SMS,0,0,0
+1733,Extracupo,2026-03-08,no_especificada,1,1,0
+2593,Libre Destino,2026-01-17,Email,1,1,16290188
+479,Tarjeta Activa,2026-05-06,no_especificada,1,0,0
+3948,Tarjeta Activa,2026-07-05,WhatsApp,0,0,0
+4580,Tarjeta Activa,2026-04-10,SMS,0,0,0
+1647,Libre Destino,2026-03-11,Email,0,0,0
+1196,Tarjeta Activa,2026-05-19,no_especificada,0,0,0
+80,Tarjeta Activa,2026-07-06,WhatsApp,1,1,0
+2866,Tarjeta Activa,2026-08-18,WhatsApp,1,1,23129882
+1912,Extracupo,2026-09-01,Email,1,1,0
+1779,Libre Destino,2026-05-20,no_especificada,1,1,0
+3677,Extracupo,2026-01-03,WhatsApp,1,1,0
+21,Extracupo,2026-06-01,SMS,1,0,0
+3365,Extracupo,2026-08-10,Email,0,0,0
+3598,Extracupo,2026-09-08,WhatsApp,1,1,0
+2052,Extracupo,2026-04-27,SMS,0,0,0
+4494,Extracupo,2026-02-27,WhatsApp,1,1,0
+1367,Extracupo,2026-05-20,Email,1,1,0
+416,Tarjeta Activa,2026-09-03,Email,1,0,0
+660,Tarjeta Activa,2026-06-02,no_especificada,0,0,0
+1497,Libre Destino,2026-06-18,SMS,1,1,0
+2669,Tarjeta Activa,2026-06-12,WhatsApp,0,0,0
+472,Extracupo,2026-05-07,SMS,1,1,0
+765,Extracupo,2026-01-28,Email,1,1,0
+4201,Libre Destino,2026-09-18,no_especificada,1,1,0
+4320,Libre Destino,2026-03-21,no_especificada,1,1,0
+2657,Extracupo,2026-05-15,SMS,1,1,0
+6,Extracupo,2026-03-08,no_especificada,0,0,0
+3951,Libre Destino,2026-06-04,SMS,1,1,0
+1746,Extracupo,2026-04-02,WhatsApp,0,0,0
+3008,Extracupo,2026-06-26,SMS,1,1,0
+1651,Libre Destino,2026-02-02,SMS,0,0,9445451
+986,Extracupo,2026-02-20,Email,1,0,0
+30,Tarjeta Activa,2026-09-23,no_especificada,1,0,0
+222,Extracupo,2026-04-13,no_especificada,1,1,0
+1862,Extracupo,2026-07-28,WhatsApp,1,1,0
+2698,Tarjeta Activa,2026-08-16,WhatsApp,1,0,0
+832,Libre Destino,2026-03-02,Email,0,0,0
+349,Extracupo,2026-06-02,WhatsApp,1,1,0
+237,Libre Destino,2026-03-03,WhatsApp,0,0,0
+3467,Tarjeta Activa,2026-09-16,Email,1,0,0
+4480,Tarjeta Activa,2026-05-18,SMS,0,0,0
+4921,Libre Destino,2026-09-20,SMS,1,0,0
+3942,Libre Destino,2026-02-25,SMS,0,0,0
+186,Tarjeta Activa,2026-02-04,no_especificada,1,0,0
+1316,Tarjeta Activa,2026-01-14,no_especificada,1,1,0
+3745,Extracupo,2026-07-04,WhatsApp,1,1,0
+1922,Tarjeta Activa,2026-06-02,Email,1,1,0
+3270,Tarjeta Activa,2026-03-02,WhatsApp,1,0,0
+2797,Extracupo,2026-03-11,WhatsApp,0,0,0
+864,Extracupo,2026-06-14,no_especificada,1,1,0
+3986,Tarjeta Activa,2026-04-28,SMS,1,1,0
+2179,Extracupo,2026-04-03,no_especificada,1,0,0
+4024,Libre Destino,2026-01-19,WhatsApp,1,0,0
+3863,Libre Destino,2026-05-22,WhatsApp,1,0,0
+1099,Libre Destino,2026-03-27,no_especificada,1,1,0
+3124,Libre Destino,2026-01-06,no_especificada,0,0,0
+2946,Tarjeta Activa,2026-09-15,WhatsApp,0,0,0
+4606,Extracupo,2026-04-09,no_especificada,1,1,0
+357,Tarjeta Activa,2026-03-21,SMS,1,1,0
+3223,Libre Destino,2026-01-17,SMS,1,0,10648885
+2232,Tarjeta Activa,2026-07-28,no_especificada,0,0,0
+1553,Tarjeta Activa,2026-03-27,Email,1,0,0
+1053,Extracupo,2026-06-26,SMS,1,1,0
+4525,Libre Destino,2026-07-22,SMS,0,0,0
+4143,Tarjeta Activa,2026-03-25,WhatsApp,1,0,0
+1005,Extracupo,2026-06-12,no_especificada,0,0,0
+834,Libre Destino,2026-03-28,Email,1,1,0
+4427,Libre Destino,2026-05-12,no_especificada,1,0,21944104
+208,Libre Destino,2026-01-18,WhatsApp,1,1,0
+3863,Libre Destino,2026-02-04,Email,1,1,0
+1218,Tarjeta Activa,2026-05-04,SMS,1,0,0
+4784,Libre Destino,2026-01-06,no_especificada,1,1,0
+4089,Tarjeta Activa,2026-04-17,no_especificada,1,0,28838526
+1890,Extracupo,2026-07-02,no_especificada,1,1,0
+1940,Libre Destino,2026-05-24,SMS,1,1,0
+2269,Libre Destino,2026-03-14,WhatsApp,0,0,0
+1221,Tarjeta Activa,2026-03-16,Email,1,1,0
+2374,Extracupo,2026-07-22,WhatsApp,1,1,0
+2527,Libre Destino,2026-05-11,SMS,0,0,0
+2974,Extracupo,2026-01-15,WhatsApp,0,0,0
+2897,Libre Destino,2026-06-24,Email,1,0,0
+2839,Tarjeta Activa,2026-07-14,SMS,1,1,0
+1928,Tarjeta Activa,2026-06-25,Email,0,0,14249797
+1095,Libre Destino,2026-05-13,Email,1,0,0
+2959,Tarjeta Activa,2026-05-12,SMS,1,0,0
+4834,Extracupo,2026-08-06,Email,1,0,0
+3692,Tarjeta Activa,2026-09-20,WhatsApp,1,1,0
+4642,Extracupo,2026-08-01,no_especificada,1,1,28137724
+1354,Libre Destino,2026-05-12,WhatsApp,1,1,0
+2203,Libre Destino,2026-06-19,Email,0,0,0
+3961,Libre Destino,2026-04-26,SMS,1,1,0
+2497,Libre Destino,2026-09-01,Email,1,1,0
+1058,Extracupo,2026-08-07,Email,1,1,4668988
+562,Tarjeta Activa,2026-02-22,SMS,1,1,0
+4780,Extracupo,2026-01-22,WhatsApp,1,1,0
+4495,Extracupo,2026-09-13,WhatsApp,1,0,0
+1103,Tarjeta Activa,2026-08-28,Email,0,0,0
+1036,Libre Destino,2026-09-10,SMS,1,1,0
+173,Extracupo,2026-01-20,WhatsApp,1,1,0
+2019,Extracupo,2026-09-16,no_especificada,1,1,0
+2723,Tarjeta Activa,2026-04-20,SMS,0,0,0
+4831,Libre Destino,2026-01-09,Email,1,0,6542260
+4322,Extracupo,2026-01-28,no_especificada,1,0,0
+4160,Libre Destino,2026-06-11,Email,0,0,0
+3305,Tarjeta Activa,2026-05-07,SMS,1,0,0
+3316,Tarjeta Activa,2026-08-16,WhatsApp,0,0,0
+617,Extracupo,2026-06-12,WhatsApp,1,0,0
+4824,Extracupo,2026-08-23,WhatsApp,0,0,0
+3111,Tarjeta Activa,2026-03-15,Email,1,0,9746314
+4073,Tarjeta Activa,2026-07-27,SMS,1,0,0
+1734,Tarjeta Activa,2026-02-03,SMS,1,0,0
+2123,Extracupo,2026-06-03,Email,0,0,0
+1166,Tarjeta Activa,2026-04-17,WhatsApp,1,0,0
+797,Libre Destino,2026-02-15,no_especificada,1,0,0
+3417,Libre Destino,2026-05-09,Email,1,0,0
+4586,Extracupo,2026-07-13,no_especificada,1,1,27191920
+3209,Libre Destino,2026-05-20,no_especificada,1,0,14038072
+1443,Extracupo,2026-06-24,WhatsApp,0,0,0
+2698,Extracupo,2026-05-13,Email,0,0,0
+3389,Extracupo,2026-06-09,WhatsApp,1,1,9759202
+1916,Libre Destino,2026-03-03,WhatsApp,1,1,0
+1029,Extracupo,2026-05-16,SMS,0,0,11830993
+214,Tarjeta Activa,2026-05-10,no_especificada,0,0,26808328
+515,Extracupo,2026-07-27,no_especificada,1,0,0
+2386,Libre Destino,2026-01-11,SMS,0,0,0
+4910,Extracupo,2026-08-17,no_especificada,1,1,0
+519,Libre Destino,2026-06-24,no_especificada,0,0,0
+1971,Libre Destino,2026-03-11,SMS,1,1,0
+3556,Extracupo,2026-07-10,SMS,1,0,0
+2806,Extracupo,2026-03-19,WhatsApp,1,1,0
+2522,Tarjeta Activa,2026-07-12,Email,1,1,11183005
+1057,Tarjeta Activa,2026-03-22,no_especificada,1,0,0
+4524,Extracupo,2026-03-12,no_especificada,1,1,0
+3443,Tarjeta Activa,2026-04-18,Email,0,0,0
+1703,Libre Destino,2026-08-16,Email,1,0,0
+1143,Libre Destino,2026-03-27,no_especificada,1,1,0
+4585,Extracupo,2026-04-22,SMS,1,1,0
+694,Libre Destino,2026-08-08,Email,1,0,0
+1994,Libre Destino,2026-06-18,no_especificada,1,1,0
+4697,Tarjeta Activa,2026-01-04,Email,1,0,2718020
+323,Libre Destino,2026-08-13,Email,0,0,0
+556,Extracupo,2026-05-24,WhatsApp,0,0,0
+3480,Extracupo,2026-01-17,SMS,0,0,0
+3805,Libre Destino,2026-01-07,no_especificada,0,0,0
+4212,Extracupo,2026-06-21,no_especificada,1,1,0
+1498,Libre Destino,2026-06-03,Email,0,0,0
+834,Libre Destino,2026-04-09,WhatsApp,1,1,0
+942,Tarjeta Activa,2026-08-15,SMS,0,0,0
+3875,Libre Destino,2026-08-07,Email,0,0,0
+4808,Extracupo,2026-06-02,Email,1,1,15366824
+3553,Extracupo,2026-06-09,no_especificada,1,0,0
+2013,Extracupo,2026-05-08,Email,1,1,0
+2097,Extracupo,2026-07-16,WhatsApp,0,0,0
+3967,Libre Destino,2026-09-15,WhatsApp,1,1,0
+1016,Extracupo,2026-03-17,WhatsApp,1,1,0
+4930,Tarjeta Activa,2026-08-22,SMS,1,0,0
+2687,Extracupo,2026-01-15,no_especificada,0,0,0
+1898,Tarjeta Activa,2026-07-22,WhatsApp,1,1,0
+442,Tarjeta Activa,2026-06-27,Email,0,0,0
+4506,Extracupo,2026-04-04,WhatsApp,0,0,0
+743,Libre Destino,2026-09-01,no_especificada,1,1,0
+1744,Tarjeta Activa,2026-02-11,WhatsApp,0,0,0
+2395,Tarjeta Activa,2026-08-07,SMS,0,0,0
+4433,Extracupo,2026-02-02,SMS,1,1,0
+1451,Tarjeta Activa,2026-03-25,WhatsApp,0,0,0
+3718,Libre Destino,2026-09-20,no_especificada,0,0,0
+2096,Extracupo,2026-03-05,Email,1,1,0
+3753,Extracupo,2026-04-16,no_especificada,1,0,0
+4722,Tarjeta Activa,2026-04-11,no_especificada,0,0,21574782
+4670,Tarjeta Activa,2026-03-28,WhatsApp,1,1,0
+1264,Libre Destino,2026-04-20,Email,1,0,0
+3837,Extracupo,2026-05-19,WhatsApp,0,0,0
+4746,Libre Destino,2026-04-04,WhatsApp,1,1,0
+1361,Tarjeta Activa,2026-03-11,SMS,1,1,0
+3773,Extracupo,2026-02-08,no_especificada,1,1,11784022
+1736,Extracupo,2026-03-25,WhatsApp,1,1,0
+4017,Tarjeta Activa,2026-02-04,no_especificada,1,1,0
+2005,Extracupo,2026-08-16,WhatsApp,1,1,0
+873,Tarjeta Activa,2026-08-20,WhatsApp,1,1,8512483
+2119,Libre Destino,2026-09-18,no_especificada,1,1,18733585
+3473,Tarjeta Activa,2026-03-04,Email,1,0,0
+1861,Extracupo,2026-01-01,SMS,0,0,0
+52,Extracupo,2026-04-17,no_especificada,1,1,10754442
+2662,Libre Destino,2026-04-23,WhatsApp,0,0,15243974
+1362,Extracupo,2026-09-09,no_especificada,1,1,0
+4849,Tarjeta Activa,2026-02-18,SMS,1,1,0
+916,Tarjeta Activa,2026-06-12,Email,0,0,0
+151,Libre Destino,2026-07-09,no_especificada,0,0,0
+765,Extracupo,2026-02-28,WhatsApp,1,1,0
+4006,Extracupo,2026-08-17,SMS,1,1,23287385
+4755,Extracupo,2026-06-10,WhatsApp,1,1,0
+3979,Libre Destino,2026-04-22,SMS,1,1,0
+2820,Extracupo,2026-06-24,Email,1,1,0
+1173,Extracupo,2026-01-15,SMS,1,0,24171507
+4613,Libre Destino,2026-05-11,WhatsApp,1,0,0
+2388,Tarjeta Activa,2026-05-17,WhatsApp,1,1,0
+1445,Extracupo,2026-05-25,no_especificada,0,0,0
+1239,Extracupo,2026-07-25,no_especificada,0,0,0
+1552,Extracupo,2026-08-09,WhatsApp,1,0,0
+2583,Libre Destino,2026-04-25,Email,1,1,0
+314,Tarjeta Activa,2026-01-18,Email,1,1,0
+1439,Tarjeta Activa,2026-07-16,WhatsApp,1,0,0
+425,Tarjeta Activa,2026-05-12,SMS,1,1,19611946
+220,Tarjeta Activa,2026-05-10,WhatsApp,1,1,0
+4631,Extracupo,2026-02-23,Email,1,1,0
+1776,Libre Destino,2026-06-25,WhatsApp,0,0,0
+761,Tarjeta Activa,2026-09-10,no_especificada,1,1,27351389
+732,Extracupo,2026-07-24,no_especificada,1,0,26834525
+980,Tarjeta Activa,2026-07-02,no_especificada,1,0,0
+2168,Extracupo,2026-02-12,Email,0,0,28211950
+3121,Extracupo,2026-09-10,no_especificada,1,0,0
+3172,Libre Destino,2026-01-15,SMS,1,1,11649473
+3106,Extracupo,2026-03-07,SMS,1,1,0
+2959,Extracupo,2026-05-12,WhatsApp,0,0,0
+2291,Tarjeta Activa,2026-06-03,WhatsApp,1,0,0
+1258,Extracupo,2026-03-13,no_especificada,1,0,0
+3238,Libre Destino,2026-03-06,Email,1,0,0
+2467,Libre Destino,2026-04-07,no_especificada,1,0,0
+2925,Libre Destino,2026-06-15,no_especificada,0,0,7117350
+1571,Extracupo,2026-07-13,Email,0,0,0
+3572,Tarjeta Activa,2026-09-27,no_especificada,1,1,0
+4310,Extracupo,2026-08-23,WhatsApp,0,0,0
+249,Tarjeta Activa,2026-08-20,SMS,1,1,0
+3837,Extracupo,2026-05-02,WhatsApp,1,1,20111342
+261,Extracupo,2026-08-13,no_especificada,1,1,0
+4105,Libre Destino,2026-06-06,WhatsApp,0,0,0
+4179,Tarjeta Activa,2026-03-06,WhatsApp,1,1,0
+357,Extracupo,2026-07-27,Email,1,1,0
+4773,Libre Destino,2026-09-13,WhatsApp,1,1,0
+3330,Extracupo,2026-01-21,SMS,1,1,0
+4636,Tarjeta Activa,2026-01-10,Email,0,0,0
+4745,Tarjeta Activa,2026-08-20,SMS,1,1,0
+2358,Extracupo,2026-06-04,no_especificada,1,0,0
+238,Tarjeta Activa,2026-05-10,Email,1,1,12950199
+3071,Libre Destino,2026-07-21,WhatsApp,1,0,0
+2764,Extracupo,2026-04-14,WhatsApp,0,0,0
+1681,Libre Destino,2026-02-03,SMS,1,1,0
+238,Extracupo,2026-05-28,Email,1,1,0
+3629,Libre Destino,2026-04-05,no_especificada,1,0,0
+3273,Tarjeta Activa,2026-02-22,SMS,0,0,22759471
+4943,Tarjeta Activa,2026-08-20,WhatsApp,1,0,7981969
+2742,Extracupo,2026-04-17,Email,0,0,15349090
+4091,Libre Destino,2026-06-15,Email,1,1,0
+2068,Tarjeta Activa,2026-06-05,Email,0,0,0
+2902,Tarjeta Activa,2026-04-08,Email,1,0,0
+3272,Libre Destino,2026-09-25,SMS,1,0,0
+4202,Extracupo,2026-07-24,no_especificada,0,0,0
+1042,Tarjeta Activa,2026-05-03,Email,1,1,0
+4739,Libre Destino,2026-07-25,SMS,1,1,0
+624,Extracupo,2026-04-25,SMS,0,0,0
+1069,Tarjeta Activa,2026-03-19,no_especificada,1,1,28332730
+1899,Extracupo,2026-03-05,WhatsApp,0,0,0
+1780,Extracupo,2026-04-18,WhatsApp,1,1,0
+275,Tarjeta Activa,2026-07-17,SMS,0,0,0
+3885,Extracupo,2026-01-20,no_especificada,1,0,6746169
+3620,Extracupo,2026-07-22,no_especificada,1,1,0
+328,Extracupo,2026-08-15,WhatsApp,1,0,0
+2345,Libre Destino,2026-08-01,Email,1,0,0
+2491,Extracupo,2026-09-09,no_especificada,0,0,23408815
+4187,Tarjeta Activa,2026-09-26,no_especificada,1,0,0
+2199,Tarjeta Activa,2026-06-06,SMS,1,1,0
+1378,Extracupo,2026-06-17,SMS,1,1,0
+4309,Libre Destino,2026-06-08,no_especificada,1,1,0
+4106,Tarjeta Activa,2026-05-14,SMS,1,0,0
+3010,Tarjeta Activa,2026-02-06,SMS,1,1,0
+906,Tarjeta Activa,2026-03-18,SMS,1,1,0
+921,Tarjeta Activa,2026-07-08,WhatsApp,1,1,0
+3637,Tarjeta Activa,2026-02-19,no_especificada,0,0,15516047
+1482,Tarjeta Activa,2026-04-22,SMS,0,0,0
+4366,Extracupo,2026-04-03,SMS,1,1,0
+1094,Extracupo,2026-05-04,WhatsApp,1,1,0
+2528,Tarjeta Activa,2026-09-23,no_especificada,1,1,0
+1040,Extracupo,2026-05-08,SMS,0,0,0
+3524,Tarjeta Activa,2026-06-27,no_especificada,1,1,0
+3312,Libre Destino,2026-02-15,Email,1,0,0
+2290,Libre Destino,2026-03-26,SMS,0,0,0
+4409,Extracupo,2026-08-04,SMS,1,1,0
+2256,Libre Destino,2026-01-10,WhatsApp,1,0,23818215
+4460,Tarjeta Activa,2026-04-23,no_especificada,0,0,0
+4237,Extracupo,2026-07-12,no_especificada,1,1,0
+1733,Tarjeta Activa,2026-08-19,SMS,0,0,20949278
+3208,Extracupo,2026-09-24,WhatsApp,1,0,0
+482,Libre Destino,2026-08-15,no_especificada,1,1,0
+2750,Tarjeta Activa,2026-05-20,Email,0,0,0
+3510,Libre Destino,2026-09-08,WhatsApp,1,1,19750262
+797,Tarjeta Activa,2026-02-27,no_especificada,1,0,26525236
+4607,Extracupo,2026-08-12,WhatsApp,1,1,0
+346,Tarjeta Activa,2026-02-15,no_especificada,1,1,0
+660,Libre Destino,2026-08-17,WhatsApp,1,1,24072354
+3146,Extracupo,2026-08-07,WhatsApp,1,1,0
+2100,Extracupo,2026-07-19,SMS,1,1,0
+669,Libre Destino,2026-02-24,Email,0,0,0
+325,Extracupo,2026-05-09,no_especificada,1,1,9057635
+1676,Extracupo,2026-04-16,no_especificada,1,0,0
+3504,Extracupo,2026-01-28,Email,1,1,0
+67,Libre Destino,2026-05-25,Email,1,1,24935241
+2682,Extracupo,2026-02-27,SMS,1,1,0
+30,Extracupo,2026-08-12,no_especificada,0,0,0
+2694,Extracupo,2026-05-03,no_especificada,0,0,0
+1112,Extracupo,2026-09-28,WhatsApp,1,0,0
+3352,Libre Destino,2026-04-17,WhatsApp,1,1,11024470
+1833,Extracupo,2026-04-01,Email,1,1,5991807
+1877,Extracupo,2026-06-12,Email,0,0,0
+4412,Libre Destino,2026-06-17,Email,0,0,0
+58,Extracupo,2026-02-04,no_especificada,1,1,0
+148,Extracupo,2026-02-16,WhatsApp,1,1,19775782
+2862,Libre Destino,2026-02-01,SMS,0,0,0
+167,Libre Destino,2026-01-05,no_especificada,1,1,0
+3184,Extracupo,2026-07-28,no_especificada,1,1,26852418
+4764,Extracupo,2026-09-12,SMS,1,1,0
+4495,Libre Destino,2026-03-17,WhatsApp,1,1,0
+4392,Libre Destino,2026-04-05,Email,0,0,0
+2915,Tarjeta Activa,2026-05-26,WhatsApp,1,1,0
+4092,Libre Destino,2026-08-21,no_especificada,1,0,0
+4418,Libre Destino,2026-01-10,WhatsApp,1,0,0
+1521,Extracupo,2026-04-17,Email,1,1,28587139
+2559,Extracupo,2026-01-01,no_especificada,0,0,0
+3540,Tarjeta Activa,2026-09-27,Email,0,0,0
+3875,Libre Destino,2026-09-13,WhatsApp,1,1,0
+3480,Tarjeta Activa,2026-05-22,Email,1,0,13955162
+2205,Tarjeta Activa,2026-09-24,SMS,0,0,0
+3013,Tarjeta Activa,2026-09-03,no_especificada,1,1,0
+3108,Extracupo,2026-08-01,no_especificada,1,0,10658301
+888,Libre Destino,2026-06-15,no_especificada,1,1,0
+603,Libre Destino,2026-01-17,WhatsApp,0,0,12126512
+188,Libre Destino,2026-03-18,Email,1,0,0
+3458,Extracupo,2026-08-20,no_especificada,1,0,8952286
+4443,Extracupo,2026-07-20,Email,0,0,0
+2963,Extracupo,2026-06-03,Email,1,0,0
+2962,Tarjeta Activa,2026-06-20,SMS,1,0,28169762
+4546,Tarjeta Activa,2026-02-23,WhatsApp,0,0,0
+363,Tarjeta Activa,2026-04-18,WhatsApp,1,1,0
+667,Tarjeta Activa,2026-08-04,no_especificada,0,0,0
+3850,Extracupo,2026-07-04,SMS,0,0,0
+2103,Extracupo,2026-01-02,SMS,1,1,11285697
+776,Tarjeta Activa,2026-03-26,Email,0,0,14501240
+2542,Libre Destino,2026-03-14,WhatsApp,1,1,0
+3359,Libre Destino,2026-05-01,Email,1,1,0
+1328,Libre Destino,2026-09-28,Email,1,1,0
+2608,Libre Destino,2026-03-02,Email,1,0,0
+3364,Tarjeta Activa,2026-02-07,SMS,1,0,5688892
+4194,Libre Destino,2026-09-15,no_especificada,1,0,4286233
+2967,Libre Destino,2026-05-17,SMS,1,1,0
+3242,Libre Destino,2026-07-22,WhatsApp,0,0,0
+1119,Libre Destino,2026-09-22,SMS,1,0,0
+4679,Extracupo,2026-08-07,WhatsApp,1,1,0
+1633,Tarjeta Activa,2026-08-11,WhatsApp,1,1,0
+3874,Libre Destino,2026-08-05,WhatsApp,0,0,0
+3443,Tarjeta Activa,2026-03-16,no_especificada,1,1,0
+1247,Libre Destino,2026-05-20,WhatsApp,1,1,0
+279,Libre Destino,2026-09-08,no_especificada,1,1,0
+1859,Extracupo,2026-04-22,Email,1,1,2645695
+3424,Extracupo,2026-02-17,SMS,1,1,0
+284,Tarjeta Activa,2026-09-18,WhatsApp,0,0,0
+3627,Libre Destino,2026-08-16,SMS,1,1,0
+4150,Extracupo,2026-09-18,SMS,0,0,0
+1753,Libre Destino,2026-06-22,Email,1,1,0
+4987,Tarjeta Activa,2026-04-27,WhatsApp,1,1,0
+32,Extracupo,2026-01-26,WhatsApp,0,0,25523377
+2343,Tarjeta Activa,2026-04-14,WhatsApp,0,0,0
+4767,Libre Destino,2026-01-12,WhatsApp,1,1,0
+1962,Libre Destino,2026-06-05,Email,1,1,0
+4586,Extracupo,2026-09-13,Email,1,0,0
+2096,Libre Destino,2026-04-20,WhatsApp,1,1,0
+3669,Libre Destino,2026-04-03,Email,0,0,0
+917,Tarjeta Activa,2026-01-07,no_especificada,1,1,0
+2630,Libre Destino,2026-04-12,no_especificada,1,1,0
+3520,Tarjeta Activa,2026-04-21,Email,1,1,26072379
+2177,Libre Destino,2026-09-10,Email,0,0,0
+1307,Libre Destino,2026-01-21,no_especificada,1,1,0
+3510,Tarjeta Activa,2026-07-07,WhatsApp,1,1,0
+4366,Extracupo,2026-06-16,no_especificada,0,0,0
+1726,Extracupo,2026-04-15,SMS,1,0,0
+2012,Tarjeta Activa,2026-08-25,WhatsApp,1,0,0
+3615,Libre Destino,2026-09-27,Email,1,0,0
+1767,Libre Destino,2026-07-22,Email,1,0,0
+1473,Libre Destino,2026-04-12,WhatsApp,0,0,0
+2190,Tarjeta Activa,2026-06-28,Email,0,0,0
+2266,Tarjeta Activa,2026-05-28,no_especificada,0,0,0
+3796,Libre Destino,2026-07-05,Email,0,0,0
+188,Tarjeta Activa,2026-08-20,no_especificada,1,1,0
+1395,Extracupo,2026-09-25,no_especificada,1,1,28738170
+2500,Libre Destino,2026-06-12,no_especificada,1,0,0
+2565,Tarjeta Activa,2026-03-18,Email,1,0,0
+4097,Libre Destino,2026-04-06,WhatsApp,0,0,0
+2281,Libre Destino,2026-01-27,SMS,1,0,0
+2184,Extracupo,2026-01-18,SMS,1,1,0
+84,Tarjeta Activa,2026-07-10,WhatsApp,0,0,0
+3381,Tarjeta Activa,2026-05-27,WhatsApp,1,0,0
+4906,Libre Destino,2026-02-26,WhatsApp,1,1,0
+3974,Tarjeta Activa,2026-01-18,SMS,1,1,0
+3826,Tarjeta Activa,2026-09-24,WhatsApp,1,0,0
+2999,Tarjeta Activa,2026-04-06,Email,1,0,22501699
+1240,Tarjeta Activa,2026-06-11,Email,1,0,0
+884,Tarjeta Activa,2026-08-20,WhatsApp,1,1,0
+3276,Libre Destino,2026-06-09,Email,1,1,0
+4057,Extracupo,2026-06-23,WhatsApp,0,0,0
+3743,Extracupo,2026-01-10,WhatsApp,1,0,26509238
+4557,Libre Destino,2026-01-09,no_especificada,1,1,0
+3401,Extracupo,2026-08-13,WhatsApp,0,0,0
+2365,Libre Destino,2026-05-18,SMS,1,1,0
+4649,Libre Destino,2026-07-03,WhatsApp,0,0,0
+2947,Extracupo,2026-09-27,Email,1,1,0
+485,Libre Destino,2026-01-19,SMS,0,0,0
+4155,Extracupo,2026-05-19,Email,0,0,0
+4401,Libre Destino,2026-04-14,no_especificada,1,1,0
+3457,Extracupo,2026-03-12,Email,0,0,0
+1377,Extracupo,2026-06-16,no_especificada,1,1,0
+4845,Tarjeta Activa,2026-01-15,SMS,0,0,3674121
+47,Extracupo,2026-03-26,no_especificada,1,0,0
+1158,Libre Destino,2026-03-26,Email,1,1,0
+3729,Extracupo,2026-01-16,Email,0,0,0
+752,Extracupo,2026-06-17,no_especificada,1,0,0
+4024,Tarjeta Activa,2026-06-16,WhatsApp,1,0,0
+1143,Extracupo,2026-08-06,Email,1,0,0
+1057,Extracupo,2026-07-05,WhatsApp,1,0,0
+4563,Libre Destino,2026-05-12,WhatsApp,1,1,0
+978,Tarjeta Activa,2026-06-16,no_especificada,1,0,0
+3638,Libre Destino,2026-09-12,no_especificada,1,1,0
+23,Libre Destino,2026-07-04,no_especificada,1,1,0
+742,Libre Destino,2026-01-25,Email,1,1,0
+1714,Extracupo,2026-09-11,WhatsApp,1,1,0
+2623,Libre Destino,2026-07-08,SMS,1,0,0
+2858,Libre Destino,2026-04-11,WhatsApp,1,1,4152030
+2958,Libre Destino,2026-04-05,Email,1,1,29283360
+4470,Tarjeta Activa,2026-02-26,no_especificada,0,0,0
+1399,Extracupo,2026-01-17,SMS,1,1,0
+1436,Libre Destino,2026-01-14,no_especificada,0,0,0
+3457,Extracupo,2026-07-23,WhatsApp,0,0,0
+3677,Libre Destino,2026-05-12,Email,1,0,0
+3169,Tarjeta Activa,2026-02-08,WhatsApp,0,0,0
+4407,Extracupo,2026-03-19,WhatsApp,1,1,0
+540,Extracupo,2026-03-06,SMS,1,1,0
+385,Tarjeta Activa,2026-08-06,SMS,1,1,0
+3314,Libre Destino,2026-02-13,WhatsApp,1,1,0
+4615,Libre Destino,2026-05-02,no_especificada,0,0,0
+2079,Extracupo,2026-05-12,WhatsApp,1,0,0
+3970,Extracupo,2026-03-21,SMS,1,0,0
+4454,Extracupo,2026-06-10,no_especificada,1,1,20839972
+2203,Tarjeta Activa,2026-01-20,Email,1,1,0
+3413,Extracupo,2026-01-17,no_especificada,1,1,0
+2322,Tarjeta Activa,2026-01-02,Email,1,0,0
+3339,Extracupo,2026-01-20,no_especificada,1,1,0
+2453,Libre Destino,2026-09-27,Email,1,0,0
+714,Libre Destino,2026-07-17,no_especificada,1,0,0
+831,Tarjeta Activa,2026-03-28,SMS,0,0,2534418
+3310,Libre Destino,2026-07-27,WhatsApp,1,0,0
+2294,Extracupo,2026-01-06,no_especificada,1,1,10702973
+1606,Extracupo,2026-05-25,no_especificada,1,0,0
+3047,Libre Destino,2026-04-02,SMS,1,0,0
+3722,Extracupo,2026-03-18,Email,1,1,1566634
+4161,Extracupo,2026-07-02,no_especificada,1,1,0
+3391,Libre Destino,2026-02-24,no_especificada,1,1,23617768
+3513,Libre Destino,2026-06-20,SMS,1,1,0
+3597,Extracupo,2026-06-03,WhatsApp,1,0,17102082
+4274,Libre Destino,2026-04-25,no_especificada,1,0,0
+1744,Libre Destino,2026-09-04,WhatsApp,0,0,0
+2426,Extracupo,2026-02-03,SMS,1,1,0
+1657,Libre Destino,2026-01-27,WhatsApp,1,0,0
+4039,Tarjeta Activa,2026-09-13,WhatsApp,1,0,0
+2482,Libre Destino,2026-06-21,SMS,0,0,0
+1967,Extracupo,2026-06-21,Email,0,0,4875884
+4449,Extracupo,2026-01-21,SMS,0,0,21368132
+4295,Extracupo,2026-08-28,Email,1,0,0
+351,Extracupo,2026-05-07,WhatsApp,0,0,0
+4745,Tarjeta Activa,2026-04-16,Email,1,0,0
+230,Libre Destino,2026-05-27,Email,1,0,7832805
+4452,Tarjeta Activa,2026-03-19,SMS,1,1,15347770
+912,Libre Destino,2026-02-24,WhatsApp,0,0,0
+4998,Libre Destino,2026-09-28,SMS,1,0,0
+2463,Extracupo,2026-04-26,SMS,0,0,0
+188,Libre Destino,2026-09-03,no_especificada,1,1,0
+3144,Extracupo,2026-02-10,no_especificada,1,0,0
+83,Tarjeta Activa,2026-08-05,Email,1,1,0
+4813,Tarjeta Activa,2026-09-21,Email,1,0,0
+2064,Extracupo,2026-09-05,SMS,1,1,0
+1742,Tarjeta Activa,2026-01-24,SMS,0,0,0
+1605,Tarjeta Activa,2026-03-28,Email,0,0,0
+307,Libre Destino,2026-06-25,Email,1,1,0
+2806,Libre Destino,2026-08-24,no_especificada,0,0,12335135
+280,Libre Destino,2026-05-15,WhatsApp,0,0,0
+4382,Libre Destino,2026-01-22,no_especificada,1,0,0
+3995,Tarjeta Activa,2026-04-24,no_especificada,1,1,0
+1010,Extracupo,2026-02-14,WhatsApp,1,1,14555587
+1026,Extracupo,2026-01-09,no_especificada,0,0,0
+4649,Tarjeta Activa,2026-05-15,no_especificada,1,1,0
+3562,Libre Destino,2026-01-03,Email,1,0,14920277
+2487,Libre Destino,2026-08-14,SMS,1,1,0
+4722,Tarjeta Activa,2026-01-11,SMS,1,1,0
+4130,Extracupo,2026-07-19,SMS,1,1,0
+2242,Extracupo,2026-04-23,SMS,0,0,0
+3538,Tarjeta Activa,2026-07-25,WhatsApp,1,1,0
+1932,Extracupo,2026-07-14,SMS,1,0,0
+3554,Extracupo,2026-03-25,SMS,1,1,0
+2198,Tarjeta Activa,2026-01-10,SMS,1,1,0
+325,Extracupo,2026-06-11,WhatsApp,0,0,0
+3092,Libre Destino,2026-06-10,SMS,1,0,0
+2094,Libre Destino,2026-05-15,SMS,1,0,0
+4486,Tarjeta Activa,2026-09-05,WhatsApp,1,0,0
+4403,Extracupo,2026-03-11,Email,0,0,0
+2694,Libre Destino,2026-04-18,no_especificada,1,1,0
+1819,Extracupo,2026-07-12,WhatsApp,1,1,2009906
+4116,Tarjeta Activa,2026-06-08,no_especificada,1,0,0
+4945,Extracupo,2026-06-11,Email,1,0,0
+3937,Libre Destino,2026-09-08,no_especificada,1,0,0
+4998,Libre Destino,2026-07-09,SMS,0,0,27892078
+477,Extracupo,2026-02-15,no_especificada,1,1,0
+1184,Extracupo,2026-01-14,Email,1,0,0
+3899,Extracupo,2026-05-11,no_especificada,0,0,0
+2750,Extracupo,2026-03-19,SMS,1,0,0
+4935,Tarjeta Activa,2026-04-07,SMS,1,0,0
+2757,Libre Destino,2026-03-18,SMS,0,0,0
+1225,Tarjeta Activa,2026-04-26,Email,1,1,0
+2602,Tarjeta Activa,2026-05-06,Email,1,1,0
+2719,Tarjeta Activa,2026-06-04,SMS,1,1,2209647
+399,Tarjeta Activa,2026-06-02,no_especificada,0,0,3750070
+601,Tarjeta Activa,2026-03-09,Email,1,0,16220404
+2165,Extracupo,2026-03-07,Email,1,1,0
+1433,Extracupo,2026-01-10,WhatsApp,1,1,0
+3858,Tarjeta Activa,2026-09-12,SMS,1,0,0
+3908,Libre Destino,2026-04-05,WhatsApp,1,1,0
+2624,Extracupo,2026-04-03,Email,1,0,0
+2731,Libre Destino,2026-01-13,no_especificada,1,0,0
+4814,Extracupo,2026-09-21,WhatsApp,0,0,0
+2679,Libre Destino,2026-08-10,no_especificada,0,0,0
+91,Extracupo,2026-01-20,no_especificada,0,0,0
+478,Tarjeta Activa,2026-09-15,no_especificada,1,1,0
+3517,Tarjeta Activa,2026-08-11,SMS,1,1,0
+2128,Extracupo,2026-02-05,SMS,1,1,0
+3771,Tarjeta Activa,2026-08-04,SMS,0,0,0
+228,Extracupo,2026-02-02,SMS,1,1,0
+3114,Extracupo,2026-03-07,no_especificada,1,1,0
+3910,Libre Destino,2026-03-09,SMS,0,0,0
+4342,Tarjeta Activa,2026-08-16,WhatsApp,1,1,0
+55,Extracupo,2026-08-02,no_especificada,0,0,0
+587,Tarjeta Activa,2026-08-08,Email,0,0,21186763
+4464,Libre Destino,2026-02-22,SMS,1,1,0
+4115,Extracupo,2026-06-16,WhatsApp,1,1,0
+1744,Libre Destino,2026-06-21,SMS,0,0,0
+669,Extracupo,2026-02-21,WhatsApp,1,1,0
+2449,Libre Destino,2026-02-18,SMS,1,0,0
+3836,Libre Destino,2026-01-24,SMS,1,0,0
+1701,Libre Destino,2026-09-01,no_especificada,1,0,0
+31,Extracupo,2026-08-10,WhatsApp,1,0,0
+4545,Libre Destino,2026-05-27,SMS,0,0,0
+2025,Extracupo,2026-01-19,WhatsApp,0,0,0
+2415,Extracupo,2026-09-17,WhatsApp,1,0,13388633
+3924,Extracupo,2026-06-12,Email,1,0,0
+2379,Libre Destino,2026-07-18,Email,1,1,0
+244,Libre Destino,2026-07-04,SMS,1,1,0
+4522,Libre Destino,2026-07-24,Email,1,0,0
+1317,Tarjeta Activa,2026-04-02,no_especificada,1,1,0
+3148,Libre Destino,2026-01-01,Email,1,0,0
+332,Libre Destino,2026-04-20,SMS,1,1,0
+2108,Extracupo,2026-07-06,Email,1,0,0
+1486,Tarjeta Activa,2026-03-08,no_especificada,0,0,0
+1595,Extracupo,2026-05-05,WhatsApp,1,0,0
+2367,Tarjeta Activa,2026-01-20,Email,1,1,0
+3270,Libre Destino,2026-03-03,no_especificada,1,1,0
+4043,Tarjeta Activa,2026-03-08,Email,1,0,0
+3392,Extracupo,2026-05-16,Email,1,0,0
+4846,Libre Destino,2026-06-21,no_especificada,1,1,0
+601,Extracupo,2026-06-16,no_especificada,1,0,0
+3355,Extracupo,2026-07-01,Email,0,0,0
+1815,Libre Destino,2026-02-14,WhatsApp,0,0,0
+2900,Tarjeta Activa,2026-02-12,Email,1,1,13428871
+3080,Tarjeta Activa,2026-09-06,Email,1,0,0
+4151,Extracupo,2026-03-19,WhatsApp,0,0,8359441
+1658,Libre Destino,2026-01-13,WhatsApp,1,0,0
+3963,Extracupo,2026-07-07,no_especificada,1,1,0
+1437,Libre Destino,2026-08-11,WhatsApp,1,1,0
+1239,Extracupo,2026-06-12,WhatsApp,1,1,0
+399,Tarjeta Activa,2026-03-25,WhatsApp,1,1,0
+3865,Tarjeta Activa,2026-05-11,WhatsApp,1,1,0
+551,Libre Destino,2026-06-04,Email,1,1,0
+127,Tarjeta Activa,2026-04-22,SMS,1,0,0
+3148,Tarjeta Activa,2026-07-06,SMS,1,1,22310222
+3249,Extracupo,2026-03-19,WhatsApp,1,1,0
+3865,Extracupo,2026-01-09,SMS,0,0,0
+2418,Libre Destino,2026-02-12,SMS,1,1,0
+2375,Extracupo,2026-08-28,Email,1,1,0
+2495,Extracupo,2026-08-25,no_especificada,1,1,4867334
+702,Extracupo,2026-03-07,WhatsApp,1,1,0
+2251,Tarjeta Activa,2026-02-11,no_especificada,1,0,0
+2323,Tarjeta Activa,2026-04-12,SMS,1,1,0
+4039,Tarjeta Activa,2026-03-22,WhatsApp,1,1,0
+1585,Libre Destino,2026-06-15,SMS,1,0,0
+1832,Libre Destino,2026-01-19,SMS,1,1,0
+2459,Extracupo,2026-08-09,SMS,1,1,0
+1208,Libre Destino,2026-06-07,SMS,1,0,0
+2504,Extracupo,2026-09-11,no_especificada,1,1,2478499
+2910,Extracupo,2026-04-20,no_especificada,0,0,0
+950,Tarjeta Activa,2026-07-07,no_especificada,1,1,0
+4912,Extracupo,2026-09-17,Email,1,1,28082526
+3159,Tarjeta Activa,2026-06-16,SMS,1,1,0
+4222,Tarjeta Activa,2026-01-13,WhatsApp,1,1,0
+4673,Extracupo,2026-05-16,SMS,1,1,0
+3028,Libre Destino,2026-09-22,WhatsApp,1,1,0
+2677,Tarjeta Activa,2026-03-16,SMS,1,1,0
+1286,Tarjeta Activa,2026-02-25,SMS,1,1,0
+3133,Tarjeta Activa,2026-02-09,SMS,1,1,0
+3611,Libre Destino,2026-02-16,no_especificada,0,0,0
+3181,Tarjeta Activa,2026-01-06,Email,1,1,0
+1162,Tarjeta Activa,2026-09-27,Email,1,0,0
+246,Libre Destino,2026-08-21,Email,1,0,0
+3807,Libre Destino,2026-03-03,no_especificada,1,1,0
+316,Extracupo,2026-02-28,Email,1,1,0
+4861,Tarjeta Activa,2026-06-02,WhatsApp,1,1,0
+4276,Tarjeta Activa,2026-07-27,no_especificada,1,0,0
+2264,Extracupo,2026-07-01,no_especificada,1,1,0
+1321,Libre Destino,2026-08-17,no_especificada,1,1,1628366
+2615,Libre Destino,2026-01-10,no_especificada,1,1,21189096
+85,Libre Destino,2026-01-17,Email,1,1,0
+4210,Libre Destino,2026-05-26,Email,1,0,0
+1705,Extracupo,2026-02-09,WhatsApp,1,0,0
+1492,Tarjeta Activa,2026-08-05,WhatsApp,1,0,0
+2475,Libre Destino,2026-04-21,no_especificada,1,1,0
+3951,Extracupo,2026-01-03,WhatsApp,1,1,27388539
+3785,Tarjeta Activa,2026-06-27,Email,0,0,0
+126,Libre Destino,2026-04-16,SMS,1,0,29475909
+4401,Extracupo,2026-02-12,Email,1,1,0
+2406,Extracupo,2026-04-10,Email,0,0,0
+3865,Extracupo,2026-01-14,no_especificada,1,1,0
+3665,Libre Destino,2026-01-01,WhatsApp,1,1,0
+3387,Libre Destino,2026-01-28,Email,1,1,0
+1793,Libre Destino,2026-03-10,WhatsApp,1,0,0
+2391,Extracupo,2026-06-05,Email,0,0,0
+2158,Libre Destino,2026-01-21,no_especificada,1,1,0
+2961,Extracupo,2026-08-09,no_especificada,1,1,0
+1730,Tarjeta Activa,2026-03-04,Email,1,1,0
+1082,Extracupo,2026-02-03,no_especificada,0,0,0
+1434,Libre Destino,2026-02-27,SMS,1,0,0
+1964,Libre Destino,2026-03-13,Email,0,0,11468959
+2485,Libre Destino,2026-01-26,WhatsApp,0,0,0
+3898,Tarjeta Activa,2026-04-27,no_especificada,0,0,0
+975,Extracupo,2026-07-01,Email,1,1,5714281
+1691,Libre Destino,2026-01-23,Email,1,1,0
+156,Tarjeta Activa,2026-08-15,Email,1,1,0
+2843,Tarjeta Activa,2026-02-15,Email,1,0,0
+2698,Libre Destino,2026-06-20,no_especificada,1,1,0
+1068,Extracupo,2026-05-20,Email,1,1,0
+2833,Extracupo,2026-05-12,no_especificada,1,1,0
+4317,Libre Destino,2026-02-25,WhatsApp,0,0,0
+3583,Libre Destino,2026-09-02,no_especificada,0,0,0
+4782,Tarjeta Activa,2026-05-08,WhatsApp,0,0,0
+4717,Extracupo,2026-05-20,Email,1,1,0
+4880,Libre Destino,2026-01-25,no_especificada,1,1,0
+2813,Extracupo,2026-08-12,Email,1,1,0
+2814,Extracupo,2026-03-09,SMS,1,0,0
+1266,Extracupo,2026-07-07,SMS,0,0,4477149
+118,Extracupo,2026-09-27,no_especificada,1,1,0
+1582,Tarjeta Activa,2026-05-08,no_especificada,0,0,0
+1459,Libre Destino,2026-08-06,WhatsApp,1,1,0
+4630,Extracupo,2026-06-09,SMS,1,1,0
+2253,Libre Destino,2026-05-23,Email,1,1,0
+2723,Libre Destino,2026-08-08,no_especificada,0,0,0
+3402,Extracupo,2026-06-07,no_especificada,0,0,0
+2998,Libre Destino,2026-07-28,Email,0,0,0
+3233,Extracupo,2026-04-28,Email,1,1,0
+4718,Tarjeta Activa,2026-07-25,SMS,1,1,0
+4322,Extracupo,2026-01-27,SMS,1,0,13733208
+2130,Libre Destino,2026-07-12,WhatsApp,1,1,0
+3908,Tarjeta Activa,2026-01-05,Email,1,1,0
+3769,Extracupo,2026-04-26,no_especificada,1,1,0
+1330,Tarjeta Activa,2026-02-18,WhatsApp,1,0,0
+1195,Tarjeta Activa,2026-02-27,SMS,1,0,0
+2725,Libre Destino,2026-01-12,SMS,1,1,0
+3760,Extracupo,2026-06-17,SMS,1,1,0
+3323,Tarjeta Activa,2026-04-09,no_especificada,1,0,0
+3787,Libre Destino,2026-08-11,no_especificada,1,0,0
+4472,Extracupo,2026-04-03,no_especificada,1,0,0
+2809,Extracupo,2026-07-26,WhatsApp,1,1,0
+2600,Extracupo,2026-05-01,no_especificada,1,1,0
+1670,Tarjeta Activa,2026-06-21,Email,1,1,0
+4556,Libre Destino,2026-08-16,Email,0,0,0
+1851,Tarjeta Activa,2026-05-27,Email,1,1,0
+2503,Tarjeta Activa,2026-09-24,no_especificada,1,1,0
+4825,Libre Destino,2026-05-18,SMS,1,1,0
+2732,Libre Destino,2026-06-20,no_especificada,1,1,3112686
+2597,Extracupo,2026-06-08,SMS,0,0,0
+1241,Tarjeta Activa,2026-07-07,no_especificada,1,0,0
+989,Tarjeta Activa,2026-01-10,Email,1,1,0
+3053,Tarjeta Activa,2026-03-15,SMS,1,0,0
+3631,Extracupo,2026-02-15,no_especificada,0,0,0
+2266,Libre Destino,2026-03-07,Email,0,0,0
+1475,Libre Destino,2026-07-16,no_especificada,0,0,0
+3271,Tarjeta Activa,2026-01-04,Email,0,0,0
+3849,Extracupo,2026-07-06,no_especificada,1,1,0
+2102,Extracupo,2026-08-21,Email,0,0,0
+1680,Libre Destino,2026-03-22,Email,0,0,0
+3856,Libre Destino,2026-08-10,no_especificada,1,0,0
+513,Tarjeta Activa,2026-05-16,WhatsApp,1,1,0
+4277,Extracupo,2026-08-15,SMS,1,1,0
+3604,Extracupo,2026-05-01,no_especificada,1,0,0
+4526,Tarjeta Activa,2026-07-10,no_especificada,1,0,0
+2097,Libre Destino,2026-06-15,Email,1,1,0
+1850,Libre Destino,2026-08-12,WhatsApp,0,0,0
+1806,Extracupo,2026-02-28,WhatsApp,1,0,0
+3746,Extracupo,2026-09-21,Email,1,1,0
+691,Tarjeta Activa,2026-04-08,Email,0,0,0
+2529,Libre Destino,2026-06-18,WhatsApp,1,1,0
+3021,Tarjeta Activa,2026-09-28,no_especificada,0,0,0
+2793,Extracupo,2026-06-28,SMS,0,0,0
+2536,Extracupo,2026-03-08,SMS,1,1,0
+3598,Extracupo,2026-02-20,no_especificada,1,1,0
+2786,Tarjeta Activa,2026-07-05,SMS,1,0,0
+2886,Libre Destino,2026-05-14,no_especificada,1,1,0
+135,Tarjeta Activa,2026-09-25,SMS,1,1,0
+4301,Tarjeta Activa,2026-03-25,SMS,1,1,0
+2657,Libre Destino,2026-07-03,Email,0,0,0
+4777,Tarjeta Activa,2026-09-24,WhatsApp,1,1,0
+2843,Extracupo,2026-02-08,Email,1,1,1092698
+373,Libre Destino,2026-04-05,WhatsApp,1,1,0
+3562,Extracupo,2026-05-11,Email,1,0,0
+2213,Extracupo,2026-06-09,WhatsApp,1,1,0
+99,Libre Destino,2026-09-08,SMS,1,1,0
+3030,Libre Destino,2026-07-22,Email,1,0,27053089
+4056,Libre Destino,2026-02-28,SMS,1,1,0
+3466,Libre Destino,2026-04-20,Email,1,1,0
+4837,Extracupo,2026-02-13,SMS,1,1,12356370
+2518,Libre Destino,2026-09-24,Email,1,1,0
+2705,Tarjeta Activa,2026-07-08,no_especificada,1,0,0
+4848,Extracupo,2026-04-08,no_especificada,0,0,0
+3737,Tarjeta Activa,2026-08-11,no_especificada,1,1,0
+2305,Tarjeta Activa,2026-06-22,WhatsApp,1,1,0
+4184,Tarjeta Activa,2026-07-26,WhatsApp,0,0,0
+3738,Extracupo,2026-07-03,no_especificada,1,0,0
+1224,Extracupo,2026-08-12,WhatsApp,0,0,0
+2656,Tarjeta Activa,2026-03-02,SMS,1,0,0
+4593,Tarjeta Activa,2026-06-02,WhatsApp,1,1,0
+278,Libre Destino,2026-07-20,no_especificada,1,1,0
+187,Extracupo,2026-05-16,Email,1,1,0
+2019,Libre Destino,2026-09-06,no_especificada,0,0,0
+3203,Extracupo,2026-04-09,no_especificada,1,1,0
+4172,Libre Destino,2026-03-19,Email,1,0,26975813
+3586,Tarjeta Activa,2026-09-08,WhatsApp,1,1,0
+358,Extracupo,2026-08-24,SMS,1,0,0
+294,Extracupo,2026-07-13,WhatsApp,0,0,0
+413,Libre Destino,2026-08-01,WhatsApp,0,0,0
+2163,Extracupo,2026-08-08,SMS,1,1,0
+2374,Libre Destino,2026-03-01,SMS,1,0,2877901
+302,Tarjeta Activa,2026-02-11,Email,1,1,0
+4465,Tarjeta Activa,2026-09-07,SMS,1,1,14122904
+2110,Tarjeta Activa,2026-01-22,Email,0,0,29721290
+3484,Extracupo,2026-09-10,no_especificada,0,0,0
+843,Extracupo,2026-02-21,WhatsApp,0,0,0
+2127,Tarjeta Activa,2026-04-18,SMS,1,0,0
+1712,Libre Destino,2026-09-18,no_especificada,1,0,0
+3637,Tarjeta Activa,2026-01-28,SMS,1,1,0
+813,Tarjeta Activa,2026-03-16,WhatsApp,0,0,0
+2068,Tarjeta Activa,2026-02-10,SMS,1,1,0
+815,Extracupo,2026-04-24,SMS,0,0,4228274
+2258,Libre Destino,2026-01-12,SMS,1,1,0
+1926,Libre Destino,2026-01-01,WhatsApp,1,1,13406232
+49,Extracupo,2026-06-09,SMS,1,1,0
+104,Extracupo,2026-07-09,Email,1,1,0
+3992,Libre Destino,2026-06-02,SMS,0,0,3196682
+4993,Tarjeta Activa,2026-05-26,no_especificada,1,1,0
+3718,Extracupo,2026-03-15,Email,1,1,0
+3501,Extracupo,2026-06-14,WhatsApp,1,1,0
+3278,Libre Destino,2026-09-04,SMS,0,0,0
+3062,Tarjeta Activa,2026-02-23,SMS,1,0,0
+3183,Libre Destino,2026-08-01,WhatsApp,1,0,0
+308,Libre Destino,2026-06-25,no_especificada,1,1,0
+3678,Tarjeta Activa,2026-03-13,SMS,1,1,0
+3564,Extracupo,2026-04-06,SMS,1,1,0
+2559,Libre Destino,2026-02-28,Email,1,1,0
+2603,Extracupo,2026-05-19,no_especificada,1,0,0
+3138,Tarjeta Activa,2026-09-20,Email,1,0,0
+1009,Libre Destino,2026-07-11,no_especificada,0,0,0
+2417,Extracupo,2026-02-10,SMS,1,1,0
+2995,Tarjeta Activa,2026-06-23,WhatsApp,1,1,0
+1396,Extracupo,2026-09-28,WhatsApp,1,1,0
+448,Libre Destino,2026-08-22,WhatsApp,1,1,0
+1743,Libre Destino,2026-02-07,Email,0,0,0
+145,Extracupo,2026-02-10,no_especificada,1,1,0
+316,Tarjeta Activa,2026-04-07,no_especificada,1,1,0
+1263,Libre Destino,2026-02-23,SMS,1,1,0
+4992,Tarjeta Activa,2026-08-03,WhatsApp,1,1,0
+2554,Tarjeta Activa,2026-03-02,Email,0,0,0
+2539,Extracupo,2026-02-21,SMS,0,0,0
+28,Extracupo,2026-07-12,no_especificada,0,0,0
+6,Tarjeta Activa,2026-03-28,WhatsApp,1,1,0
+4329,Tarjeta Activa,2026-01-28,WhatsApp,1,0,0
+4105,Extracupo,2026-05-18,WhatsApp,1,0,0
+4100,Extracupo,2026-05-04,WhatsApp,1,1,0
+2429,Extracupo,2026-02-05,no_especificada,1,1,0
+4095,Tarjeta Activa,2026-07-11,SMS,1,0,0
+366,Tarjeta Activa,2026-04-02,WhatsApp,1,0,0
+1292,Extracupo,2026-03-24,WhatsApp,0,0,0
+949,Extracupo,2026-05-04,SMS,0,0,0
+2663,Tarjeta Activa,2026-08-07,WhatsApp,1,1,0
+2838,Extracupo,2026-02-28,SMS,1,1,0
+3109,Tarjeta Activa,2026-08-10,Email,0,0,0
+909,Extracupo,2026-08-07,Email,1,1,0
+1956,Tarjeta Activa,2026-03-20,no_especificada,0,0,0
+4240,Extracupo,2026-03-01,Email,0,0,0
+3468,Extracupo,2026-08-18,Email,1,1,0
+2605,Tarjeta Activa,2026-05-10,SMS,0,0,0
+2110,Tarjeta Activa,2026-09-18,WhatsApp,1,0,23904120
+3947,Extracupo,2026-06-20,no_especificada,1,1,0
+1266,Tarjeta Activa,2026-03-28,no_especificada,0,0,0
+3965,Tarjeta Activa,2026-03-18,Email,1,0,0
+1112,Extracupo,2026-05-11,Email,1,1,0
+1804,Libre Destino,2026-04-18,Email,0,0,0
+971,Libre Destino,2026-05-19,WhatsApp,1,1,0
+1625,Tarjeta Activa,2026-08-21,SMS,1,1,0
+3416,Libre Destino,2026-03-08,Email,1,1,0
+3117,Tarjeta Activa,2026-09-24,Email,1,1,0
+525,Libre Destino,2026-05-04,WhatsApp,1,1,0
+435,Tarjeta Activa,2026-07-20,Email,1,0,0
+2742,Tarjeta Activa,2026-01-26,no_especificada,1,0,0
+2006,Extracupo,2026-06-25,SMS,1,1,0
+2322,Libre Destino,2026-07-11,Email,1,0,0
+4116,Tarjeta Activa,2026-07-25,Email,0,0,0
+465,Libre Destino,2026-08-05,SMS,1,1,0
+164,Libre Destino,2026-06-10,Email,0,0,0
+2191,Extracupo,2026-04-04,SMS,1,1,0
+471,Tarjeta Activa,2026-03-20,WhatsApp,1,0,0
+449,Extracupo,2026-01-07,Email,0,0,28878055
+1579,Extracupo,2026-01-14,SMS,1,0,29791217
+4173,Libre Destino,2026-02-12,no_especificada,1,0,0
+1557,Tarjeta Activa,2026-08-19,SMS,0,0,0
+1156,Tarjeta Activa,2026-07-16,WhatsApp,0,0,0
+4350,Libre Destino,2026-01-19,no_especificada,1,1,0
+3287,Tarjeta Activa,2026-06-04,SMS,1,0,0
+2381,Extracupo,2026-03-12,Email,1,0,0
+4618,Tarjeta Activa,2026-09-24,no_especificada,0,0,0
+4317,Tarjeta Activa,2026-02-06,SMS,0,0,0
+4736,Tarjeta Activa,2026-08-24,WhatsApp,1,1,0
+2765,Libre Destino,2026-01-15,SMS,1,0,0
+588,Extracupo,2026-07-13,SMS,1,0,0
+2169,Libre Destino,2026-07-10,WhatsApp,0,0,0
+2677,Extracupo,2026-02-22,no_especificada,1,1,0
+1410,Libre Destino,2026-01-22,SMS,1,1,0
+3638,Libre Destino,2026-05-08,Email,1,1,0
+4284,Extracupo,2026-05-23,WhatsApp,1,1,0
+1699,Tarjeta Activa,2026-04-04,WhatsApp,1,1,0
+4386,Libre Destino,2026-02-06,SMS,0,0,0
+1547,Extracupo,2026-08-12,WhatsApp,0,0,0
+1208,Libre Destino,2026-06-10,WhatsApp,1,1,0
+476,Tarjeta Activa,2026-04-06,WhatsApp,1,1,0
+809,Extracupo,2026-07-19,WhatsApp,1,1,0
+2989,Extracupo,2026-03-22,SMS,0,0,0
+236,Extracupo,2026-06-15,no_especificada,1,0,0
+4688,Extracupo,2026-01-18,WhatsApp,1,1,0
+1138,Extracupo,2026-05-13,Email,1,0,0
+3223,Tarjeta Activa,2026-04-02,WhatsApp,0,0,0
+2795,Tarjeta Activa,2026-09-13,WhatsApp,1,1,0
+2759,Extracupo,2026-01-27,WhatsApp,0,0,0
+2121,Extracupo,2026-01-15,no_especificada,1,1,0
+2008,Extracupo,2026-09-05,SMS,0,0,0
+1187,Libre Destino,2026-09-27,Email,1,0,0
+4707,Libre Destino,2026-01-28,SMS,1,1,0
+100,Extracupo,2026-02-25,SMS,0,0,0
+4229,Tarjeta Activa,2026-09-25,SMS,1,1,0
+2917,Libre Destino,2026-04-19,SMS,0,0,0
+2878,Tarjeta Activa,2026-07-21,no_especificada,0,0,0
+3576,Tarjeta Activa,2026-09-28,no_especificada,1,1,0
+1003,Tarjeta Activa,2026-06-06,no_especificada,1,1,0
+3430,Extracupo,2026-05-02,WhatsApp,1,1,0
+2885,Extracupo,2026-09-17,no_especificada,0,0,0
+3588,Libre Destino,2026-07-06,SMS,1,1,0
+4770,Tarjeta Activa,2026-08-07,no_especificada,1,1,0
+4545,Tarjeta Activa,2026-08-19,WhatsApp,1,1,0
+3522,Libre Destino,2026-05-07,SMS,1,0,0
+4641,Extracupo,2026-04-26,WhatsApp,1,0,29397114
+1946,Extracupo,2026-02-06,WhatsApp,0,0,0
+2334,Tarjeta Activa,2026-03-21,no_especificada,0,0,0
+3707,Extracupo,2026-07-18,WhatsApp,1,1,0
+1457,Libre Destino,2026-01-20,WhatsApp,1,1,0
+4569,Tarjeta Activa,2026-01-15,no_especificada,0,0,0
+1181,Libre Destino,2026-09-21,no_especificada,1,0,0
+480,Tarjeta Activa,2026-05-04,SMS,1,1,0
+1459,Libre Destino,2026-02-28,no_especificada,1,1,0
+4303,Extracupo,2026-05-16,SMS,0,0,1792969
+2522,Tarjeta Activa,2026-07-22,SMS,1,1,0
+3621,Extracupo,2026-02-09,no_especificada,0,0,0
+1351,Libre Destino,2026-04-19,SMS,1,0,0
+114,Extracupo,2026-06-18,no_especificada,1,0,0
+1047,Extracupo,2026-09-25,Email,1,0,0
+4658,Extracupo,2026-08-13,SMS,1,1,21592529
+1343,Libre Destino,2026-07-22,Email,0,0,0
+1087,Tarjeta Activa,2026-06-24,SMS,1,1,0
+1822,Tarjeta Activa,2026-08-03,no_especificada,0,0,25931822
+4586,Libre Destino,2026-06-22,Email,0,0,0
+695,Tarjeta Activa,2026-02-03,SMS,1,1,16323380
+1412,Libre Destino,2026-09-25,SMS,1,0,0
+396,Libre Destino,2026-04-11,no_especificada,1,1,0
+4958,Libre Destino,2026-08-25,SMS,1,1,0
+4146,Libre Destino,2026-04-13,WhatsApp,1,1,0
+892,Tarjeta Activa,2026-02-19,Email,1,0,0
+4852,Extracupo,2026-07-28,no_especificada,1,1,0
+3250,Tarjeta Activa,2026-08-24,no_especificada,1,0,16032908
+4881,Libre Destino,2026-04-07,no_especificada,1,1,0
+3024,Extracupo,2026-02-14,SMS,1,0,0
+4749,Libre Destino,2026-03-23,WhatsApp,1,1,0
+4676,Extracupo,2026-06-21,Email,1,1,0
+3217,Libre Destino,2026-01-17,Email,1,0,0
+2832,Libre Destino,2026-01-14,no_especificada,1,0,0
+1194,Tarjeta Activa,2026-03-22,WhatsApp,1,1,0
+2472,Tarjeta Activa,2026-01-15,no_especificada,0,0,0
+4815,Tarjeta Activa,2026-08-16,WhatsApp,0,0,0
+1869,Libre Destino,2026-02-17,Email,1,1,0
+1585,Tarjeta Activa,2026-03-02,Email,1,0,7668210
+708,Extracupo,2026-04-23,Email,1,1,26671472
+2950,Libre Destino,2026-03-19,SMS,1,1,0
+1209,Extracupo,2026-02-18,WhatsApp,1,0,0
+4929,Tarjeta Activa,2026-03-14,SMS,1,1,0
+1771,Libre Destino,2026-02-12,no_especificada,1,1,0
+3791,Extracupo,2026-06-14,no_especificada,0,0,0
+4005,Extracupo,2026-03-01,Email,0,0,0
+585,Tarjeta Activa,2026-01-19,Email,1,1,22252942
+1767,Libre Destino,2026-03-25,SMS,1,0,0
+4771,Tarjeta Activa,2026-04-03,Email,1,0,0
+3042,Extracupo,2026-05-19,no_especificada,1,0,0
+3635,Extracupo,2026-09-16,WhatsApp,1,1,0
+2898,Libre Destino,2026-05-12,WhatsApp,1,1,0
+1848,Extracupo,2026-02-09,WhatsApp,1,0,0
+573,Extracupo,2026-05-03,Email,1,1,0
+55,Extracupo,2026-03-07,SMS,1,1,0
+843,Extracupo,2026-08-02,Email,0,0,0
+2916,Libre Destino,2026-01-01,WhatsApp,0,0,0
+3437,Extracupo,2026-05-03,SMS,0,0,0
+2498,Libre Destino,2026-01-17,SMS,1,0,4077553
+4799,Extracupo,2026-08-20,WhatsApp,0,0,0
+2480,Libre Destino,2026-03-26,SMS,1,1,0
+4025,Tarjeta Activa,2026-01-28,no_especificada,1,1,14683114
+4100,Tarjeta Activa,2026-01-11,WhatsApp,1,1,0
+776,Extracupo,2026-03-18,SMS,0,0,0
+1330,Tarjeta Activa,2026-07-14,WhatsApp,1,0,5963526
+2935,Extracupo,2026-07-13,no_especificada,1,1,0
+961,Tarjeta Activa,2026-08-22,Email,1,0,0
+2645,Tarjeta Activa,2026-04-27,no_especificada,1,1,0
+4114,Libre Destino,2026-02-07,WhatsApp,0,0,0
+3945,Extracupo,2026-09-11,Email,1,1,0
+4907,Tarjeta Activa,2026-07-17,WhatsApp,1,1,0
+148,Extracupo,2026-04-05,SMS,1,1,29458722
+1050,Tarjeta Activa,2026-03-26,Email,1,0,0
+4731,Libre Destino,2026-05-20,Email,0,0,0
+100,Tarjeta Activa,2026-02-26,Email,1,0,0
+1827,Extracupo,2026-03-21,no_especificada,1,1,0
+1012,Libre Destino,2026-02-06,WhatsApp,1,1,0
+4682,Libre Destino,2026-01-04,Email,1,0,0
+1212,Extracupo,2026-04-03,SMS,1,1,0
+4320,Tarjeta Activa,2026-02-08,Email,1,1,9506206
+3600,Extracupo,2026-07-01,SMS,1,1,0
+4825,Tarjeta Activa,2026-01-14,Email,0,0,0
+2169,Extracupo,2026-08-02,Email,1,1,0
+3051,Libre Destino,2026-01-12,no_especificada,1,1,0
+3969,Libre Destino,2026-07-19,Email,0,0,0
+2915,Tarjeta Activa,2026-08-02,SMS,0,0,0
+2755,Tarjeta Activa,2026-01-13,no_especificada,1,0,12141192
+4,Extracupo,2026-03-02,Email,1,0,0
+1366,Extracupo,2026-07-17,Email,0,0,0
+1626,Tarjeta Activa,2026-08-02,SMS,1,0,0
+4862,Libre Destino,2026-07-02,no_especificada,1,0,0
+2672,Libre Destino,2026-07-26,no_especificada,0,0,0
+3054,Tarjeta Activa,2026-04-10,Email,1,1,0
+4509,Tarjeta Activa,2026-02-04,Email,1,1,0
+2387,Tarjeta Activa,2026-05-12,Email,0,0,0
+1818,Extracupo,2026-05-08,WhatsApp,1,1,6846475
+4778,Libre Destino,2026-03-08,Email,1,1,0
+102,Tarjeta Activa,2026-09-14,Email,0,0,29208194
+4161,Extracupo,2026-09-08,no_especificada,0,0,0
+335,Libre Destino,2026-03-08,WhatsApp,1,1,20710921
+3001,Libre Destino,2026-06-17,SMS,0,0,0
+1186,Libre Destino,2026-04-27,WhatsApp,1,0,0
+1570,Libre Destino,2026-06-24,no_especificada,0,0,0
+280,Tarjeta Activa,2026-09-27,SMS,1,1,0
+1606,Extracupo,2026-01-09,WhatsApp,0,0,0
+3622,Libre Destino,2026-03-07,no_especificada,1,0,0
+2818,Tarjeta Activa,2026-08-20,SMS,0,0,3908786
+3670,Tarjeta Activa,2026-08-05,WhatsApp,1,1,0
+1461,Extracupo,2026-05-03,Email,1,0,0
+777,Extracupo,2026-05-23,Email,1,0,0
+2905,Tarjeta Activa,2026-05-03,Email,1,1,0
+2625,Tarjeta Activa,2026-01-23,SMS,1,1,0
+2401,Tarjeta Activa,2026-03-16,WhatsApp,1,0,0
+4042,Extracupo,2026-04-04,WhatsApp,1,1,0
+3501,Extracupo,2026-06-20,Email,0,0,0
+4503,Extracupo,2026-01-10,SMS,1,1,0
+3771,Tarjeta Activa,2026-06-05,no_especificada,1,1,0
+2575,Tarjeta Activa,2026-03-09,SMS,0,0,0
+4888,Libre Destino,2026-02-23,Email,1,0,0
+4007,Tarjeta Activa,2026-05-17,no_especificada,1,1,3045218
+1390,Tarjeta Activa,2026-07-13,no_especificada,1,1,0
+4404,Tarjeta Activa,2026-04-08,WhatsApp,1,1,0
+2947,Tarjeta Activa,2026-04-12,no_especificada,1,1,21813061
+1828,Libre Destino,2026-09-24,Email,1,1,0
+576,Extracupo,2026-06-06,Email,0,0,0
+3985,Extracupo,2026-03-05,WhatsApp,1,0,0
+1551,Libre Destino,2026-05-24,Email,1,1,0
+3359,Libre Destino,2026-01-18,Email,1,0,0
+3046,Extracupo,2026-09-16,WhatsApp,0,0,0
+3459,Extracupo,2026-01-12,SMS,1,1,0
+2438,Libre Destino,2026-06-04,no_especificada,1,1,0
+4243,Extracupo,2026-08-09,Email,1,1,0
+2095,Tarjeta Activa,2026-02-04,Email,1,1,0
+1711,Tarjeta Activa,2026-06-22,SMS,1,1,0
+70,Libre Destino,2026-08-11,WhatsApp,1,0,0
+828,Libre Destino,2026-01-16,Email,0,0,0
+838,Libre Destino,2026-06-12,WhatsApp,1,1,0
+2667,Extracupo,2026-09-02,WhatsApp,1,1,0
+3206,Libre Destino,2026-06-24,SMS,1,1,0
+2523,Libre Destino,2026-04-09,Email,1,1,0
+3936,Extracupo,2026-05-10,WhatsApp,0,0,0
+998,Extracupo,2026-07-21,Email,1,1,21312417
+1216,Libre Destino,2026-08-07,no_especificada,1,0,9904020
+1019,Tarjeta Activa,2026-02-27,Email,1,1,0
+1222,Extracupo,2026-09-24,SMS,1,1,0
+1353,Libre Destino,2026-05-11,no_especificada,1,0,0
+1754,Extracupo,2026-06-15,SMS,1,0,24901035
+2032,Libre Destino,2026-09-17,SMS,1,0,0
+3787,Tarjeta Activa,2026-03-06,Email,1,0,0
+1620,Libre Destino,2026-04-14,WhatsApp,1,1,0
+4680,Tarjeta Activa,2026-06-03,Email,1,1,0
+4728,Libre Destino,2026-09-17,no_especificada,1,1,8825116
+2632,Libre Destino,2026-05-14,no_especificada,0,0,0
+3058,Extracupo,2026-02-02,WhatsApp,0,0,0
+118,Libre Destino,2026-05-19,SMS,1,1,0
+1702,Tarjeta Activa,2026-06-23,Email,1,1,0
+137,Extracupo,2026-01-22,Email,1,0,0
+2246,Extracupo,2026-07-22,Email,0,0,0
+1448,Extracupo,2026-07-02,WhatsApp,1,0,0
+2195,Libre Destino,2026-03-06,SMS,1,1,0
+914,Libre Destino,2026-05-27,no_especificada,0,0,0
+2579,Libre Destino,2026-02-25,Email,0,0,0
+20,Tarjeta Activa,2026-08-28,no_especificada,0,0,0
+4181,Tarjeta Activa,2026-09-12,Email,1,1,0
+3057,Tarjeta Activa,2026-04-16,WhatsApp,0,0,0
+657,Libre Destino,2026-04-04,Email,0,0,0
+2571,Tarjeta Activa,2026-08-08,Email,0,0,0
+717,Tarjeta Activa,2026-09-07,WhatsApp,1,0,0
+4460,Tarjeta Activa,2026-04-21,no_especificada,1,1,0
+1903,Extracupo,2026-03-12,no_especificada,1,0,0
+2195,Extracupo,2026-08-16,Email,1,1,0
+1763,Tarjeta Activa,2026-03-23,SMS,1,1,0
+3669,Tarjeta Activa,2026-04-28,Email,1,1,0
+1452,Tarjeta Activa,2026-03-02,Email,1,1,19077767
+1951,Extracupo,2026-07-04,no_especificada,0,0,0
+3791,Extracupo,2026-07-15,Email,1,1,0
+4227,Extracupo,2026-09-10,no_especificada,1,1,0
+1104,Extracupo,2026-02-04,Email,1,1,0
+3458,Extracupo,2026-05-16,Email,1,1,0
+249,Tarjeta Activa,2026-04-15,Email,1,1,0
+2094,Libre Destino,2026-03-01,no_especificada,1,0,0
+3910,Libre Destino,2026-09-21,no_especificada,0,0,0
+2305,Tarjeta Activa,2026-04-07,no_especificada,0,0,0
+4804,Extracupo,2026-01-10,WhatsApp,1,1,0
+3471,Libre Destino,2026-02-28,Email,1,1,0
+3407,Libre Destino,2026-08-12,WhatsApp,0,0,6122558
+4169,Libre Destino,2026-07-04,no_especificada,0,0,4318130
+4489,Tarjeta Activa,2026-08-27,WhatsApp,1,1,1239990
+784,Extracupo,2026-09-27,Email,1,0,0
+1242,Extracupo,2026-04-16,WhatsApp,1,0,0
+395,Tarjeta Activa,2026-01-02,WhatsApp,0,0,0
+2943,Extracupo,2026-06-21,Email,1,1,0
+2630,Libre Destino,2026-02-27,WhatsApp,1,1,0
+25,Tarjeta Activa,2026-09-08,Email,1,1,0
+4102,Extracupo,2026-09-03,WhatsApp,1,1,0
+450,Tarjeta Activa,2026-01-07,Email,1,1,0
+2368,Extracupo,2026-01-23,Email,0,0,0
+3011,Libre Destino,2026-06-24,Email,1,0,0
+811,Libre Destino,2026-08-05,Email,1,0,0
+1513,Libre Destino,2026-04-19,Email,1,1,19809448
+4411,Tarjeta Activa,2026-08-04,no_especificada,1,1,0
+1952,Extracupo,2026-07-20,no_especificada,1,1,0
+1755,Libre Destino,2026-02-08,Email,1,1,0
+571,Extracupo,2026-08-01,WhatsApp,1,0,0
+3797,Libre Destino,2026-05-21,WhatsApp,1,1,28014333
+1485,Libre Destino,2026-07-10,Email,1,1,0
+1584,Libre Destino,2026-09-15,SMS,1,1,0
+4066,Libre Destino,2026-07-19,Email,1,1,0
+2712,Tarjeta Activa,2026-08-13,no_especificada,1,1,26014574
+583,Libre Destino,2026-08-02,WhatsApp,1,0,0
+1891,Tarjeta Activa,2026-09-12,WhatsApp,1,0,0
+67,Tarjeta Activa,2026-02-01,SMS,0,0,0
+1386,Libre Destino,2026-02-08,Email,1,0,0
+1302,Extracupo,2026-02-16,WhatsApp,1,0,0
+2617,Extracupo,2026-03-12,Email,1,0,0
+4809,Libre Destino,2026-05-05,Email,0,0,0
+406,Libre Destino,2026-01-19,Email,1,1,0
+1293,Tarjeta Activa,2026-06-24,Email,1,1,0
+58,Extracupo,2026-04-23,WhatsApp,0,0,0
+2646,Libre Destino,2026-06-27,Email,1,0,0
+2335,Libre Destino,2026-01-08,Email,1,1,0
+4158,Tarjeta Activa,2026-05-11,no_especificada,0,0,0
+841,Libre Destino,2026-07-28,SMS,1,1,0
+3730,Libre Destino,2026-07-28,no_especificada,0,0,0
+2598,Extracupo,2026-05-01,WhatsApp,0,0,13426616
+3117,Extracupo,2026-08-07,Email,1,0,0
+3499,Libre Destino,2026-09-12,SMS,1,1,6133528
+3869,Tarjeta Activa,2026-06-24,SMS,0,0,0
+4296,Libre Destino,2026-05-21,Email,1,1,0
+2733,Extracupo,2026-08-27,SMS,1,1,0
+2091,Tarjeta Activa,2026-05-28,SMS,1,1,0
+1236,Extracupo,2026-02-20,no_especificada,1,1,0
+913,Tarjeta Activa,2026-02-07,Email,1,1,0
+4647,Tarjeta Activa,2026-09-15,SMS,1,1,0
+3823,Tarjeta Activa,2026-06-11,SMS,0,0,0
+4019,Tarjeta Activa,2026-05-27,SMS,1,1,0
+2371,Extracupo,2026-09-21,SMS,0,0,18532983
+4611,Libre Destino,2026-06-22,Email,1,1,0
+3906,Extracupo,2026-07-11,WhatsApp,1,1,0
+3599,Libre Destino,2026-04-18,no_especificada,0,0,27478340
+94,Extracupo,2026-04-27,SMS,1,1,0
+110,Libre Destino,2026-06-18,no_especificada,1,0,0
+1943,Libre Destino,2026-08-16,WhatsApp,1,1,0
+3996,Tarjeta Activa,2026-08-12,no_especificada,0,0,0
+3444,Tarjeta Activa,2026-02-15,Email,0,0,0
+4777,Extracupo,2026-07-17,Email,1,1,0
+3138,Extracupo,2026-05-07,Email,1,1,0
+4193,Tarjeta Activa,2026-08-13,no_especificada,1,1,0
+2484,Libre Destino,2026-03-08,Email,1,1,0
+1476,Tarjeta Activa,2026-07-21,Email,1,1,17696202
+1459,Tarjeta Activa,2026-04-12,WhatsApp,1,1,0
+3212,Tarjeta Activa,2026-07-08,no_especificada,0,0,0
+1147,Extracupo,2026-09-02,no_especificada,1,1,0
+977,Extracupo,2026-04-17,WhatsApp,1,0,0
+3020,Extracupo,2026-05-05,Email,0,0,0
+1311,Extracupo,2026-02-18,no_especificada,0,0,0
+903,Tarjeta Activa,2026-06-13,no_especificada,1,1,0
+2304,Libre Destino,2026-07-16,SMS,0,0,0
+1903,Extracupo,2026-01-24,Email,1,1,20497524
+3389,Extracupo,2026-02-24,Email,0,0,0
+2561,Extracupo,2026-06-25,no_especificada,0,0,0
+1119,Libre Destino,2026-03-26,SMS,1,1,0
+1388,Extracupo,2026-08-10,Email,0,0,3893651
+3976,Libre Destino,2026-07-07,no_especificada,1,0,0
+3250,Extracupo,2026-09-02,no_especificada,0,0,0
+1975,Libre Destino,2026-09-08,WhatsApp,1,1,0
+3902,Tarjeta Activa,2026-04-02,WhatsApp,1,0,0
+215,Libre Destino,2026-02-12,SMS,0,0,0
+4344,Tarjeta Activa,2026-02-08,Email,1,0,0
+2248,Libre Destino,2026-05-21,SMS,1,1,0
+704,Tarjeta Activa,2026-09-07,SMS,0,0,26597515
+4809,Extracupo,2026-07-23,no_especificada,1,1,0
+2396,Extracupo,2026-05-18,WhatsApp,1,0,0
+2555,Tarjeta Activa,2026-06-16,no_especificada,1,1,0
+858,Tarjeta Activa,2026-09-18,Email,1,0,0
+3072,Libre Destino,2026-07-07,no_especificada,1,1,0
+3739,Tarjeta Activa,2026-01-22,WhatsApp,0,0,0
+2249,Extracupo,2026-03-20,SMS,1,1,0
+3827,Libre Destino,2026-06-26,SMS,1,1,0
+4686,Extracupo,2026-07-24,Email,1,1,26448280
+4239,Libre Destino,2026-02-22,Email,0,0,0
+4990,Extracupo,2026-09-09,Email,1,1,0
+385,Extracupo,2026-07-01,no_especificada,0,0,0
+2970,Tarjeta Activa,2026-02-17,no_especificada,0,0,0
+3675,Extracupo,2026-02-20,no_especificada,1,1,0
+3471,Libre Destino,2026-07-04,Email,1,1,0
+1409,Tarjeta Activa,2026-07-09,no_especificada,1,0,0
+3418,Extracupo,2026-08-28,no_especificada,1,1,0
+1010,Tarjeta Activa,2026-04-18,Email,0,0,0
+4693,Tarjeta Activa,2026-05-24,WhatsApp,1,1,0
+1810,Tarjeta Activa,2026-08-05,Email,1,0,0
+2377,Tarjeta Activa,2026-09-25,SMS,1,1,0
+4126,Libre Destino,2026-02-01,SMS,0,0,4167827
+1452,Extracupo,2026-07-14,Email,1,0,0
+3849,Extracupo,2026-05-26,no_especificada,1,1,0
+704,Extracupo,2026-05-12,SMS,0,0,0
+298,Libre Destino,2026-03-24,no_especificada,1,0,0
+1820,Libre Destino,2026-05-01,no_especificada,1,0,0
+2754,Libre Destino,2026-07-07,SMS,1,1,0
+1947,Extracupo,2026-04-26,SMS,1,1,0
+1610,Tarjeta Activa,2026-05-10,no_especificada,1,1,0
+740,Tarjeta Activa,2026-07-22,no_especificada,0,0,0
+2165,Libre Destino,2026-01-17,no_especificada,0,0,0
+1279,Extracupo,2026-01-07,Email,0,0,0
+2025,Tarjeta Activa,2026-05-20,WhatsApp,1,0,0
+2268,Extracupo,2026-03-09,Email,1,1,0
+4777,Libre Destino,2026-06-15,Email,1,1,0
+2481,Extracupo,2026-07-12,Email,0,0,0
+4049,Tarjeta Activa,2026-09-23,WhatsApp,1,0,0
+4426,Libre Destino,2026-07-23,Email,1,1,0
+1803,Libre Destino,2026-09-27,WhatsApp,1,1,22573095
+57,Tarjeta Activa,2026-04-10,Email,1,0,11974951
+4855,Tarjeta Activa,2026-04-03,SMS,1,1,0
+3826,Extracupo,2026-06-03,SMS,1,1,0
+1226,Extracupo,2026-07-13,no_especificada,0,0,0
+4519,Extracupo,2026-04-04,Email,1,1,0
+1900,Extracupo,2026-07-10,Email,0,0,0
+98,Tarjeta Activa,2026-08-16,Email,1,1,28056900
+2988,Tarjeta Activa,2026-08-12,Email,1,1,0
+3942,Extracupo,2026-06-08,Email,1,0,0
+2875,Extracupo,2026-04-28,Email,1,0,0
+4867,Libre Destino,2026-08-23,WhatsApp,1,0,0
+4640,Libre Destino,2026-07-12,SMS,1,1,0
+922,Tarjeta Activa,2026-09-25,Email,1,0,6844246
+4007,Libre Destino,2026-01-15,Email,1,1,0
+3935,Extracupo,2026-03-18,no_especificada,1,1,0
+713,Libre Destino,2026-04-20,no_especificada,0,0,0
+4752,Tarjeta Activa,2026-06-08,Email,1,1,0
+3153,Extracupo,2026-09-01,Email,1,0,0
+955,Tarjeta Activa,2026-02-28,Email,1,0,0
+1508,Tarjeta Activa,2026-07-22,no_especificada,0,0,0
+1125,Tarjeta Activa,2026-01-14,no_especificada,1,1,0
+1326,Libre Destino,2026-05-27,Email,0,0,0
+2667,Libre Destino,2026-07-02,WhatsApp,1,1,0
+3787,Libre Destino,2026-05-20,Email,1,0,0
+3382,Extracupo,2026-06-07,no_especificada,1,1,0
+4634,Libre Destino,2026-06-27,WhatsApp,1,1,0
+1668,Libre Destino,2026-05-26,WhatsApp,1,1,0
+1241,Extracupo,2026-09-02,SMS,1,0,0
+3615,Tarjeta Activa,2026-07-08,WhatsApp,1,0,0
+2494,Extracupo,2026-04-12,WhatsApp,1,0,11963844
+4194,Extracupo,2026-04-13,Email,1,1,0
+831,Tarjeta Activa,2026-07-22,WhatsApp,0,0,0
+147,Tarjeta Activa,2026-04-17,Email,0,0,29344448
+144,Libre Destino,2026-02-05,WhatsApp,0,0,0
+3057,Libre Destino,2026-05-20,WhatsApp,1,1,0
+1448,Tarjeta Activa,2026-09-24,no_especificada,1,1,0
+2798,Libre Destino,2026-05-06,no_especificada,0,0,0
+1140,Tarjeta Activa,2026-05-06,Email,1,1,0
+988,Libre Destino,2026-01-01,Email,1,0,0
+719,Extracupo,2026-06-06,WhatsApp,1,1,0
+4832,Extracupo,2026-03-15,Email,1,1,0
+235,Libre Destino,2026-09-17,no_especificada,1,1,0
+2590,Extracupo,2026-01-06,SMS,1,1,0
+525,Tarjeta Activa,2026-03-01,SMS,0,0,0
+2418,Extracupo,2026-07-04,SMS,1,1,0
+3672,Libre Destino,2026-04-26,WhatsApp,0,0,0
+612,Extracupo,2026-06-01,Email,1,1,23628397
+721,Tarjeta Activa,2026-06-25,WhatsApp,0,0,0
+2605,Extracupo,2026-01-06,SMS,1,0,0
+2726,Extracupo,2026-04-15,no_especificada,1,0,0
+938,Libre Destino,2026-08-25,Email,1,1,0
+2760,Libre Destino,2026-06-04,SMS,0,0,0
+1568,Libre Destino,2026-03-16,no_especificada,1,1,0
+4869,Libre Destino,2026-08-10,Email,1,1,0
+1287,Extracupo,2026-06-02,WhatsApp,1,1,0
+1272,Libre Destino,2026-03-02,Email,0,0,0
+3005,Extracupo,2026-09-14,no_especificada,1,1,16351926
+2717,Tarjeta Activa,2026-08-10,Email,0,0,0
+4510,Libre Destino,2026-02-27,no_especificada,1,0,0
+695,Extracupo,2026-04-21,Email,1,1,0
+3484,Libre Destino,2026-08-11,SMS,0,0,0
+1947,Tarjeta Activa,2026-08-12,WhatsApp,1,0,0
+2845,Extracupo,2026-08-25,no_especificada,1,1,0
+3180,Libre Destino,2026-01-15,Email,1,1,0
+2541,Extracupo,2026-08-09,WhatsApp,1,1,0
+204,Libre Destino,2026-08-12,WhatsApp,1,0,0
+4727,Tarjeta Activa,2026-08-27,SMS,1,0,0
+2056,Libre Destino,2026-09-16,no_especificada,0,0,8920599
+4992,Libre Destino,2026-05-19,WhatsApp,1,1,4500951
+394,Libre Destino,2026-03-13,Email,1,1,1912784
+4552,Tarjeta Activa,2026-02-19,WhatsApp,1,0,0
+1521,Tarjeta Activa,2026-09-05,SMS,1,1,0
+2578,Extracupo,2026-05-02,WhatsApp,0,0,27038475
+3104,Tarjeta Activa,2026-01-04,SMS,1,1,0
+4687,Extracupo,2026-05-13,SMS,0,0,0
+4637,Libre Destino,2026-03-17,no_especificada,0,0,0
+3421,Tarjeta Activa,2026-07-02,no_especificada,1,1,0
+3003,Extracupo,2026-09-20,WhatsApp,1,1,0
+4435,Extracupo,2026-04-22,WhatsApp,1,1,0
+3420,Extracupo,2026-03-20,WhatsApp,1,1,0
+519,Extracupo,2026-04-28,WhatsApp,0,0,0
+1527,Libre Destino,2026-02-11,Email,1,1,0
+1285,Libre Destino,2026-09-24,SMS,1,1,0
+1138,Tarjeta Activa,2026-06-24,Email,1,1,0
+1064,Extracupo,2026-03-21,SMS,0,0,0
+3953,Tarjeta Activa,2026-06-17,WhatsApp,1,1,0
+2976,Libre Destino,2026-02-16,SMS,0,0,21906429
+1192,Tarjeta Activa,2026-09-27,no_especificada,1,1,0
+2985,Extracupo,2026-06-07,Email,1,1,23475451
+4868,Libre Destino,2026-03-21,Email,1,1,0
+4184,Libre Destino,2026-05-12,WhatsApp,1,1,0
+286,Libre Destino,2026-09-25,SMS,0,0,0
+338,Tarjeta Activa,2026-04-10,Email,1,1,0
+63,Libre Destino,2026-05-04,no_especificada,1,0,0
+16,Extracupo,2026-04-12,no_especificada,1,1,0
+3406,Libre Destino,2026-06-06,SMS,1,0,0
+120,Libre Destino,2026-07-16,SMS,1,1,0
+535,Libre Destino,2026-04-07,WhatsApp,1,1,0
+2204,Tarjeta Activa,2026-05-19,WhatsApp,1,1,0
+298,Extracupo,2026-01-09,no_especificada,1,0,0
+3139,Libre Destino,2026-04-18,no_especificada,1,1,0
+2736,Extracupo,2026-03-01,no_especificada,1,0,0
+3910,Extracupo,2026-07-07,no_especificada,1,1,23468275
+3109,Extracupo,2026-01-22,SMS,1,1,0
+3350,Libre Destino,2026-05-27,Email,0,0,0
+4500,Extracupo,2026-09-13,SMS,0,0,0
+624,Tarjeta Activa,2026-06-05,no_especificada,1,1,0
+4552,Tarjeta Activa,2026-08-11,WhatsApp,0,0,0
+149,Libre Destino,2026-05-20,no_especificada,0,0,0
+4811,Extracupo,2026-05-07,SMS,1,1,0
+4154,Extracupo,2026-03-24,WhatsApp,1,0,24667738
+4168,Libre Destino,2026-07-25,Email,1,1,0
+244,Libre Destino,2026-01-27,no_especificada,1,1,0
+2379,Extracupo,2026-09-17,SMS,1,1,0
+1753,Libre Destino,2026-08-14,no_especificada,1,1,0
+2902,Extracupo,2026-07-27,WhatsApp,0,0,0
+4019,Tarjeta Activa,2026-08-28,no_especificada,0,0,0
+3832,Extracupo,2026-02-28,SMS,1,1,2344319
+4130,Tarjeta Activa,2026-08-12,no_especificada,1,0,8315350
+96,Libre Destino,2026-08-11,SMS,1,0,3639818
+4297,Tarjeta Activa,2026-09-24,WhatsApp,1,1,0
+4845,Extracupo,2026-05-21,no_especificada,1,1,8371480
+1370,Extracupo,2026-01-22,no_especificada,1,0,0
+3304,Libre Destino,2026-07-05,WhatsApp,1,1,0
+64,Extracupo,2026-03-18,no_especificada,1,1,0
+2540,Tarjeta Activa,2026-02-20,SMS,1,0,0
+3849,Libre Destino,2026-07-28,Email,0,0,0
+3545,Extracupo,2026-09-07,no_especificada,1,1,0
+3268,Tarjeta Activa,2026-08-25,SMS,0,0,0
+2311,Extracupo,2026-05-20,WhatsApp,1,0,0
+2901,Extracupo,2026-02-11,SMS,1,0,0
+1298,Extracupo,2026-04-18,SMS,0,0,0
+2750,Extracupo,2026-06-23,Email,0,0,0
+4821,Libre Destino,2026-09-07,no_especificada,1,0,26256693
+872,Tarjeta Activa,2026-04-19,WhatsApp,1,0,18284723
+3135,Extracupo,2026-04-10,no_especificada,1,1,0
+1180,Extracupo,2026-05-04,Email,0,0,26495210
+1724,Tarjeta Activa,2026-03-25,WhatsApp,0,0,0
+146,Tarjeta Activa,2026-04-06,SMS,1,1,0
+1757,Tarjeta Activa,2026-09-04,WhatsApp,1,1,0
+1048,Tarjeta Activa,2026-06-06,no_especificada,0,0,0
+3018,Tarjeta Activa,2026-03-21,SMS,1,1,0
+2156,Extracupo,2026-05-13,Email,1,0,0
+1017,Libre Destino,2026-04-02,Email,1,0,0
+2502,Libre Destino,2026-01-09,SMS,1,1,0
+2985,Extracupo,2026-04-03,SMS,1,0,0
+1155,Extracupo,2026-04-22,no_especificada,1,1,0
+1781,Tarjeta Activa,2026-01-17,WhatsApp,1,0,0
+329,Libre Destino,2026-04-12,SMS,1,1,0
+64,Tarjeta Activa,2026-04-15,SMS,1,1,0
+4132,Libre Destino,2026-07-15,no_especificada,1,1,0
+4349,Tarjeta Activa,2026-01-04,Email,1,1,0
+4622,Libre Destino,2026-06-09,SMS,0,0,0
+4134,Libre Destino,2026-02-25,WhatsApp,0,0,0
+2414,Tarjeta Activa,2026-04-27,SMS,1,1,0
+1057,Tarjeta Activa,2026-03-16,Email,1,0,0
+3692,Extracupo,2026-09-16,Email,1,1,0
+495,Libre Destino,2026-01-06,no_especificada,0,0,0
+1022,Libre Destino,2026-02-11,Email,1,1,0
+3765,Tarjeta Activa,2026-07-26,WhatsApp,0,0,0
+2272,Tarjeta Activa,2026-07-12,WhatsApp,1,0,9165127
+1123,Libre Destino,2026-02-15,Email,1,1,0
+2500,Extracupo,2026-02-24,Email,1,1,0
+1445,Tarjeta Activa,2026-09-03,no_especificada,1,1,0
+900,Libre Destino,2026-03-26,no_especificada,0,0,0
+4623,Tarjeta Activa,2026-01-14,no_especificada,0,0,0
+3605,Extracupo,2026-09-14,Email,1,1,0
+2084,Extracupo,2026-05-01,no_especificada,1,1,0
+2438,Extracupo,2026-03-08,no_especificada,1,1,0
+532,Libre Destino,2026-06-01,Email,1,1,20676731
+2690,Tarjeta Activa,2026-04-04,Email,1,1,0
+1006,Tarjeta Activa,2026-08-11,SMS,0,0,0
+3415,Libre Destino,2026-08-20,SMS,1,0,3073106
+836,Extracupo,2026-08-27,WhatsApp,1,1,0
+453,Libre Destino,2026-01-21,SMS,0,0,0
+769,Extracupo,2026-02-27,Email,0,0,0
+2816,Tarjeta Activa,2026-02-12,no_especificada,1,0,0
+4049,Extracupo,2026-03-03,SMS,1,1,0
+4360,Libre Destino,2026-05-03,Email,0,0,0
+542,Libre Destino,2026-09-10,WhatsApp,1,1,0
+3427,Tarjeta Activa,2026-01-05,SMS,1,1,0
+4799,Tarjeta Activa,2026-04-21,WhatsApp,1,0,10787480
+1788,Libre Destino,2026-04-16,WhatsApp,1,1,0
+3801,Tarjeta Activa,2026-06-03,no_especificada,0,0,0
+2860,Tarjeta Activa,2026-02-01,Email,1,0,0
+2182,Extracupo,2026-01-09,SMS,1,1,0
+4440,Libre Destino,2026-07-10,SMS,1,0,0
+1065,Tarjeta Activa,2026-05-14,no_especificada,1,0,5666539
+2275,Extracupo,2026-02-19,WhatsApp,1,1,0
+1486,Extracupo,2026-01-14,WhatsApp,0,0,0
+520,Extracupo,2026-03-11,WhatsApp,1,1,0
+1835,Libre Destino,2026-01-23,SMS,0,0,0
+1733,Tarjeta Activa,2026-08-01,SMS,1,1,0
+1087,Extracupo,2026-02-06,Email,1,1,0
+4255,Tarjeta Activa,2026-01-09,Email,1,0,0
+1667,Tarjeta Activa,2026-09-26,no_especificada,1,0,0
+1176,Libre Destino,2026-05-01,no_especificada,1,1,0
+1114,Tarjeta Activa,2026-05-18,Email,1,0,0
+1617,Tarjeta Activa,2026-06-10,WhatsApp,1,1,0
+4734,Libre Destino,2026-07-09,SMS,1,0,0
+2884,Extracupo,2026-06-22,Email,0,0,23892955
+4209,Extracupo,2026-03-15,no_especificada,1,0,0
+1461,Libre Destino,2026-06-06,SMS,1,1,0
+307,Libre Destino,2026-05-10,no_especificada,0,0,0
+3034,Libre Destino,2026-08-19,no_especificada,1,1,0
+3902,Libre Destino,2026-05-17,SMS,1,0,0
+380,Tarjeta Activa,2026-08-05,WhatsApp,1,1,0
+8,Tarjeta Activa,2026-06-23,WhatsApp,1,0,0
